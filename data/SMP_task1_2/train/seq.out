@@ -1,115 +1,114 @@
-B-ingredient I-ingredient 0 0 0 ？
-0 0 0 ？ B-dishName I-dishName I-dishName ？
-B-ingredient I-ingredient 0 0 0 ？
+0 0 0 0 B-dishName I-dishName I-dishName 0
+B-ingredient I-ingredient 0 0 0 0
 B-dishName I-dishName I-dishName 0 0 0
-B-dishName I-dishName I-dishName I-dishName 0 0 0 ？ 0 0 0 ， 0 。
-B-dishName I-dishName I-dishName 0 0 0 ？ 0 ？
-B-ingredient I-ingredient I-ingredient 0 0 0 0 0 ？
-0 0 0 B-dishName I-dishName I-dishName 0 0 0 ？
-0 0 B-ingredient 0 0 0 0 ？
-B-dishName I-dishName I-dishName I-dishName 0 0 0 0 。
-B-ingredient I-ingredient I-ingredient 0 0 0 。
-0 0 0 0 0 0 0 0 0 0 B-dishName I-dishName I-dishName I-dishName 0 0 0 ？
+B-dishName I-dishName I-dishName I-dishName 0 0 0 0 0 0 0 0 0 0
+B-dishName I-dishName I-dishName 0 0 0 0 0 0
+B-ingredient I-ingredient I-ingredient 0 0 0 0 0 0
+0 0 0 B-dishName I-dishName I-dishName 0 0 0 0
+0 0 B-ingredient 0 0 0 0 0
+B-dishName I-dishName I-dishName I-dishName B-ingredient 0 0 0 0
+B-ingredient I-ingredient I-ingredient 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 B-dishName I-dishName I-dishName I-dishName 0 0 0 0
 B-dishName I-dishName I-dishName 0 0 0 0
 B-dishName I-dishName 0 0 0
-0 0 B-ingredient I-ingredient 0 0 0 。
-B-ingredient I-ingredient I-ingredient 0 0 0 ？
-0 0 0 B-dishName I-dishName I-dishName I-dishName 0 0 0 。
-0 0 B-ingredient I-ingredient 0 0 0 0 。
-B-ingredient I-ingredient 0 0 0 ？
-B-dishName I-dishName I-dishName ， 0 0 0 ？
-B-dishName I-dishName I-dishName 0 0 0 。
-0 ， 0 0 B-dishName I-dishName I-dishName 0 0 0 ？
-B-ingredient I-ingredient I-ingredient 0 0 0 0 0 0 0 ？
+0 0 B-ingredient I-ingredient 0 0 0 0
+B-ingredient I-ingredient I-ingredient 0 0 0 0
+0 0 0 B-dishName I-dishName I-dishName I-dishName 0 0 0 0
+0 0 B-ingredient I-ingredient 0 0 0 0 0
+B-ingredient I-ingredient 0 0 0 0
+B-dishName I-dishName I-dishName 0 0 0 0 0
+B-dishName I-dishName I-dishName 0 0 0 0
+0 0 0 0 B-dishName I-dishName I-dishName 0 0 0 0
+B-ingredient I-ingredient I-ingredient 0 0 0 0 0 0 0 0
 B-dishName I-dishName I-dishName I-dishName 0 0 0
-给 我 看 邮 件
+0 0 0 0 0
 0 0 0 0 0 0 B-name I-name
-替 我 回 复 这 封 邮 件
-我 要 回 复 这 个 邮 件
-0 0 0 0 0 0 0 B-content I-content I-content I-content I-content I-content I-content I-content
-给 我 看 新 邮 件
-我 想 打 开 新 邮 件
-我 想 要 全 部 答 复
-B-datetime_date I-datetime_date 0 0 0 0 0 0 0 0 0 0 0 ？
-0 0 0 B-datetime_time I-datetime_time 0 0 0 0 0 0 0 0 0 ？
-0 0 0 0 0 B-category I-category ？
-0 0 0 0 B-datetime_date I-datetime_date 0 0 0 0 0 0 0 ？
-0 0 0 0 B-datetime_date I-datetime_date 0 0 0
-B-datetime_date I-datetime_date I-datetime_date 0 0 0 0
-0 0 0 0 0 0 B-name I-name I-name
-0 0 0 B-datetime_date I-datetime_date 0 0 0 0 0 0 0 0 0 0 0 ？
-B-name I-name I-name I-name 0 0 0 B-name I-name I-name I-name
-0 0 0 0 0 B-datetime_time I-datetime_time 0 0 0 0 0 0 ？
-B-tvchannel I-tvchannel I-tvchannel I-tvchannel I-tvchannel B-datetime_time I-datetime_time 0 0 0 0 0 0 0 2 0
-0 0 0 B-datetime_date I-datetime_date 0 0 0 0 0 0 0 0
-0 0 0 0 B-datetime_date I-datetime_date I-datetime_date I-datetime_date I-datetime_date 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 B-name I-name 0 B-content I-content I-content I-content I-content I-content I-content I-content
+0 0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 0 0 0 0 0
+B-datetime_date I-datetime_date B-datetime_time I-datetime_time 0 0 0 B-name I-name I-name I-name I-name 0 0
+0 0 0 B-datetime_time I-datetime_time B-tvchannel I-tvchannel I-tvchannel I-tvchannel 0 0 0 0 0 0
+B-datetime_time I-datetime_time 0 0 0 B-category I-category 0
+B-tvchannel I-tvchannel I-tvchannel I-tvchannel B-datetime_date I-datetime_date B-datetime_time I-datetime_time 0 0 0 0 0 0
+B-tvchannel I-tvchannel I-tvchannel I-tvchannel B-datetime_date I-datetime_date 0 0 0
+B-datetime_date I-datetime_date I-datetime_date 0 B-name I-name I-name
+B-tvchannel I-tvchannel I-tvchannel I-tvchannel I-tvchannel I-tvchannel B-name I-name I-name
+0 0 0 B-datetime_date I-datetime_date B-datetime_time I-datetime_time B-tvchannel I-tvchannel I-tvchannel 0 0 0 B-name I-name I-name 0
+B-name I-name I-name I-name B-tvchannel I-tvchannel I-tvchannel B-name I-name I-name I-name
+B-tvchannel I-tvchannel I-tvchannel I-tvchannel I-tvchannel B-datetime_time I-datetime_time 0 0 0 0 0 0 0
+B-tvchannel I-tvchannel I-tvchannel I-tvchannel I-tvchannel B-datetime_time I-datetime_time 0 0 0 B-name I-name I-name I-name I-name 0
+0 0 0 B-datetime_date I-datetime_date B-datetime_time I-datetime_time 0 0 0 B-name I-name I-name
+B-tvchannel I-tvchannel I-tvchannel I-tvchannel B-datetime_date I-datetime_date I-datetime_date I-datetime_date I-datetime_date 0 0 0 B-name I-name I-name I-name 0
 B-tvchannel I-tvchannel I-tvchannel I-tvchannel 0 0 0 0 0
-0 0 0 0 0 0 0 B-category I-category 0 ？
-B-datetime_time I-datetime_time 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-0 0 0 0 B-datetime_date I-datetime_date 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-0 0 0 0 0 0 0 0 0 - 6 B-datetime_date I-datetime_date I-datetime_date 0 0 0 0 0 0 0 0
+B-datetime_time I-datetime_time 0 0 0 0 0 B-category I-category 0 0
+B-datetime_time I-datetime_time B-tvchannel I-tvchannel I-tvchannel I-tvchannel I-tvchannel 0 0 0 0 B-name I-name I-name I-name I-name 0
+B-tvchannel I-tvchannel I-tvchannel I-tvchannel B-datetime_date I-datetime_date B-datetime_time I-datetime_time I-datetime_time I-datetime_time I-datetime_time I-datetime_time 0 0 0 B-name I-name I-name I-name I-name I-name I-name
+0 0 0 0 B-tvchannel I-tvchannel I-tvchannel I-tvchannel I-tvchannel I-tvchannel I-tvchannel B-datetime_date I-datetime_date I-datetime_date 0 0 B-name I-name I-name I-name I-name 0
 B-tvchannel I-tvchannel I-tvchannel I-tvchannel 0 0 0 0
-0 0 B-datetime_time I-datetime_time 0 0 0 0 0
-B-datetime_date I-datetime_date 0 0 0 0 0 0 0
-0 0 0 0 B-datetime_date I-datetime_date I-datetime_date I-datetime_date 0 0 0 0 0 0
-0 0 0 0 0 0 0 0 0 B-category I-category I-category ？
-0 0 0 0 B-datetime_time I-datetime_time 0 0 0 0 0
-0 0 0 0 B-endLoc_city I-endLoc_city 0 0 0 0
-0 0 0 B-endLoc_city I-endLoc_city 0 0 0
-0 0 0 B-endLoc_city I-endLoc_city 0 0 0
-0 0 0 0 0 0 0 0 0 B-endLoc_city I-endLoc_city 0 0 0
-0 0 0 0 0 0 0 0 B-endLoc_city I-endLoc_city 0 0 0 0 0 0 0
-0 0 0 0 0 B-endLoc_city I-endLoc_city 0 0 0 0 0 0
-0 0 0 0 0 0 B-endLoc_city I-endLoc_city 0 0 0
-0 0 0 B-endLoc_city I-endLoc_city 0 0 0 0
-0 0 0 0 0 0 0 B-endLoc_city I-endLoc_city 0 0 0
-0 0 0 B-endLoc_city I-endLoc_city 0 0 0
-0 0 0 0 0 0 0 0 B-endLoc_city I-endLoc_city 0 0 0
-0 0 0 B-endLoc_city I-endLoc_city 0 0 0 。
-0 0 0 0 0 0 0 B-endLoc_city I-endLoc_city 0 0 0
-0 0 0 0 0 B-endLoc_city I-endLoc_city 0 0 0
-0 0 0 B-endLoc_city I-endLoc_city 0 0 0 0 0
-机 票
+0 0 B-datetime_time I-datetime_time 0 B-name I-name I-name I-name
+B-datetime_date I-datetime_date B-tvchannel I-tvchannel I-tvchannel I-tvchannel 0 0 0
+B-tvchannel I-tvchannel I-tvchannel I-tvchannel B-datetime_date I-datetime_date I-datetime_date I-datetime_date 0 B-name I-name I-name I-name 0
+B-tvchannel I-tvchannel I-tvchannel I-tvchannel B-datetime_time I-datetime_time 0 0 0 B-category I-category I-category 0
+B-tvchannel I-tvchannel I-tvchannel I-tvchannel B-datetime_time I-datetime_time 0 0 0 0 0
+0 B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0 0
+B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0
+B-startDate_date I-startDate_date 0 B-endLoc_city I-endLoc_city 0 0 0
+0 0 B-startDate_date I-startDate_date I-startDate_date I-startDate_date B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0
+B-startDate_date I-startDate_date I-startDate_date I-startDate_date 0 B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0 0 0 0 0
+0 0 B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0 0 0 0
+B-startDate_date I-startDate_date 0 B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0
+B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0 0
+0 0 0 B-startDate_date I-startDate_date I-startDate_date 0 B-endLoc_city I-endLoc_city 0 0 0
+B-startDate_date I-startDate_date 0 B-endLoc_city I-endLoc_city 0 0 0
+0 0 0 0 0 B-startDate_date I-startDate_date 0 B-endLoc_city I-endLoc_city 0 0 0
+B-startDate_date I-startDate_date 0 B-endLoc_city I-endLoc_city 0 0 0 0
+0 0 B-startDate_date I-startDate_date B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0
+0 0 B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0
+B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0 0 0
+0 0
 0 B-endLoc_city I-endLoc_city 0 0 0 0 0
-0 0 0 B-endLoc_city I-endLoc_city 0 0 0
-0 0 0 0 0 0 0 0 0 0 0 B-endLoc_city I-endLoc_city 0 0 0
-0 0 0 0 0 0 0 0 0 B-endLoc_city I-endLoc_city 0 0 0
-0 0 0 0 0 0 0 B-endLoc_city I-endLoc_city 0 0 0
-B-keyword I-keyword 0 0 0 0 ？
-B-keyword I-keyword I-keyword 0 0 0 0 ？
-B-keyword I-keyword I-keyword I-keyword I-keyword I-keyword 。
-B-keyword I-keyword I-keyword 0 0 0 ？
-0 0 B-keyword I-keyword I-keyword 0 0 0 ？
-0 0 B-keyword I-keyword I-keyword 0 0 0 ？
+B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0
+B-startDate_date I-startDate_date I-startDate_date I-startDate_date I-startDate_date I-startDate_date B-startLoc_city I-startLoc_city B-startLoc_poi I-startLoc_poi 0 B-endLoc_city I-endLoc_city 0 0 0
+0 0 0 0 0 0 B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0
+0 0 B-startDate_date I-startDate_date B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0
+B-keyword I-keyword 0 0 0 0 0
+B-keyword I-keyword I-keyword 0 0 0 0 0
+B-keyword I-keyword I-keyword I-keyword I-keyword I-keyword 0
+B-keyword I-keyword I-keyword 0 0 0 0
+0 0 B-keyword I-keyword I-keyword 0 0 0 0
+0 0 B-keyword I-keyword I-keyword 0 0 0 0
 B-keyword I-keyword I-keyword
-B-keyword I-keyword 0 0 0 0 ？
-B-keyword I-keyword I-keyword 0 0 0 0 ？
-B-keyword I-keyword I-keyword I-keyword I-keyword 0 0 0 0 0 ？
+B-keyword I-keyword 0 0 0 0 0
+B-keyword I-keyword I-keyword 0 0 0 0 0
+B-keyword I-keyword I-keyword I-keyword I-keyword 0 0 0 0 0 0
 B-keyword I-keyword I-keyword I-keyword
-B-keyword I-keyword I-keyword 。
+B-keyword I-keyword I-keyword 0
 B-keyword I-keyword
 B-keyword I-keyword I-keyword I-keyword I-keyword
 B-keyword I-keyword I-keyword 0 0 0 0 0
 B-keyword I-keyword I-keyword I-keyword I-keyword 0 0 0 0
-B-keyword I-keyword 。
+B-keyword I-keyword 0
 0 0 0 0 B-keyword I-keyword
 B-keyword I-keyword I-keyword 0 0 0 0 0
-0 0 0 0 0 B-datetime_date I-datetime_date I-datetime_date I-datetime_date I-datetime_date I-datetime_date I-datetime_date I-datetime_date I-datetime_date 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 B-datetime_date I-datetime_date I-datetime_date I-datetime_date I-datetime_date I-datetime_date I-datetime_date I-datetime_date I-datetime_date 0 0 0 B-name I-name I-name 0 0 0 0
 0 0 0 B-name I-name I-name 0 0 0
 0 0 B-name I-name I-name I-name 0 0 0 0 0
 B-location_province I-location_province 0 0 0
-0 0 0 0 0 0 0 0 B-endLoc_poi I-endLoc_poi I-endLoc_poi I-endLoc_poi I-endLoc_poi 0 0 0
+0 B-startLoc_city I-startLoc_city I-startLoc_city 0 B-endLoc_province I-endLoc_province I-endLoc_province B-endLoc_poi I-endLoc_poi I-endLoc_poi I-endLoc_poi I-endLoc_poi 0 0 0
 0 0 0 0 0 B-location_area I-location_area 0 0 0 0 0
 B-location_poi I-location_poi I-location_poi I-location_poi 0 0 0
 0 B-endLoc_poi I-endLoc_poi I-endLoc_poi I-endLoc_poi
-0 0 0 B-endLoc_city I-endLoc_city 0 0 0
+B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0
 B-endLoc_poi I-endLoc_poi I-endLoc_poi I-endLoc_poi 0 0 0
 0 0 0 B-endLoc_poi I-endLoc_poi I-endLoc_poi I-endLoc_poi
-0 0 0 0 0 B-endLoc_poi I-endLoc_poi I-endLoc_poi I-endLoc_poi 0 0
+B-startLoc_poi I-startLoc_poi I-startLoc_poi I-startLoc_poi 0 B-endLoc_poi I-endLoc_poi I-endLoc_poi I-endLoc_poi 0 0
 0 0 0 B-endLoc_poi I-endLoc_poi I-endLoc_poi I-endLoc_poi 0 0 0 0 0
-0 0 0 0 B-endLoc_city I-endLoc_city I-endLoc_city I-endLoc_city
+0 B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city I-endLoc_city I-endLoc_city
 0 0 0 0 0 0 B-endLoc_poi I-endLoc_poi I-endLoc_poi I-endLoc_poi 0 0 0 0 0 0 0 0
-0 0 0 B-endLoc_city I-endLoc_city
+B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city
 B-location_poi I-location_poi I-location_poi I-location_poi 0 0
 0 0 0 B-endLoc_area I-endLoc_area
 0 0 B-location_poi I-location_poi I-location_poi I-location_poi 0 0 0
@@ -117,131 +116,129 @@ B-location_poi I-location_poi I-location_poi I-location_poi 0 0
 0 0 B-location_poi I-location_poi I-location_poi I-location_poi 0 0 0
 B-endLoc_poi I-endLoc_poi I-endLoc_poi 0 0 0
 0 B-endLoc_poi I-endLoc_poi I-endLoc_poi I-endLoc_poi 0 0 0
-0 0 0 0 0 0 B-endLoc_poi I-endLoc_poi I-endLoc_poi 0 0 0 0 0 0 0 0
+0 B-startLoc_poi I-startLoc_poi I-startLoc_poi I-startLoc_poi 0 B-endLoc_poi I-endLoc_poi I-endLoc_poi 0 0 0 0 0 0 0 0
 0 B-endLoc_poi I-endLoc_poi I-endLoc_poi 0 0 0 0 0
 0 0 B-location_poi I-location_poi I-location_poi I-location_poi I-location_poi I-location_poi 0 0 0
-2 0 1 3 0 B-category I-category I-category I-category I-category I-category 0 0 0 0 0 0 0 0 0 。
-B-name I-name I-name I-name 0 0 0 0 0 。
-B-category I-category 0 0 0 0 ， 0 。
-B-name I-name 0 0 0 0 0 。
-B-category I-category 0 0 0 0 ， 0 0 0 0 0 0 ？
-B-category I-category 0 0 。
-B-name I-name I-name I-name 0 0 0 。
-B-name I-name I-name I-name 0 0 0 0 。
-0 0 0 0 0 0 0 0 0 B-content I-content I-content I-content I-content
+B-datetime_date I-datetime_date I-datetime_date I-datetime_date I-datetime_date B-category I-category I-category I-category I-category I-category 0 B-name I-name I-name I-name 0 0 0 0 0
+B-name I-name I-name I-name 0 0 0 0 0 0
+B-category I-category 0 0 B-type I-type 0 0 0
+B-name I-name 0 0 0 0 0 0
+B-category I-category 0 0 B-type I-type 0 0 0 0 0 0 0 0
+B-category I-category 0 0 0
+B-name I-name I-name I-name 0 0 0 0
+B-name I-name I-name I-name 0 0 B-type I-type 0
+0 0 0 0 B-name I-name I-name 0 0 B-content I-content I-content I-content I-content
 0 B-name I-name I-name 0 0 0
-0 0 0 0 0 0 0 0 B-content I-content I-content
-0 0 0 0 0 0 B-content I-content I-content I-content I-content I-content
+0 0 0 0 B-name I-name I-name 0 B-content I-content I-content
+0 0 0 0 B-name I-name B-content I-content I-content I-content I-content I-content
 0 0 0 0 B-name I-name
 0 0 0 B-name I-name I-name
 0 0 0 0 B-name I-name
 0 B-name I-name 0 0 0
-0 0 0 0 0 0 0 0 B-content I-content I-content I-content
-0 0 0 0 0 0 0 B-content I-content I-content I-content I-content I-content I-content I-content I-content I-content I-content I-content I-content I-content I-content I-content I-content
+0 B-name I-name 0 0 0 0 0 B-content I-content I-content I-content
+0 0 0 0 0 B-name I-name B-content I-content I-content I-content I-content I-content I-content I-content I-content I-content I-content I-content I-content I-content I-content I-content I-content
 0 B-name I-name 0 0 0
 0 0 0 0 0 B-name I-name
 0 0 0 0 B-name I-name 0 0 0 0 0
-0 0 0 0 0 0 0 0 B-content I-content I-content
+0 0 0 0 B-name I-name I-name 0 B-content I-content I-content
 0 0 0 0 B-name I-name
 0 0 0 0 B-name I-name
 0 0 0 0 0 0 B-name I-name I-name
 0 B-name I-name 0 0 0
-0 0 0 0 0 0 0 0 B-content I-content I-content I-content I-content
+0 B-name I-name I-name 0 0 0 0 B-content I-content I-content I-content I-content
 0 B-name I-name I-name 0 0 0
 0 0 0 B-song I-song I-song I-song 0 0 0
 B-song I-song I-song I-song I-song 0 0 0
-0 0 0 0 B-song I-song I-song 。
-随 便 唱 首 歌 。
-0 0 0 0 0 ， B-song I-song I-song I-song 0 0 0 。
+0 0 0 0 B-song I-song I-song 0
+0 0 0 0 0 0
+0 0 0 0 0 0 B-song I-song I-song I-song 0 0 0 0
 B-artist I-artist I-artist 0 0
 0 0 0 B-song I-song 0 0 0
-0 0 0 B-song I-song I-song I-song I-song 。
-0 0 0 B-song I-song I-song 。
+0 0 0 B-song I-song I-song I-song I-song 0
+0 0 0 B-song I-song I-song 0
 0 0 0 0 B-song I-song I-song
 0 0 B-song I-song I-song I-song I-song I-song I-song
 0 0 0 B-song I-song I-song I-song
 0 0 0 B-song I-song I-song I-song I-song
-0 0 0 0 B-song I-song I-song I-song 0 。
-0 0 0 B-artist I-artist I-artist 0 0 。
-来 点 歌 听 听
-0 0 0 B-song I-song I-song I-song I-song 。
-0 0 0 0 0 B-song I-song I-song I-song I-song 。
+0 0 0 0 B-song I-song I-song I-song 0 0
+0 0 0 B-artist I-artist I-artist 0 0 0
+0 0 0 0 0
+0 0 0 B-song I-song I-song I-song I-song 0
+0 0 0 0 0 B-song I-song I-song I-song I-song 0
 0 0 0 B-song I-song I-song 0 0
 B-artist I-artist I-artist 0 0
-0 0 B-song I-song I-song 。
+0 0 B-song I-song I-song 0
 0 0 B-song I-song I-song
-0 ， B-category I-category 0 0 。
-B-location_city I-location_city 0 0 。
+0 0 B-category I-category 0 0 0
+B-location_city I-location_city 0 0 0
 0 0 0 0 0 0 0 0 B-keyword I-keyword I-keyword 0 0 0
-B-media I-media I-media I-media 0 0 。
+B-media I-media I-media I-media 0 0 0
 B-keyword I-keyword I-keyword 0 0
-k 新 闻 想 听 新 闻 。
-t 我 要 听 新 闻 。
-B-location_city I-location_city 0 0 。
-0 0 0 B-location_city I-location_city 0 0 。
-0 0 0 0 0 B-category I-category 0 0 ？
-0 0 0 0 B-datetime_date I-datetime_date 0 0 0 0 0 0
-搜 索 最 新 新 闻 。
-该 我 读 新 闻 。
-0 0 0 0 0 0 0 0 B-datetime_date I-datetime_date 0 0 0 。
-0 0 0 0 0 B-datetime_date I-datetime_date 0 0 0 。
-么 ， 哥 来 一 下 最 新 的 新 闻 。
-哦 ， 听 新 闻 。
-0 0 0 0 0 0 0 B-category I-category 0 0 。
-等 ， 请 播 报 新 闻
-0 0 0 0 0 0 B-category I-category 0 0
+B-location_city I-location_city 0 0 0
+0 0 0 B-location_city I-location_city 0 0 0
+B-datetime_time I-datetime_time 0 0 0 B-category I-category 0 0 0
+0 0 0 0 B-datetime_date I-datetime_date 0 B-keyword I-keyword I-keyword 0 0
+0 0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0 0 0 B-datetime_date I-datetime_date 0 0 0 0
+0 0 0 0 0 B-datetime_date I-datetime_date 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 B-datetime_date I-datetime_date 0 B-category I-category 0 0 0
+0 0 0 0 0 0 0
+0 0 0 B-popularity I-popularity 0 B-category I-category 0 0
 0 0 0 B-author I-author 0 0 0
 0 0 0 B-category I-category I-category I-category 0 0
 0 0 0 B-category I-category I-category I-category 0 0
 0 0 B-name I-name I-name I-name
-0 0 B-author I-author 0 0 0 0 0
+0 0 B-author I-author 0 B-category I-category 0 0
 0 0 0 0 0 0 B-popularity I-popularity 0 0 0
 0 0 0 B-category I-category 0 0
 0 0 0 B-dynasty 0 0 0 0 0 0
 0 0 0 B-author I-author I-author 0 0
 0 0 0 B-author I-author I-author 0 0
-0 0 0 0 B-author I-author 。
-0 0 0 0 B-author I-author I-author 0 0 。
-B-keyword I-keyword I-keyword I-keyword ， 0 0 0 0 0 0 ？
-0 0 B-dynasty 0 0 ！
-给 我 背 一 首 诗 。
-0 0 0 0 B-author I-author 0 0 0 ！
-0 0 B-dynasty 0 。
-B-keyword I-keyword I-keyword I-keyword 0 0 0 0 。
-0 0 0 0 B-name I-name I-name 。
-0 0 B-author I-author 0 0 0 0 。
-B-keyword I-keyword I-keyword I-keyword I-keyword 0 0 0 0 0 0 0 ？
-B-dynasty 0 0 。
-0 0 B-author I-author 0 0 0 0 0 。
-B-keyword I-keyword I-keyword I-keyword I-keyword 0 0 0 0 0 0 0 ？
-0 0 B-dynasty 0 0 0 0 。
-0 0 ， 0 0 0 B-author I-author I-author 0 0 。
-B-keyword I-keyword I-keyword I-keyword I-keyword 0 0 0 0 0 0 ？
-0 0 0 B-name I-name I-name 。
-0 0 0 B-author I-author 0 0 0 0 0 。
-0 0 B-author I-author 0 0 0 0 0 。
-0 0 B-dynasty 0 0 0 0 0 0 0 。
-0 0 B-author I-author I-author I-author 0 0 。
-0 0 0 B-name I-name I-name 。
-B-keyword I-keyword I-keyword I-keyword I-keyword 0 0 0 0 0 0 ？
-0 0 B-author I-author 0 0 0 ？
-0 0 0 B-author I-author 0 0 0
+B-dynasty 0 0 0 B-author I-author 0
+0 0 0 0 B-author I-author I-author 0 0 0
+B-keyword I-keyword I-keyword I-keyword 0 B-queryField I-queryField I-queryField 0 0 0 0
+0 0 B-dynasty 0 0 0
+0 0 0 0 0 0 0
+0 0 0 0 B-author I-author 0 0 0 0
+0 0 B-dynasty 0 0
+B-keyword I-keyword I-keyword I-keyword 0 B-queryField I-queryField I-queryField 0
+0 0 0 0 B-name I-name I-name 0
+0 0 B-author I-author 0 B-name I-name I-name 0
+B-keyword I-keyword I-keyword I-keyword I-keyword 0 B-queryField I-queryField I-queryField 0 0 0 0
+B-dynasty 0 0 0
+0 0 B-author I-author 0 0 0 0 0 0
+B-keyword I-keyword I-keyword I-keyword I-keyword 0 B-queryField I-queryField I-queryField 0 0 0 0
+0 0 B-dynasty 0 0 0 0 0
+0 0 0 0 0 0 B-author I-author I-author 0 0 0
+B-keyword I-keyword I-keyword I-keyword I-keyword B-queryField I-queryField I-queryField 0 0 0 0
+0 0 0 B-name I-name I-name 0
+0 0 0 B-author I-author 0 0 0 0 0 0
+0 0 B-author I-author 0 0 B-name I-name I-name 0
+0 0 B-dynasty 0 0 0 0 B-name I-name I-name 0
+0 0 B-author I-author I-author I-author 0 0 0
+0 0 0 B-name I-name I-name 0
+B-keyword I-keyword I-keyword I-keyword I-keyword B-queryField I-queryField I-queryField 0 0 0 0
+0 0 B-author I-author 0 0 0 0
+0 B-dynasty 0 B-author I-author B-name I-name I-name
 0 0 B-dynasty 0
-0 0 0 0 B-author I-author 0 0 0 。
-B-author I-author I-author 0 0 0 。
-0 0 0 0 B-name I-name I-name 。
-0 0 0 0 0 0 B-author I-author 0 0 0 ？
+0 0 0 0 B-author I-author 0 0 0 0
+B-author I-author I-author 0 0 0 0
+0 0 0 0 B-name I-name I-name 0
+0 0 0 0 0 0 B-author I-author 0 0 0 0
 0 0 B-name I-name I-name I-name I-name
-0 0 0 0 0 B-category I-category 0 0 0 。
-0 0 B-category I-category 0 0 0 0 。
-0 0 0 0 0 B-category I-category 。
-0 0 0 B-category I-category 0 0 0 0 0 ！
-0 0 B-category I-category 0 0 0 。
-0 0 0 0 B-category I-category ， 0 ！
-0 0 0 0 B-category I-category 0 ！
-0 0 B-category I-category 0 ， 0 。
-0 0 ， 0 B-category I-category 。
-B-category I-category I-category I-category 。
+0 0 0 0 0 B-category I-category 0 0 0 0
+0 0 B-category I-category 0 0 0 0 0
+0 0 0 0 0 B-category I-category 0
+0 0 0 B-category I-category 0 0 0 0 0 0
+0 0 B-category I-category 0 0 0 0
+0 0 0 0 B-category I-category 0 0 0
+0 0 0 0 B-category I-category 0 0
+0 0 B-category I-category 0 0 0 0
+0 0 0 0 B-category I-category 0
+B-category I-category I-category I-category 0
 B-name I-name I-name I-name 0 0
 B-name I-name I-name I-name 0 0
 B-name I-name I-name I-name 0 0
@@ -250,7 +247,7 @@ B-name I-name I-name I-name 0 0 0 0 0
 0 0 0 0 B-name I-name I-name I-name 0 0 0 0 0 0 0
 B-name I-name I-name I-name 0 0 0
 0 0 B-name I-name I-name 0 0
-B-name I-name I-name I-name 0 0 0 0 0 0 a
+B-name I-name I-name I-name 0 0 0 0 0 0 0
 0 0 B-name I-name I-name I-name 0 0 0
 0 0 0 0 B-name I-name I-name I-name 0 0 0
 0 0 B-name I-name I-name 0 0 0
@@ -275,53 +272,53 @@ B-name I-name I-name I-name 0 0 0 0 0 0
 0 0 0 0 B-name I-name
 0 0 0 B-name I-name I-name
 0 B-name I-name I-name 0 0 0
-0 0 0 0 B-name I-name I-name I-name I-name I-name I-name I-name I-name I-name
-0 0 0 0 0 B-endLoc_city I-endLoc_city 0 0 0 0
-0 0 0 0 0 0 0 0 B-endLoc_city I-endLoc_city 0 0 0 0
-0 0 0 0 0 B-endLoc_city I-endLoc_city 0 0 0
-0 0 0 0 B-endLoc_city I-endLoc_city 0 0 0 0 0 0 0
-0 0 0 0 0 0 0 0 0 B-category I-category 0 0 0
-0 0 0 0 0 0 0 B-endLoc_city I-endLoc_city 0 0 0 0
-0 0 0 0 0 0 B-endLoc_city I-endLoc_city 0 0 0 0
-0 0 0 0 0 B-endLoc_city I-endLoc_city 0 0 0 0
-0 0 0 0 B-endLoc_city I-endLoc_city 0 0 0 0
-0 0 0 B-endLoc_city I-endLoc_city 0 0 0
-0 0 0 0 0 0 0 B-endLoc_city I-endLoc_city 0 0 0
-0 0 0 0 0 0 0 0 B-endLoc_city I-endLoc_city 0 0 0
-0 0 0 0 B-endLoc_city I-endLoc_city 0 0 0
-0 0 0 B-endLoc_city I-endLoc_city 0 0 0 0 0 0 0
-0 0 0 0 B-endLoc_city I-endLoc_city 0 0 0 0
-0 0 0 B-endLoc_city I-endLoc_city 0 0 0 0
-0 0 0 0 0 B-endLoc_city I-endLoc_city 0 0 0 0
-0 0 0 0 0 0 0 0 0 0 B-endLoc_city I-endLoc_city 0 0 0 0
-0 0 0 0 0 0 0 0 0 B-endLoc_city I-endLoc_city 0 0 0 0 0 0
-0 0 0 B-endLoc_city I-endLoc_city I-endLoc_city I-endLoc_city 0 0 0 0
-0 0 0 0 0 B-endLoc_city I-endLoc_city 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0 0
+0 0 0 0 0 B-startDate_date I-startDate_date 0 B-endLoc_city I-endLoc_city 0 0 0 0
+0 0 B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0
+0 B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0 0 0 0 0
+0 0 0 0 B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city B-category I-category 0 0 0
+0 0 0 0 B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0 0
+0 0 0 B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0 0
+0 0 B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0 0
+B-startLoc_city I-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0 0
+B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0
+0 0 0 0 B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0
+0 0 0 0 0 B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0
+B-startDate_date I-startDate_date I-startDate_date 0 B-endLoc_city I-endLoc_city 0 0 0
+B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0 0 0 0 0
+0 B-startLoc_area I-startLoc_area 0 B-endLoc_city I-endLoc_city 0 0 0 0
+B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0 0
+0 0 B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0 0
+0 0 0 B-startDate_date I-startDate_date B-startDate_time I-startDate_time B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0 0
+0 0 0 0 0 0 B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0 0 0 0
+B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city I-endLoc_city I-endLoc_city 0 0 0 0
+0 0 B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0
 0 B-endLoc_city I-endLoc_city 0 0 0
-0 0 0 B-endLoc_city I-endLoc_city 0 0 0 0 0
-0 0 0 0 0 B-endLoc_area I-endLoc_area 0 0 0
-B-content I-content I-content I-content I-content I-content I-content 0 0 0 0
+B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0 0 0
+B-startDate_date I-startDate_date B-startLoc_city I-startLoc_city 0 B-endLoc_area I-endLoc_area 0 0 0
+B-content I-content I-content I-content I-content I-content I-content 0 B-target I-target 0
 0 0 B-content I-content I-content I-content
 0 0 B-content I-content
-B-content I-content I-content I-content I-content 0 0 0 0 0
-B-content 0 0 0 0 0 0
-B-content I-content I-content I-content I-content I-content I-content 0 0 0 0 0
+B-content I-content I-content I-content I-content B-target I-target 0 0 0
+B-content 0 B-target I-target 0 0 0
+B-content I-content I-content I-content I-content I-content I-content B-target I-target 0 0 0
 0 0 B-content I-content I-content I-content I-content
-B-content I-content I-content I-content I-content I-content 0 0 0 0 0 0
-B-content I-content I-content I-content I-content I-content 0 0 0 0 0 0
-B-content I-content I-content I-content I-content I-content I-content I-content I-content I-content I-content I-content I-content 0 0 0 0 0
-B-content I-content 0 0 0 0 0
-B-content I-content I-content I-content I-content I-content I-content 0 0 0 0 0 0
-B-content I-content I-content 0 0 0 0 0 0
-B-content I-content I-content I-content 0 0 0 0 0 0
+B-content I-content I-content I-content I-content I-content 0 B-target I-target 0 0 0
+B-content I-content I-content I-content I-content I-content 0 B-target I-target 0 0 0
+B-content I-content I-content I-content I-content I-content I-content I-content I-content I-content I-content I-content I-content B-target I-target 0 0 0
+B-content I-content 0 0 0 B-target I-target
+B-content I-content I-content I-content I-content I-content I-content 0 B-target I-target 0 0 0
+B-content I-content I-content 0 B-target I-target 0 0 0
+B-content I-content I-content I-content 0 B-target I-target 0 0 0
 0 0 B-content I-content
 0 0 B-content I-content I-content
-B-content I-content 0 0 0 0 0
-B-content 0 0 0 0 0
-B-content I-content I-content 0 0 0 0 0
-B-content I-content I-content I-content I-content I-content I-content I-content 0 0 0 0 0 0
-B-content I-content 0 0 0 0 0 0
-0 0 B-name I-name I-name
+B-content I-content B-target I-target 0 0 0
+B-content B-target I-target 0 0 0
+B-content I-content I-content B-target I-target 0 0 0
+B-content I-content I-content I-content I-content I-content I-content I-content 0 B-target I-target 0 0 0
+B-content I-content 0 B-target I-target 0 0 0
+B-resolution I-resolution B-name I-name I-name
 B-name I-name I-name
 B-name I-name I-name I-name I-name I-name
 0 0 B-name I-name I-name I-name I-name I-name 0 0
@@ -332,25 +329,25 @@ B-name I-name I-name I-name I-name I-name
 B-tvchannel I-tvchannel I-tvchannel I-tvchannel I-tvchannel I-tvchannel I-tvchannel 0 0 0 0 0
 0 B-name I-name I-name I-name
 0 0 0 B-name I-name I-name I-name I-name I-name
-0 0 B-name I-name I-name I-name I-name I-name I-name I-name I-name
+B-resolution I-resolution B-name I-name I-name I-name I-name I-name I-name I-name I-name
 B-name I-name I-name I-name
 B-name I-name I-name I-name I-name
-B-name I-name I-name I-name 0 0
+B-name I-name I-name I-name B-resolution I-resolution
 0 0 B-name I-name I-name I-name
 0 0 0 B-name I-name I-name I-name
-B-name I-name I-name 0 0
+B-name I-name I-name B-resolution I-resolution
 B-name I-name I-name I-name I-name I-name
 B-name I-name I-name I-name
 B-name I-name I-name I-name I-name I-name
-0 0 2 0 0 5 0 0 0 B-category I-category
-0 0 B-category I-category 0 0
-B-artist I-artist I-artist 0 0 0 0
-0 c 0 0 0 B-name I-name I-name I-name
-B-area I-area 0 0 0 0 0 0
+0 0 B-datetime_date I-datetime_date I-datetime_date I-datetime_date I-datetime_date B-tag I-tag B-category I-category
+0 0 B-category I-category B-name I-name
+B-artist I-artist I-artist 0 B-name I-name I-name
+0 0 0 0 0 B-name I-name I-name I-name
+B-area I-area B-category I-category B-name I-name I-name I-name
 0 0 B-name I-name I-name
 B-name I-name I-name I-name
-B-category I-category 0 0 0 0
-0 0 0 0 0 B-category I-category
+B-category I-category B-name I-name I-name I-name
+B-name I-name I-name I-name 0 B-category I-category
 B-name I-name I-name I-name I-name
 0 B-name I-name I-name
 B-name I-name I-name
@@ -358,31 +355,31 @@ B-name I-name I-name
 B-name I-name I-name B-name I-name I-name
 B-name I-name I-name
 B-name I-name I-name 0 0
-0 0 0 0 0 0 0 0 0 B-category I-category
+0 0 0 B-name I-name I-name I-name B-tag I-tag B-category I-category
 0 0 0 B-name I-name I-name I-name 0 0 0 0 0 0
 0 0 0 0 0 B-name I-name
-0 0 0 B-category I-category
-0 0 B-category I-category I-category
+0 B-name I-name B-category I-category
+B-name I-name B-category I-category I-category
 0 0 0 0 0 B-category I-category
-0 c 0 0 0 0 0 B-name I-name 0 0
+0 0 0 0 0 0 0 B-name I-name 0 0
 0 0 0 B-name I-name I-name 0
 B-name I-name I-name I-name I-name
 B-name I-name I-name I-name
-0 0 B-category
+B-tag I-tag B-category
 B-name I-name I-name I-name 0 0
-0 0 B-category
-B-area I-area 0 0 0 0 0 0
+B-tag I-tag B-category
+B-area I-area B-category I-category B-name I-name I-name I-name
 B-name I-name I-name I-name I-name 0
 0 B-name I-name I-name I-name
 B-name I-name I-name I-name
 B-name I-name I-name I-name I-name
-0 0 B-category I-category
+B-tag I-tag B-category I-category
 0 0 0 B-name I-name I-name I-name
-0 0 0 0 0 B-category
+B-name I-name I-name B-tag I-tag B-category
 B-name I-name I-name I-name
 B-name I-name I-name I-name
-0 0 0 B-category I-category 0 0 0 0
-现 在 温 度 几 度
+0 0 0 B-category I-category B-name I-name I-name I-name
+0 0 0 0 0 0
 0 0 B-name I-name I-name I-name
 0 0 B-name I-name I-name 0 0
 0 0 0 0 B-name I-name
@@ -396,7 +393,7 @@ B-name I-name I-name 0 0
 0 0 0 0 0 B-name I-name I-name
 0 0 B-name I-name
 0 0 B-name I-name 0
-开 网 页
+0 0 0
 0 0 B-name I-name I-name 0 0
 0 0 0 0 B-name I-name I-name
 0 0 B-name I-name I-name I-name I-name
@@ -416,192 +413,192 @@ B-name I-name I-name I-name I-name I-name I-name I-name I-name
 0 0 0 0 B-name I-name
 0 0 B-name I-name I-name I-name
 0 0 B-name I-name
-0 0 0 B-Dest I-Dest 0 ， 0 。
-0 0 0 0 B-Dest I-Dest 0 0 0 。
-0 0 0 0 B-Dest I-Dest 0 0 0 。
-0 0 0 0 B-Dest I-Dest 0 0 0 。
-0 0 0 0 B-Dest I-Dest 0 0 0 。
-0 0 0 0 0 0 0 0 B-Dest I-Dest 0 0 0 。
-0 B-endLoc_city I-endLoc_city 0 0 0 0 0 ？
-0 0 0 0 0 0 0 0 B-Dest I-Dest 0 0 0 。
+B-Src I-Src 0 B-Dest I-Dest 0 0 0 0
+0 B-Src I-Src 0 B-Dest I-Dest 0 0 0 0
+0 B-Src I-Src 0 B-Dest I-Dest 0 0 0 0
+0 B-Src I-Src 0 B-Dest I-Dest 0 0 0 0
+0 B-Src I-Src 0 B-Dest I-Dest 0 0 0 0
+0 0 0 0 0 B-Src I-Src 0 B-Dest I-Dest 0 0 0 0
+0 B-endLoc_city I-endLoc_city 0 0 0 0 0 0
+0 0 0 0 0 B-Src I-Src 0 B-Dest I-Dest 0 0 0 0
 B-theatre I-theatre I-theatre I-theatre I-theatre I-theatre 0 0 0 0 0 0 0
 0 0 B-theatre I-theatre I-theatre I-theatre I-theatre 0 0 0 0 0
 B-theatre I-theatre I-theatre I-theatre I-theatre 0 0 0 0 0 0 0
-0 0 B-film I-film I-film 0 0 。
-附 近 有 没 有 电 影 院 啊 ？
-那 你 告 诉 我 最 新 的 热 门 电 影 吧 。
+0 0 B-film I-film I-film 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0
 B-theatre I-theatre I-theatre I-theatre I-theatre 0 0 0 0 0 0 0 0 0 0
-0 B-name I-name 0 0 0 0 0 0 0 0 0 0 0 0
-0 B-name I-name 0 0 0 0 0 0 0
-0 B-name I-name 0 0 0 0 0 0 0 0 0
-0 B-name I-name 0 0 0 0 0 0 0 0 0
-0 B-name I-name I-name 0 0 0 0 0 0 0
+0 B-name I-name 0 0 0 0 0 0 0 0 B-receiver I-receiver I-receiver I-receiver
+0 B-name I-name 0 0 0 0 0 B-receiver I-receiver
+0 B-name I-name 0 0 0 0 0 0 0 B-receiver I-receiver
+0 B-name I-name 0 0 0 0 0 0 0 B-receiver I-receiver
+0 B-name I-name I-name 0 0 0 0 0 B-receiver I-receiver
 B-name I-name 0 0 0 0 0 0 0 0
-0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 B-code I-code I-code I-code I-code I-code I-code I-code I-code I-code I-code
-B-dishName I-dishName I-dishName 。
-B-dishName I-dishName I-dishName I-dishName 0 0 0 0 ？
-0 B-dishName I-dishName 0 0 0 ？
-0 0 B-dishName I-dishName I-dishName 0 0 0 。
-B-ingredient I-ingredient 0 0 0 。
-B-dishName I-dishName I-dishName 0 0 0 ？
-0 0 0 0 0 B-dishName I-dishName I-dishName I-dishName 0 0 0 ？
-0 0 0 B-dishName I-dishName I-dishName 0 0 0 0 ？
+0 0 0 0 0 0 0 0 0 B-name I-name I-name 0 0 0 B-code I-code I-code I-code I-code I-code I-code I-code I-code I-code I-code
+B-dishName I-dishName I-dishName 0
+B-dishName I-dishName I-dishName I-dishName 0 0 0 0 0
+0 B-dishName I-dishName 0 0 0 0
+0 0 B-dishName I-dishName I-dishName 0 0 0 0
+B-ingredient I-ingredient 0 0 0 0
+B-dishName I-dishName I-dishName 0 0 0 0
+0 0 0 0 0 B-dishName I-dishName I-dishName I-dishName 0 0 0 0
+0 0 0 B-dishName I-dishName I-dishName 0 0 0 0 0
 B-ingredient I-ingredient 0 0 0
-B-dishName I-dishName I-dishName I-dishName ， 0 。
 B-dishName I-dishName I-dishName I-dishName 0 0 0
-0 0 B-ingredient 0 0 0 ？
-0 0 0 B-ingredient I-ingredient ？
-0 0 B-dishName I-dishName 。
+B-dishName I-dishName I-dishName I-dishName 0 0 0
+0 0 B-ingredient 0 0 0 0
+0 0 0 B-ingredient I-ingredient 0
+0 0 B-dishName I-dishName 0
 0 0 0 B-dishName I-dishName I-dishName I-dishName
-B-dishName I-dishName I-dishName 0 0 0 0 ？
+B-dishName I-dishName I-dishName 0 0 0 0 0
 B-dishName I-dishName I-dishName 0 0 0
-0 0 0 0 B-ingredient I-ingredient ？
-0 B-ingredient 0 0 0 ？
-0 0 0 0 0 0 B-dishName I-dishName I-dishName I-dishName 。
-B-dishName I-dishName I-dishName 。
-B-dishName I-dishName 0 0 0 0 ？
-B-dishName I-dishName I-dishName I-dishName 0 0 0 ？
-0 0 0 B-dishName I-dishName I-dishName
-B-ingredient I-ingredient 0 0 0 0 0 ？
-0 ， B-ingredient I-ingredient 0 0 0 ？
-B-ingredient I-ingredient 0 0 0 0 0 0 ？
-B-dishName I-dishName I-dishName I-dishName I-dishName 0 0 0 ？
-0 0 0 0 B-dishName I-dishName 0 0 0 。
-B-ingredient I-ingredient I-ingredient 0 0 0 。
-0 0 B-dishName I-dishName I-dishName I-dishName 0 0 0 ？
-0 B-dishName I-dishName I-dishName 。
-B-dishName I-dishName I-dishName 0 0 0 ？
-0 0 B-ingredient I-ingredient I-ingredient 0 0 0 。
-B-ingredient I-ingredient I-ingredient 0 0 0 0 。
-B-ingredient I-ingredient 0 0 0 0 0 0 ？
-B-dishName I-dishName I-dishName 0 0 0 ？ 0 ？
-B-ingredient I-ingredient 0 0 0 ？
-0 0 ， B-dishName I-dishName I-dishName I-dishName I-dishName 0 0 0 ？
-0 0 0 B-dishName I-dishName I-dishName I-dishName 。
-B-ingredient 0 0 0
-B-dishName I-dishName I-dishName 0 0 0 0 ？
-B-dishName I-dishName I-dishName I-dishName 0 0 。
+0 0 0 0 B-ingredient I-ingredient 0
+0 B-ingredient 0 0 0 0
+0 0 0 0 0 0 B-dishName I-dishName I-dishName I-dishName 0
+B-dishName I-dishName I-dishName 0
+B-dishName I-dishName 0 0 0 0 0
 B-dishName I-dishName I-dishName I-dishName 0 0 0 0
-B-dishName I-dishName I-dishName I-dishName 0 ， 0
-B-dishName I-dishName I-dishName 0 0 0 ？
-0 0 B-dishName I-dishName I-dishName 0 0 0 ？
-B-dishName I-dishName I-dishName 0 0 0 ？
-B-ingredient I-ingredient ， 0 0 0 0 0 。
-0 0 0 B-dishName I-dishName I-dishName 0 0 。
-B-dishName I-dishName I-dishName 0 0 0 ？
-0 B-dishName I-dishName 0 0 0 ？
-B-ingredient I-ingredient 0 0 0 ？
+0 0 0 B-dishName I-dishName I-dishName
+B-ingredient I-ingredient 0 0 0 0 0 0
+0 0 B-ingredient I-ingredient 0 0 0 0
+B-ingredient I-ingredient 0 0 0 0 0 0 0
+B-dishName I-dishName I-dishName I-dishName I-dishName 0 0 0 0
+0 0 0 0 B-dishName I-dishName 0 0 0 0
+B-ingredient I-ingredient I-ingredient 0 0 0 0
+0 0 B-dishName I-dishName I-dishName I-dishName 0 0 0 0
+0 B-dishName I-dishName I-dishName 0
+B-dishName I-dishName I-dishName 0 0 0 0
+0 0 B-ingredient I-ingredient I-ingredient 0 0 0 0
+B-ingredient I-ingredient I-ingredient 0 0 0 0 0
+B-ingredient I-ingredient 0 0 0 0 0 0 0
+B-dishName I-dishName I-dishName 0 0 0 0 0 0
+B-ingredient I-ingredient 0 0 0 0
+0 0 0 B-dishName I-dishName I-dishName I-dishName I-dishName 0 0 0 0
+0 0 0 B-dishName I-dishName I-dishName I-dishName 0
+B-ingredient 0 0 0
+B-dishName I-dishName I-dishName 0 0 0 0 0
+B-dishName I-dishName I-dishName I-dishName 0 0 0
+B-dishName I-dishName I-dishName I-dishName 0 0 0 0
+B-dishName I-dishName I-dishName I-dishName 0 0 0
+B-dishName I-dishName I-dishName 0 0 0 0
+0 0 B-dishName I-dishName I-dishName 0 0 0 0
+B-dishName I-dishName I-dishName 0 0 0 0
+B-ingredient I-ingredient 0 0 0 0 0 0 0
+0 0 0 B-dishName I-dishName I-dishName 0 0 0
+B-dishName I-dishName I-dishName 0 0 0 0
+0 B-dishName I-dishName 0 0 0 0
+B-ingredient I-ingredient 0 0 0 0
 0 0 0 B-dishName I-dishName
 0 0 0 0 0 B-dishName I-dishName I-dishName I-dishName I-dishName
-0 B-dishName I-dishName I-dishName I-dishName 0 0 0 ？
-B-ingredient I-ingredient 0 0 0 0 0 ？
+0 B-dishName I-dishName I-dishName I-dishName 0 0 0 0
+B-ingredient I-ingredient 0 0 0 0 0 0
 B-dishName I-dishName I-dishName 0 0 0 0
 B-dishName I-dishName
-0 0 0 B-dishName I-dishName I-dishName I-dishName ？
-B-dishName I-dishName I-dishName I-dishName I-dishName 。
+0 0 0 B-dishName I-dishName I-dishName I-dishName 0
+B-dishName I-dishName I-dishName I-dishName I-dishName 0
 0 0 0 B-ingredient I-ingredient
-B-dishName I-dishName I-dishName I-dishName 0 0 0 ？
-B-dishName I-dishName I-dishName 0 0 0 ？
-B-dishName I-dishName 0 ！
+B-dishName I-dishName I-dishName I-dishName 0 0 0 0
+B-dishName I-dishName I-dishName 0 0 0 0
+B-dishName I-dishName 0 0
 B-dishName I-dishName I-dishName I-dishName 0 0 0
 B-ingredient I-ingredient 0 0 0 0
 0 0 B-dishName I-dishName I-dishName I-dishName I-dishName 0 0 0 0 0
-0 0 0 0 0 0 B-dishName I-dishName I-dishName I-dishName 。
-B-dishName I-dishName 。
+0 0 0 0 0 0 B-dishName I-dishName I-dishName I-dishName 0
+B-dishName I-dishName 0
 B-dishName I-dishName I-dishName 0 0 0 0
-0 B-dishName I-dishName 。
-0 B-ingredient I-ingredient 0 0 0 ？
-0 0 0 B-dishName I-dishName I-dishName I-dishName 。
-B-ingredient I-ingredient 0 0 0 ？
-B-dishName I-dishName I-dishName I-dishName 0 0 0 0 ？
+0 B-dishName I-dishName 0
+0 B-ingredient I-ingredient 0 0 0 0
+0 0 0 B-dishName I-dishName I-dishName I-dishName 0
+B-ingredient I-ingredient 0 0 0 0
+B-dishName I-dishName I-dishName I-dishName 0 0 0 0 0
 B-dishName I-dishName I-dishName I-dishName I-dishName 0 0 0 0
-B-dishName I-dishName I-dishName 0 0 0 0 ？
-0 B-ingredient 0 0 0 0 0 ？
+B-dishName I-dishName I-dishName 0 0 0 0 0
+0 B-ingredient 0 0 0 0 0 0
 0 0 B-dishName I-dishName 0 0 0
 B-dishName I-dishName I-dishName I-dishName I-dishName I-dishName I-dishName
-B-ingredient I-ingredient I-ingredient I-ingredient 0 0 0 。
-0 0 ， 0 0 B-dishName I-dishName I-dishName 0 0 0 ？
-我 想 写 一 个 邮 件
-我 想 转 发 这 封 邮 件
-发 邮 件
-我 要 写 一 条 邮 件
-我 想 全 部 答 复
-替 我 回 复 邮 件
-开 启 邮 件
-给 我 写 一 封 邮 件
+B-ingredient I-ingredient I-ingredient I-ingredient 0 0 0 0
+0 0 0 0 0 B-dishName I-dishName I-dishName 0 0 0 0
+0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0
+0 0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0
+0 0 0 0 0 0 0
 B-tvchannel I-tvchannel I-tvchannel I-tvchannel I-tvchannel 0 0 0 0
 B-tvchannel I-tvchannel I-tvchannel I-tvchannel I-tvchannel I-tvchannel 0 0 0
 B-tvchannel I-tvchannel I-tvchannel I-tvchannel 0 0 0 0 0
-0 0 0 B-datetime_date I-datetime_date 0 0 0 0 0
-B-datetime_date I-datetime_date 0 0 0 0 0 0 0 0 0 0 0 0
+B-tvchannel I-tvchannel I-tvchannel B-datetime_date I-datetime_date 0 0 0 0 0
+B-datetime_date I-datetime_date B-datetime_time I-datetime_time B-tvchannel I-tvchannel I-tvchannel I-tvchannel 0 0 0 0 0 0
 B-tvchannel I-tvchannel I-tvchannel I-tvchannel 0 0 0
-B-tvchannel I-tvchannel I-tvchannel I-tvchannel I-tvchannel I-tvchannel I-tvchannel I-tvchannel I-tvchannel 0 0 。
-0 0 0 0 B-category I-category 0 ？
-B-datetime_time I-datetime_time 0 0 0 0 0 0 0 0 0 0
+B-tvchannel I-tvchannel I-tvchannel I-tvchannel I-tvchannel I-tvchannel I-tvchannel I-tvchannel I-tvchannel 0 0 0
+B-datetime_date I-datetime_date 0 0 B-category I-category 0 0
+B-datetime_time I-datetime_time B-tvchannel I-tvchannel I-tvchannel I-tvchannel 0 0 0 0 0 0
 B-tvchannel I-tvchannel I-tvchannel I-tvchannel I-tvchannel I-tvchannel 0 0 0 0
-0 0 0 0 B-datetime_time I-datetime_time 0 0 0 0
-0 0 0 0 B-datetime_time I-datetime_time 0 0 0 0 0 0 0 ？
-0 0 0 0 0 0 0 B-category I-category ？
+B-tvchannel I-tvchannel I-tvchannel I-tvchannel B-datetime_time I-datetime_time 0 0 0 0
+B-tvchannel I-tvchannel I-tvchannel I-tvchannel B-datetime_time I-datetime_time 0 B-name I-name I-name I-name I-name 0 0
+0 0 B-datetime_time I-datetime_time 0 0 0 B-category I-category 0
 B-tvchannel I-tvchannel I-tvchannel I-tvchannel I-tvchannel 0 0 0 0 0 0
 B-tvchannel I-tvchannel I-tvchannel I-tvchannel 0 0 0 0 0 0
-0 0 0 0 B-datetime_date I-datetime_date 0 0 0 0 0
-B-datetime_date I-datetime_date 0 0 0 0 0 0 0 0
-0 0 0 0 B-datetime_date I-datetime_date 0 0 0 0 0
+B-tvchannel I-tvchannel I-tvchannel I-tvchannel B-datetime_date I-datetime_date 0 B-name I-name I-name I-name
+B-datetime_date I-datetime_date B-tvchannel I-tvchannel I-tvchannel I-tvchannel 0 0 0 0
+0 0 0 0 B-datetime_date I-datetime_date 0 B-name I-name I-name I-name
 0 0 0 0 B-tvchannel I-tvchannel I-tvchannel I-tvchannel
-B-datetime_date I-datetime_date I-datetime_date I-datetime_date I-datetime_date 0 0 0 0 0 0 0
-0 0 B-tvchannel I-tvchannel I-tvchannel I-tvchannel 0 0 0 0 0 。
-0 0 0 0 B-datetime_date I-datetime_date 0 0 0 0 0
+B-datetime_date I-datetime_date I-datetime_date I-datetime_date I-datetime_date B-tvchannel I-tvchannel I-tvchannel I-tvchannel 0 0 0
+0 0 B-tvchannel I-tvchannel I-tvchannel I-tvchannel 0 0 0 0 0 0
+B-tvchannel I-tvchannel I-tvchannel I-tvchannel B-datetime_date I-datetime_date 0 0 0 0 0
 B-tvchannel I-tvchannel I-tvchannel I-tvchannel I-tvchannel 0 0 0 0
-0 0 0 B-datetime_time I-datetime_time I-datetime_time 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 B-datetime_time I-datetime_time I-datetime_time B-tvchannel I-tvchannel I-tvchannel I-tvchannel 0 0 0 0 0 0 0
 B-tvchannel I-tvchannel I-tvchannel I-tvchannel 0 0 0 0 0 0
-2 0 1 2 0 0 0 0 B-category I-category
-0 0 0 0 0 0 0 0 B-category I-category I-category 0 ？
-0 0 0 0 B-datetime_time I-datetime_time 0 0 0 0 0 0 ？
-0 0 0 B-endLoc_city I-endLoc_city 0 0 0
-0 0 0 0 B-endLoc_city I-endLoc_city 0 0 0
-0 0 0 0 0 0 0 0 0 0 B-endLoc_city I-endLoc_city 0 0 0
-0 0 0 B-endLoc_city I-endLoc_city 0 0 0
-0 0 0 8 0 1 5 0 0 0 0 0 B-endLoc_city I-endLoc_city 0 0 0
-0 0 0 0 0 0 0 0 B-endLoc_city I-endLoc_city 0 0 0
-0 0 0 B-startDate_date I-startDate_date 0 0 0 0 0
-0 B-endLoc_city I-endLoc_city 0 0 0 。
-0 0 0 0 0 0 B-endLoc_city I-endLoc_city 0 0 0
-0 0 0 0 0 B-endLoc_city I-endLoc_city 0 0 0
-0 0 0 0 0 B-endLoc_city I-endLoc_city 0 0 0 。
-0 0 0 0 0 B-endLoc_city I-endLoc_city 0 0 0 。
-0 0 0 B-endLoc_city I-endLoc_city 0 0 0
-0 0 0 B-endLoc_city I-endLoc_city 0 0 0 0 0 0
-0 0 0 0 0 0 B-endLoc_city I-endLoc_city 0 0 0
-4 0 2 8 0 0 0 0 B-endLoc_city I-endLoc_city 0 0 0
-0 B-endLoc_city I-endLoc_city 0 0 0 0 0 0 。
-0 0 0 B-endLoc_city I-endLoc_city 0 0 0 0 0
-0 0 0 0 0 0 0 0 0 B-endLoc_city I-endLoc_city 0 0 0 0 0 0 0 0 0 0 0 0 0
-0 0 0 0 0 B-endLoc_city I-endLoc_city 0 0 0
+B-datetime_date I-datetime_date I-datetime_date I-datetime_date I-datetime_date 0 B-tag I-tag B-category I-category
+B-datetime_time I-datetime_time 0 0 0 0 0 0 B-category I-category I-category 0 0
+B-tvchannel I-tvchannel I-tvchannel I-tvchannel B-datetime_time I-datetime_time 0 0 0 0 0 0 0
+B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0
+0 B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0
+0 0 0 0 0 B-startDate_date I-startDate_date B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0
+B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0
+0 0 0 B-startDate_date I-startDate_date I-startDate_date I-startDate_date B-startDate_time I-startDate_time B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0
+B-startDate_date I-startDate_date I-startDate_date I-startDate_date I-startDate_date B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0
+0 0 0 B-startDate_date I-startDate_date B-startDate_time I-startDate_time 0 0 0
+0 B-endLoc_city I-endLoc_city 0 0 0 0
+B-startDate_date I-startDate_date 0 B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0
+B-startDate_date I-startDate_date B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0
+0 0 B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0 0
+0 0 B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0 0
+B-startDate_date I-startDate_date 0 B-endLoc_city I-endLoc_city 0 0 0
+B-startDate_dateOrig I-startDate_dateOrig 0 B-endLoc_city I-endLoc_city 0 0 0 0 0 0
+B-startDate_date I-startDate_date I-startDate_date I-startDate_date I-startDate_date 0 B-endLoc_city I-endLoc_city 0 0 0
+B-startDate_date I-startDate_date I-startDate_date I-startDate_date I-startDate_date B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0
+0 B-endLoc_city I-endLoc_city 0 0 0 0 0 0 0
+B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 B-startDate_date I-startDate_date 0
+0 0 0 B-startDate_date I-startDate_date B-startLoc_city I-startLoc_city 0 0 B-endLoc_city I-endLoc_city 0 0 0 0 0 0 0 0 0 0 0 0 0
+B-startDate_date I-startDate_date I-startDate_date I-startDate_date 0 B-endLoc_city I-endLoc_city 0 0 0
 B-keyword I-keyword I-keyword
-B-keyword I-keyword 0 0 0 ？
-B-keyword I-keyword 。
-B-keyword I-keyword I-keyword 。
+B-keyword I-keyword 0 0 0 0
+B-keyword I-keyword 0
+B-keyword I-keyword I-keyword 0
 B-keyword I-keyword I-keyword I-keyword
 B-keyword I-keyword I-keyword 0 0 0 0
 B-keyword I-keyword I-keyword I-keyword I-keyword I-keyword
-B-keyword I-keyword 0 0 0 0 ？
-B-keyword I-keyword 0 0 0 ？
-0 0 B-keyword I-keyword I-keyword 0 0 0 0 ？
-0 0 0 0 0 B-keyword I-keyword I-keyword 0 0 0 0 ？
-0 0 0 0 B-keyword I-keyword 。
-B-keyword I-keyword I-keyword I-keyword I-keyword 。
-B-keyword I-keyword 0 0 0 0 ？
-0 0 0 0 B-keyword I-keyword 0 0 0 0 0 0 0 0 ？
-B-keyword I-keyword 0 0 0 ？
-B-keyword I-keyword I-keyword I-keyword 。
-B-keyword I-keyword 0 0 0 0 0 ？
-0 0 0 B-name I-name I-name I-name 0 0 0 0 0 0 0 0 ？
-0 B-absIssue I-absIssue I-absIssue I-absIssue I-absIssue 0 0 0 0 0 0
+B-keyword I-keyword 0 0 0 0 0
+B-keyword I-keyword 0 0 0 0
+0 0 B-keyword I-keyword I-keyword 0 0 0 0 0
+0 0 0 0 0 B-keyword I-keyword I-keyword 0 0 0 0 0
+0 0 0 0 B-keyword I-keyword 0
+B-keyword I-keyword I-keyword I-keyword I-keyword 0
+B-keyword I-keyword 0 0 0 0 0
+0 0 0 0 B-keyword I-keyword 0 0 0 0 0 0 0 0 0
+B-keyword I-keyword 0 0 0 0
+B-keyword I-keyword I-keyword I-keyword 0
+B-keyword I-keyword 0 0 0 0 0 0
+B-relIssue I-relIssue I-relIssue B-name I-name I-name I-name 0 0 0 0 0 0 0 0 0
+0 B-absIssue I-absIssue I-absIssue I-absIssue I-absIssue 0 B-category I-category B-name I-name I-name
 0 0 0 0 0 B-name I-name I-name
 0 0 B-name I-name I-name 0 0
 B-location_city I-location_city 0 0
 B-endLoc_poi I-endLoc_poi I-endLoc_poi I-endLoc_poi 0 0 0
-0 0 0 0 0 0 0 0 0 B-endLoc_area I-endLoc_area I-endLoc_area 0 0 0
+0 0 0 0 B-startLoc_city I-startLoc_city 0 B-endLoc_province I-endLoc_province B-endLoc_area I-endLoc_area I-endLoc_area 0 0 0
 B-location_poi I-location_poi I-location_poi 0 0 0
 0 0 0 0 B-endLoc_poi I-endLoc_poi I-endLoc_poi 0 0 0
 B-location_area I-location_area I-location_area 0 0
@@ -616,131 +613,131 @@ B-location_city I-location_city 0 0 0
 0 B-endLoc_poi I-endLoc_poi I-endLoc_poi I-endLoc_poi 0 0 0
 0 0 0 B-endLoc_poi I-endLoc_poi I-endLoc_poi I-endLoc_poi
 0 0 0 B-endLoc_poi I-endLoc_poi I-endLoc_poi I-endLoc_poi
-0 0 0 B-endLoc_city I-endLoc_city 0 0 0
+0 B-endLoc_province I-endLoc_province B-endLoc_city I-endLoc_city 0 0 0
 B-endLoc_poi I-endLoc_poi I-endLoc_poi 0 0 0
 0 B-endLoc_area I-endLoc_area 0 0 0
 0 0 0 B-endLoc_poi I-endLoc_poi I-endLoc_poi 0 0 0
-帮 我 查 一 下 我 所 在 的 位 置
+0 0 0 0 0 0 0 0 0 0 0
 B-location_city I-location_city 0 0 0
-B-datetime_date I-datetime_date 0 0 0 0 0 0 0 0 0 ？
-B-category I-category 0 0 0 0 ， 0 ！
-0 0 0 0 B-category I-category I-category I-category I-category I-category I-category I-category 0 0 0 0 0 0 0 0
-B-category I-category 0 0 0 0 。
-B-category I-category 0 0 。
-B-category I-category 0 0 0 0 0 。
-B-category I-category 0 0 0 0 0 。
+B-datetime_date I-datetime_date B-name I-name 0 0 B-type I-type 0 0 0 0
+B-category I-category 0 0 B-type I-type 0 0 0
+B-datetime_date I-datetime_date I-datetime_date I-datetime_date B-category I-category I-category I-category I-category I-category I-category I-category 0 0 0 0 0 0 0 0
+B-category I-category 0 0 B-type I-type 0
+B-category I-category B-type I-type 0
+B-category I-category 0 0 0 B-type I-type 0
+B-category I-category 0 0 0 0 0 0
 0 B-name I-name 0 0 0
 0 0 0 0 0 B-name I-name I-name
 0 B-name I-name 0 0 0
 0 B-name I-name 0 0 0
-0 0 0 0 0 0 0 B-headNum I-headNum I-headNum 0 0 0 B-content I-content I-content I-content I-content I-content I-content
+0 0 0 0 B-name I-name 0 B-headNum I-headNum I-headNum 0 0 0 B-content I-content I-content I-content I-content I-content I-content
 0 B-name I-name I-name 0 0 0 0
 0 0 0 B-name I-name 0 0
-发 短 信 呢
+0 0 0 0
 0 B-name I-name 0 0 0
-发 送 短 消 息
+0 0 0 0 0
 0 B-name I-name 0 0 0
 0 B-name I-name I-name 0 0 0
 0 B-name I-name 0 0 0
 0 B-name I-name 0 0 0
 0 0 0 0 B-name I-name I-name
-查 看 短 消 息
-0 0 0 0 0 0 0 B-content I-content I-content I-content I-content I-content I-content
-0 0 0 0 0 0 0 0 0 0 0 0 B-content I-content I-content I-content I-content I-content I-content
+0 0 0 0 0
+0 B-name I-name I-name 0 0 0 B-content I-content I-content I-content I-content I-content I-content
+0 0 0 0 B-name I-name I-name B-teleOperator I-teleOperator 0 0 0 B-content I-content I-content I-content I-content I-content I-content
 0 B-name I-name I-name 0 0 0
-0 0 0 B-song I-song I-song I-song 。
+0 0 0 B-song I-song I-song I-song 0
 0 0 0 0 0 B-song I-song I-song I-song I-song
-0 0 0 0 B-song I-song I-song I-song 。
+0 0 0 0 B-song I-song I-song I-song 0
 0 0 0 B-song I-song
-来 首 歌 吗 ？
+0 0 0 0 0
 0 0 0 B-song I-song I-song I-song 0 0 0 0
 0 0 0 0 B-song I-song 0 0 0 0
-0 0 0 0 B-song I-song I-song I-song I-song I-song I-song 。
+0 0 0 0 B-song I-song I-song I-song I-song I-song I-song 0
 0 0 0 B-category I-category 0 0
-0 0 0 0 0 B-song I-song I-song I-song ， 0 0 。
+0 0 0 0 0 B-song I-song I-song I-song 0 0 0 0
 0 0 0 B-song I-song I-song I-song
-来 一 首 歌 尔 勤 县
+0 0 0 0 0 0 0
 0 0 0 0 B-song I-song
-B-artist I-artist 0 0 0 0
-0 0 0 B-artist I-artist I-artist 0 0 0 0 0
+B-artist I-artist B-song I-song I-song I-song
+0 0 0 B-artist I-artist I-artist 0 B-song I-song I-song I-song
 B-artist I-artist 0 0 0
-赵 唱 一 首 歌 吧
+0 0 0 0 0 0
 B-artist I-artist I-artist 0 0 0 0 0
-0 0 0 B-song 0 0 0 。
+0 0 0 B-song 0 0 0 0
 0 0 B-song I-song I-song
-我 要 点 新 闻 。
-我 要 看 新 闻 玩 不 ？
-0 0 0 B-datetime_date I-datetime_date 0 0 0 0 0 。
+0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 B-datetime_date I-datetime_date B-datetime_time I-datetime_time 0 0 0 0
 B-datetime_date I-datetime_date 0 0
-0 0 0 0 0 B-category I-category 0 0 。
-我 想 看 新 闻 。
-0 0 0 0 B-keyword I-keyword I-keyword 0 0 0 。
-天 最 新 新 闻 。
-0 0 0 B-location_city I-location_city 0 0 。
-看 新 闻 。
-0 0 0 B-datetime_date I-datetime_date 0 0 0 。
-0 0 0 0 B-datetime_date I-datetime_date 0 0 0 。
-我 要 听 个 新 闻 。
-读 新 闻 听 。
-0 0 B-datetime_date I-datetime_date 0 0 0
+0 0 0 0 0 B-category I-category 0 0 0
+0 0 0 0 0 0
+0 0 0 0 B-keyword I-keyword I-keyword 0 0 0 0
+0 0 0 0 0 0
+0 0 0 B-location_city I-location_city 0 0 0
+0 0 0 0
+0 0 0 B-datetime_date I-datetime_date 0 0 0 0
+0 0 0 0 B-datetime_date I-datetime_date 0 0 0 0
+0 0 0 0 0 0 0
+0 0 0 0 0
+B-location_city I-location_city B-datetime_date I-datetime_date 0 0 0
 0 0 0 B-media I-media 0 0
-查 一 下 新 闻 。
-B-author I-author I-author 0 0 0 0 0 0 0 0 0
-B-author I-author I-author 0 0 0 0 0 《 0 0 0 》
-B-category I-category I-category I-category 0 0 0 0 0 0 0
-搜 一 下 小 说 。
+0 0 0 0 0 0
+B-author I-author I-author B-name I-name I-name I-name I-name I-name I-name 0 0
+B-author I-author I-author 0 B-category I-category 0 0 0 B-name I-name I-name 0
+B-category I-category I-category I-category 0 0 B-name I-name I-name I-name I-name
+0 0 0 0 0 0
 0 0 0 B-category I-category I-category I-category 0 0
-给 我 讲 一 个 长 篇 小 说 。
+0 0 0 0 0 0 0 0 0 0
 0 0 0 B-category I-category I-category I-category 0 0
-0 0 B-author I-author I-author 0 0 0 0 0
-B-author I-author I-author 0 0 ， 0 0 。
-0 0 0 B-author I-author 0 0 。
-0 0 B-name I-name 。
-0 0 0 0 0 0 0 0 B-author I-author 。
-0 0 0 B-dynasty 0 。
-B-author I-author I-author 0 0 0 。
-0 0 0 0 B-dynasty 0 0 ？
-0 B-name I-name 0 0 0 。
-给 我 来 首 诗 。
-0 ， 0 0 0 0 B-author I-author 0 0 。
-0 0 B-name I-name 。
-读 一 首 古 诗 给 我 听 。
-0 0 0 B-author I-author I-author 0 0 。
-读 一 首 古 诗 给 我 听 吧 ！
-0 0 0 B-author I-author I-author 0 0 0 。
-0 0 0 0 0 0 B-author I-author 0 0 0 0 。
-0 0 B-name I-name 。
-B-keyword I-keyword I-keyword I-keyword I-keyword I-keyword I-keyword 0 0 0 0 0 0 ？
-0 0 0 B-dynasty 0 0 0 0 。
-0 0 B-name I-name 。
-0 0 B-author I-author 0 0 0 0 。
-B-keyword I-keyword I-keyword I-keyword I-keyword I-keyword I-keyword 0 0 0 。
-B-keyword I-keyword I-keyword I-keyword I-keyword I-keyword I-keyword 0 0 0 0 0 0 0 ？
-0 0 0 B-name I-name I-name I-name 。
-0 0 0 0 0 0 0 0 B-author I-author I-author 。
-0 0 0 0 0 B-dynasty 0 0 0 。
-B-author I-author I-author 0 0 0 。
-0 0 0 0 0 0 0 B-author I-author 0 0
-0 0 B-dynasty 0 0 0 0 ！
-0 0 0 B-name I-name 。
-B-keyword I-keyword I-keyword I-keyword I-keyword 0 0 0 0 0 0 0 ？
-0 0 0 0 B-dynasty 0 。
-0 0 0 B-author I-author I-author 0 0 。
-0 0 0 0 0 B-code I-code I-code 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 B-author I-author I-author 0 B-category I-category 0 0
+B-author I-author I-author 0 0 0 B-name I-name 0
+0 0 0 B-author I-author 0 0 0
+0 0 B-name I-name 0
+B-name I-name I-name I-name I-name I-name I-name I-name B-author I-author 0
+0 0 0 B-dynasty 0 0
+B-author I-author I-author 0 0 0 0
+0 0 0 0 B-dynasty 0 0 0
+0 B-name I-name 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0 B-author I-author 0 0 0
+0 0 B-name I-name 0
+0 0 0 0 0 0 0 0 0
+0 0 0 B-author I-author I-author 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 B-author I-author I-author 0 0 0 0
+0 0 0 0 0 0 B-author I-author 0 B-name I-name I-name 0
+0 0 B-name I-name 0
+B-keyword I-keyword I-keyword I-keyword I-keyword I-keyword I-keyword B-queryField I-queryField I-queryField 0 0 0 0
+0 0 0 B-dynasty 0 0 0 0 0
+0 0 B-name I-name 0
+0 0 B-author I-author 0 B-name I-name I-name 0
+B-keyword I-keyword I-keyword I-keyword I-keyword I-keyword I-keyword B-queryField I-queryField I-queryField 0
+B-keyword I-keyword I-keyword I-keyword I-keyword I-keyword I-keyword 0 B-queryField I-queryField I-queryField 0 0 0 0
+0 0 0 B-name I-name I-name I-name 0
+0 0 0 0 B-name I-name I-name I-name B-author I-author I-author 0
+0 0 0 0 0 B-dynasty 0 B-name I-name 0
+B-author I-author I-author 0 B-name I-name 0
+0 0 0 0 0 B-dynasty 0 B-author I-author 0 0
+0 0 B-dynasty 0 0 0 0 0
+0 0 0 B-name I-name 0
+B-keyword I-keyword I-keyword I-keyword I-keyword 0 B-queryField I-queryField I-queryField 0 0 0 0
+0 0 0 0 B-dynasty 0 0
+0 0 0 B-author I-author I-author 0 0 0
+0 0 0 0 0 B-code I-code I-code B-name I-name I-name I-name I-name I-name I-name I-name I-name I-name I-name I-name
 0 0 0 0 0 0 B-name I-name I-name I-name I-name I-name I-name I-name
-0 0 0 0 0 B-code I-code I-code I-code 0 0 0 0 0 0 0 0 0 0 0
-0 0 0 0 0 B-code I-code I-code I-code 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 B-code I-code I-code I-code B-name I-name I-name I-name I-name I-name I-name I-name I-name I-name I-name
+0 0 0 0 0 B-code I-code I-code I-code B-name I-name I-name I-name I-name I-name I-name I-name I-name
 0 0 0 0 B-name I-name I-name I-name I-name
-0 0 B-location_province I-location_province 0 0 0 0 。
-0 0 0 0 B-category I-category 。
-0 0 0 B-category I-category 0 。
-0 0 B-category I-category 0 ！
-0 0 0 0 B-category I-category 0 。
-0 ， 0 0 B-category I-category 0 0 0 。
-0 0 0 0 B-category I-category 0 ！
-0 B-category I-category ， 0 0 。
-0 0 0 B-category I-category 。
-0 0 0 0 0 0 B-category I-category 。
+0 0 B-location_province I-location_province B-name I-name I-name I-name 0
+0 0 0 0 B-category I-category 0
+0 0 0 B-category I-category 0 0
+0 0 B-category I-category 0 0
+0 0 0 0 B-category I-category 0 0
+0 0 0 0 B-category I-category 0 0 0 0
+0 0 0 0 B-category I-category 0 0
+0 B-category I-category 0 0 0 0
+0 0 0 B-category I-category 0
+0 0 0 0 0 0 B-category I-category 0
 0 0 B-name I-name I-name I-name 0 0 0
 B-name I-name I-name I-name 0 0 0 0 0 0
 0 0 0 0 B-name I-name I-name I-name 0 0 0
@@ -773,57 +770,57 @@ B-name I-name I-name I-name I-name I-name 0 0
 0 0 0 0 B-name I-name I-name
 0 0 B-name I-name I-name
 0 0 0 0 B-name I-name
-打 电 话 零 八
+0 0 0 0 0
 0 0 0 0 B-name I-name I-name
 0 B-name I-name 0 0 0
-0 0 0 B-endLoc_city I-endLoc_city 0 0 0 0
-0 0 0 B-endLoc_city I-endLoc_city 0 0 0 0
-0 0 0 0 0 0 B-endLoc_city I-endLoc_city 0 0 0 0 0 0 0
-0 0 0 0 B-endLoc_city I-endLoc_city 0 0 0 0
-0 0 0 0 0 B-endLoc_city I-endLoc_city
-0 0 0 B-endLoc_city I-endLoc_city 0 0 0
-0 0 0 0 B-endLoc_city I-endLoc_city 0 0 0 0
-0 0 0 0 0 B-endLoc_city I-endLoc_city 0 0 0 0
-0 0 0 0 0 0 0 0 0 B-category I-category 0
-0 0 0 0 0 0 B-endLoc_city I-endLoc_city 0 0 0 0
-0 0 0 0 B-endLoc_city I-endLoc_city 0 0 0
-0 0 0 0 0 0 0 0 B-endLoc_city I-endLoc_city I-endLoc_city 0 0 0
+B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0 0
+B-startLoc_area I-startLoc_area 0 B-endLoc_city I-endLoc_city 0 0 0 0
+0 0 0 B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0 0 0 0 0
+0 B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0 0
+0 0 B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city
+B-startDate_date I-startDate_date 0 B-endLoc_city I-endLoc_city 0 0 0
+0 B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0 0
+0 0 B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0 0
+0 0 0 0 0 0 B-endLoc_city I-endLoc_city 0 B-category I-category 0
+0 0 0 B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0 0
+0 B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0
+0 0 0 0 0 B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city I-endLoc_city 0 0 0
 0 B-endLoc_city I-endLoc_city 0 0 0
-0 0 0 0 0 0 B-endLoc_city I-endLoc_city 0 0 0
-0 0 0 0 0 0 B-endLoc_city I-endLoc_city 0 0 0 0
-0 0 0 0 0 0 0 0 0 B-endLoc_city I-endLoc_city 0 0 0
-0 0 0 0 0 0 0 0 0 B-category I-category 0
-0 0 0 B-endLoc_city I-endLoc_city 0 0 0
-0 0 0 B-endLoc_city I-endLoc_city 0 0 0
-0 0 0 0 0 B-endLoc_city I-endLoc_city 0 0 0
-0 0 0 B-endLoc_city I-endLoc_city 0 0 0
-0 0 0 B-endLoc_city I-endLoc_city 0 0 0
-0 0 0 B-endLoc_city I-endLoc_city 0 0 0 0
-B-content I-content I-content I-content I-content I-content 0 0 0 0 0 0
-B-content I-content I-content I-content I-content I-content 0 0 0 0 0
+0 0 0 B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0
+0 0 0 B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0 0
+0 0 0 0 0 0 B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0
+0 0 0 0 0 0 B-endLoc_city I-endLoc_city 0 B-category I-category 0
+B-startDate_date I-startDate_date 0 B-endLoc_city I-endLoc_city 0 0 0
+B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0
+0 0 B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0
+B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0
+B-startLoc_area I-startLoc_area 0 B-endLoc_city I-endLoc_city 0 0 0
+B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0 0
+B-content I-content I-content I-content I-content I-content 0 B-target I-target 0 0 0
+B-content I-content I-content I-content I-content I-content B-target I-target 0 0 0
 0 0 B-content I-content I-content I-content I-content
 0 0 B-content I-content I-content I-content I-content
-B-content I-content I-content I-content I-content 0 0 0 0 0 0
-B-content I-content I-content I-content I-content I-content I-content 0 0 0 0 0 0
-B-content I-content I-content 0 0 0 0 0
-B-content I-content 0 0 0 0 0 0
-B-content I-content 0 0 0 0 0 0
+B-content I-content I-content I-content I-content 0 B-target I-target 0 0 0
+B-content I-content I-content I-content I-content I-content I-content 0 B-target I-target 0 0 0
+B-content I-content I-content 0 0 0 B-target I-target
+B-content I-content 0 B-target I-target 0 0 0
+B-content I-content 0 B-target I-target 0 0 0
 0 0 B-content I-content I-content I-content I-content
 0 0 B-content I-content I-content
-B-content I-content 0 0 0 0 0 0
-B-content I-content I-content I-content I-content I-content I-content 0 0 0 0 0 0
-B-content I-content 0 0 0 0 0 0
-B-content I-content 0 0 0 0 0 0
-B-content 0 0 0 0 0
-B-content I-content I-content I-content I-content I-content 0 0 0 0 0 0
+B-content I-content 0 B-target I-target 0 0 0
+B-content I-content I-content I-content I-content I-content I-content 0 B-target I-target 0 0 0
+B-content I-content 0 B-target I-target 0 0 0
+B-content I-content 0 B-target I-target 0 0 0
+B-content B-target I-target 0 0 0
+B-content I-content I-content I-content I-content I-content 0 B-target I-target 0 0 0
 0 0 B-content I-content I-content I-content I-content I-content I-content I-content
-B-content I-content I-content 0 0 0 0 0 0
-B-content I-content I-content I-content 0 0 0 0 0 0
-0 0 B-name I-name I-name
+B-content I-content I-content 0 B-target I-target 0 0 0
+B-content I-content I-content I-content 0 B-target I-target 0 0 0
+B-resolution I-resolution B-name I-name I-name
 B-name I-name I-name I-name I-name I-name
-0 0 B-name I-name I-name I-name I-name
-B-name I-name I-name I-name 0 0 0 0
-0 c   0 0 0 0 0 B-name I-name I-name I-name
+B-resolution I-resolution B-name I-name I-name I-name I-name
+B-name I-name I-name I-name B-resolution I-resolution 0 0
+0 0 0 0 0 0 0 B-name I-name I-name I-name
 B-name I-name I-name I-name I-name I-name I-name
 0 0 B-name I-name I-name I-name I-name I-name I-name I-name
 0 B-name I-name I-name I-name
@@ -832,10 +829,10 @@ B-category I-category 0 0
 B-name I-name I-name I-name
 0 0 B-name I-name 0 0
 B-name I-name I-name I-name I-name I-name I-name
-0 0 B-category I-category
+B-timeDescr I-timeDescr B-category I-category
 0 B-name I-name I-name I-name I-name I-name I-name I-name I-name
 B-name I-name I-name I-name
-0 0 0 0 B-category I-category I-category
+B-name I-name I-name I-name B-category I-category I-category
 B-name I-name I-name I-name I-name I-name
 B-name I-name I-name I-name
 0 0 0 0 0 0 0 0 0 B-category I-category
@@ -844,47 +841,47 @@ B-name I-name I-name I-name I-name
 B-name I-name I-name I-name
 B-name I-name I-name
 B-name I-name
-B-area I-area 0 0 0 0 0 0 0 0 0 0
+B-area I-area B-category I-category B-name I-name I-name I-name I-name I-name I-name I-name
 B-name I-name I-name I-name
 B-name I-name I-name I-name I-name
-B-category I-category I-category 0 0 0
-0 0 0 0 0 0 0 B-category I-category
+B-category I-category I-category B-name I-name I-name
+B-timeDescr I-timeDescr 0 0 0 B-popularity I-popularity B-category I-category
 B-name I-name I-name 0
 B-name I-name I-name I-name
 B-name I-name I-name I-name
 0 0 0 0 0 0 B-category I-category
-B-area I-area 0 0 0
-B-artist I-artist 0 0 0 0
-0 0 B-category I-category
+B-area I-area 0 B-category I-category
+B-artist I-artist 0 B-category I-category I-category
+B-tag I-tag B-category I-category
 0 0 0 B-tag I-tag
-B-artist I-artist I-artist 0 0 0 0 0
+B-artist I-artist I-artist 0 B-tag I-tag B-category I-category
 0 0 0 0 B-category I-category
 B-name I-name I-name I-name I-name
 B-name I-name I-name I-name
 B-name I-name I-name I-name
 0 0 0 B-name I-name I-name I-name I-name
 B-name I-name I-name I-name I-name I-name
-0 0 0 0 0 B-category I-category
-0 0 0 0 B-category I-category
-0 0 0 B-category I-category 0 0
-B-datetime_date I-datetime_date I-datetime_date I-datetime_date I-datetime_date 0 0 0 0 0 0 0 0 0 0 0 0
+B-scoreDescr I-scoreDescr 0 B-tag I-tag B-category I-category
+B-name I-name I-name I-name B-category I-category
+0 0 0 B-category I-category B-name I-name
+B-datetime_date I-datetime_date I-datetime_date I-datetime_date I-datetime_date B-name I-name I-name I-name I-name I-name I-name I-name I-name I-name I-name I-name
 0 0 0 0 B-category I-category 0
 B-name I-name I-name I-name
 B-name I-name I-name I-name I-name I-name I-name I-name
-B-datetime_date I-datetime_date 0 0 0 0 0
+B-datetime_date I-datetime_date B-subfocus I-subfocus 0 0 0
 0 0 B-name I-name I-name I-name I-name I-name I-name I-name
 0 0 B-name I-name I-name
 B-name I-name I-name I-name
 0 0 B-name I-name I-name I-name I-name I-name I-name I-name I-name
 0 0 0 0 B-name I-name
 0 0 B-name I-name I-name I-name I-name I-name
-请 帮 我 打 开 网 站
+0 0 0 0 0 0 0
 0 0 B-name I-name I-name I-name I-name 0
-请 打 开 网 页
+0 0 0 0 0
 0 0 0 B-name I-name I-name I-name I-name
-美 女 啊 帮 我 打 开 网 页
+0 0 0 0 0 0 0 0 0
 0 0 B-name I-name I-name I-name I-name
-0 0 B-name I-name w a p
+0 0 B-name I-name 0 0 0
 0 0 B-name I-name I-name I-name
 B-name I-name I-name I-name I-name I-name I-name I-name
 B-name I-name I-name
@@ -933,610 +930,610 @@ B-name I-name I-name I-name
 0 0 B-name I-name 0 0
 0 0 B-name I-name 0 0
 0 0 B-name I-name 0 0
-0 0 0 0 0 B-Dest I-Dest ？
-0 0 0 0 B-Dest I-Dest I-Dest 0 0 0 0 。
-0 0 0 0 0 0 0 B-Dest I-Dest 0 0 。
-0 0 0 0 0 B-Dest I-Dest 0 ， 0 0 。
-0 0 0 B-Dest I-Dest 0 0 0
-0 0 0 B-Dest I-Dest 0 0 0 0 0
-0 0 0 B-Dest I-Dest 0 0 0 。
-0 0 0 0 B-Dest I-Dest 0 0 0 0 0 0 ？
-0 0 0 B-Dest I-Dest 0 0 。
-0 0 0 B-Dest I-Dest 0 0 0 0 0 0 ？
-0 0 0 B-Dest I-Dest 0 0 0 。
-0 0 0 0 B-Dest I-Dest 0 0 0 。
-0 0 0 B-Dest I-Dest 0 0 0 0 0 ？
-0 0 0 0 B-Dest I-Dest 0 0 0 。
-0 0 0 B-Dest I-Dest I-Dest 0 0 0 。
-0 0 0 0 B-Dest I-Dest 0 0 。
-0 0 0 B-Dest I-Dest 0 0 。
-0 0 0 B-Dest I-Dest 0 0 0 。
-0 0 0 0 0 0 B-Dest I-Dest 0 0 0 。
-0 0 0 0 B-Dest I-Dest 0 0 0 。
-0 0 0 B-Dest I-Dest 0 0 。
-0 0 0 B-Dest I-Dest 0 0 0 0 0 0
-0 0 0 B-Dest I-Dest 0 0 0 。
-0 0 0 0 0 0 0 B-Dest I-Dest I-Dest 0 0 。
-什 么 新 闻 呢
+0 0 0 0 0 B-Dest I-Dest 0
+0 B-Src I-Src 0 B-Dest I-Dest I-Dest 0 0 0 0 0
+0 B-Src I-Src 0 0 0 0 B-Dest I-Dest 0 0 0
+0 0 B-Src I-Src 0 B-Dest I-Dest 0 0 0 0 0
+B-Src I-Src 0 B-Dest I-Dest 0 0 0
+B-Src I-Src 0 B-Dest I-Dest 0 0 0 0 0
+B-Src I-Src 0 B-Dest I-Dest 0 0 0 0
+0 B-Src I-Src 0 B-Dest I-Dest 0 0 0 0 0 0 0
+B-Src I-Src 0 B-Dest I-Dest 0 0 0
+B-Src I-Src 0 B-Dest I-Dest 0 0 0 0 0 0 0
+B-Src I-Src 0 B-Dest I-Dest 0 0 0 0
+0 B-Src I-Src 0 B-Dest I-Dest 0 0 0 0
+B-Src I-Src 0 B-Dest I-Dest 0 0 0 0 0 0
+0 B-Src I-Src 0 B-Dest I-Dest 0 0 0 0
+B-Src I-Src 0 B-Dest I-Dest I-Dest 0 0 0 0
+0 B-Src I-Src 0 B-Dest I-Dest 0 0 0
+B-Src I-Src 0 B-Dest I-Dest 0 0 0
+B-Src I-Src 0 B-Dest I-Dest 0 0 0 0
+0 0 0 B-Src I-Src 0 B-Dest I-Dest 0 0 0 0
+0 B-Src I-Src 0 B-Dest I-Dest 0 0 0 0
+B-Src I-Src 0 B-Dest I-Dest 0 0 0
+B-Src I-Src 0 B-Dest I-Dest 0 0 0 0 0 0
+B-Src I-Src 0 B-Dest I-Dest 0 0 0 0
+0 0 0 B-Src I-Src I-Src 0 B-Dest I-Dest I-Dest 0 0 0
+0 0 0 0 0
 0 0 0 0 B-category I-category I-category
-这 个 新 闻 有 意 思 吗
-你 再 给 我 推 荐 几 本 书
-0 0 0 0 0 B-category I-category 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 B-endLoc_city I-endLoc_city 0 B-category I-category 0
 0 0 0 B-category I-category 0 0
-我 给 你 打 电 话 行 吗
+0 0 0 0 0 0 0 0
 B-keyword I-keyword I-keyword I-keyword I-keyword I-keyword I-keyword
-你 会 查 火 车 票 么
-B-location_city I-location_city 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0
+B-location_city I-location_city 0 B-subfocus 0 0 0 0 0 0
 0 0 B-theatre I-theatre I-theatre I-theatre I-theatre 0 0 0 0 0 0 0
-附 近 电 影 院 。
+0 0 0 0 0 0
 0 0 0 0 0 0 0 0 B-datetime_date I-datetime_date 0 0 0 0 0 0
 0 0 B-theatre I-theatre I-theatre I-theatre I-theatre I-theatre I-theatre I-theatre 0 0 0 0 0 0 0 0 0 0 0
-热 门 电 影 有 哪 些 啊 ？
-最 近 在 播 什 么 电 影 ？
-有 没 有 新 出 的 电 影 了 。
-0 0 0 B-film I-film I-film I-film I-film I-film I-film 。
-最 近 的 新 电 影 有 哪 些 ？
-最 新 的 热 门 电 影 是 什 么 呀 ？
-电 影 院 有 什 么 电 影 ？
-搜 索 一 下 热 门 电 影 。
-最 近 有 什 么 热 门 的 电 影 ？
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 B-film I-film I-film I-film I-film I-film I-film 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0
 0 0 B-theatre I-theatre I-theatre I-theatre I-theatre 0 0 0 0 0 0
-0 0 0 0 0 B-timeDescr 0 0 ？
-查 一 查 上 影 电 影 院 即 将 上 映 的 影 片
-0 0 ， 0 0 0 B-location_city I-location_city 0 0 0 0 0 0 。
-找 下 最 近 最 热 播 的 电 影 。
-给 我 查 一 下 最 近 在 播 哪 些 电 影
-我 要 看 热 门 电 影 。
-搜 索 热 门 电 影 。
-0 0 0 0 0 0 0 0 0 0 B-category I-category 0 0 0 ？
-最 近 有 什 么 新 上 映 的 电 影 啊 ？
-0 0 0 0 0 B-category I-category 0 0 0 0 0 0 0
+0 0 0 0 0 B-timeDescr 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 B-location_city I-location_city 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 0 0 0 B-timeDescr I-timeDescr 0 B-popularity I-popularity B-category I-category 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0
+0 B-name I-name I-name 0 B-category I-category 0 0 0 0 0 B-receiver I-receiver
 B-name I-name 0 0 0 0 0 0
 0 0 0 0 0 B-name I-name
-0 0 0 0 0 0 B-category I-category 0 0 0 0 B-receiver I-receiver I-receiver I-receiver
-0 B-name I-name 0 0 0 0 0 0 0 0
-0 B-name I-name 0 0 0 0 0 0 0
-0 B-name I-name 0 0 0 0 0 0 0
-0 B-name I-name I-name 0 0 0 0 0 0 0 0
-0 B-name I-name I-name 0 0 0 0 0 0 0
+0 B-name I-name I-name I-name 0 B-category I-category 0 0 0 0 B-receiver I-receiver I-receiver I-receiver
+0 B-name I-name 0 0 0 0 0 B-receiver I-receiver I-receiver
+0 B-name I-name 0 0 0 0 0 B-receiver I-receiver
+0 B-name I-name 0 0 0 0 0 B-receiver I-receiver
+0 B-name I-name I-name 0 0 0 0 0 B-receiver I-receiver I-receiver
+0 B-name I-name I-name 0 0 0 0 0 B-receiver I-receiver
 0 0 B-name I-name 0 0 0
-B-name I-name 0 0 0 。
-0 0 0 0 0 B-category I-category 0 0 0 0 0 0
+B-name I-name 0 0 0 0
+0 B-name I-name I-name 0 B-category I-category 0 0 0 0 B-receiver I-receiver
 0 0 B-name I-name I-name 0 0 0
 0 0 0 0 0 B-code I-code I-code I-code I-code I-code I-code I-code I-code I-code I-code
-0 B-name I-name I-name 0 0 0 0 0 0 0 0
+0 B-name I-name I-name 0 0 0 0 0 B-receiver I-receiver I-receiver
 0 B-name I-name I-name 0 0 0
-0 B-name I-name I-name 0 0 0 0 0 0 0
-0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 B-code I-code I-code I-code I-code I-code I-code I-code I-code I-code I-code I-code
-0 B-name I-name I-name 0 0 0 0 0 0 0 0
-0 B-name I-name I-name 0 0 0 0 0 0 0
+0 B-name I-name I-name 0 0 0 0 0 B-receiver I-receiver
+0 0 0 0 0 0 0 0 0 B-name I-name 0 0 0 0 B-code I-code I-code I-code I-code I-code I-code I-code I-code I-code I-code I-code
+0 B-name I-name I-name 0 0 0 0 0 B-receiver I-receiver I-receiver
+0 B-name I-name I-name 0 0 0 0 B-receiver I-receiver I-receiver
 0 0 B-dishName I-dishName I-dishName I-dishName 0 0 0
 0 0 0 B-dishName I-dishName I-dishName
-B-dishName I-dishName I-dishName 。
+B-dishName I-dishName I-dishName 0
 B-dishName I-dishName I-dishName I-dishName 0 0 0
-0 0 0 ， B-dishName I-dishName I-dishName I-dishName 0 0 0 ？
-B-ingredient I-ingredient 0 0 0 ？
+0 0 0 0 B-dishName I-dishName I-dishName I-dishName 0 0 0 0
+B-ingredient I-ingredient 0 0 0 0
 B-dishName I-dishName I-dishName
-B-ingredient I-ingredient 0 0 0 。
+B-ingredient I-ingredient 0 0 0 0
 B-dishName I-dishName I-dishName 0 0 0
-0 0 B-ingredient I-ingredient 0 0 0 ？
-B-dishName I-dishName I-dishName 0 0 0 ？
-0 0 B-dishName I-dishName I-dishName ？
-0 B-ingredient I-ingredient 0 0 0 ？
-0 0 B-ingredient 0 0 0 ？
-B-dishName I-dishName 。
-0 B-dishName I-dishName I-dishName 。
-B-dishName I-dishName I-dishName 0 0 0 ？
-B-dishName I-dishName I-dishName I-dishName 0 0 0 0 ？
-B-dishName I-dishName I-dishName I-dishName 0 0 0 。
-0 0 B-ingredient I-ingredient 0 0 0 ？
-0 0 0 0 0 0 0 ， B-dishName I-dishName I-dishName I-dishName 0 0 0 ？
-B-dishName I-dishName I-dishName 0 0 0 ？
-B-ingredient I-ingredient I-ingredient 0 0 0 ？
-B-ingredient I-ingredient I-ingredient 0 0 0 。
-0 0 B-ingredient I-ingredient 0 0 0 。
-B-dishName I-dishName I-dishName 0 0 0 0 0 。
-B-dishName I-dishName 0 0 0
-B-dishName I-dishName I-dishName 0 0 。
-B-dishName I-dishName I-dishName ， 0 0 ， 0 0 0 0 ？
-0 0 0 ， 0 B-dishName I-dishName I-dishName I-dishName 0 0 0 0 。
-B-ingredient I-ingredient ， 0 0 0 0 0 0 ？
-B-dishName I-dishName I-dishName I-dishName 0 0 0 ？
-B-dishName I-dishName I-dishName I-dishName I-dishName 0 0 0
-B-dishName I-dishName I-dishName I-dishName 0 0 0 ？
-B-dishName I-dishName I-dishName I-dishName 0 0 0 0 ？
-B-dishName I-dishName I-dishName I-dishName 。
-B-dishName I-dishName I-dishName 0 0 。
-B-dishName I-dishName I-dishName I-dishName
-B-dishName I-dishName I-dishName I-dishName ， 0 0 0 0 ？
-B-dishName I-dishName I-dishName I-dishName 0 0 0 ？
-0 0 0 0 ， 0 B-dishName I-dishName I-dishName 0 ， 0 0 0 ！
-B-dishName I-dishName I-dishName 0 0 0 ？
-0 0 0 0 0 0 0 0 0 B-keyword I-keyword I-keyword ？
-0 0 B-dishName I-dishName I-dishName 0 ？
+0 0 B-ingredient I-ingredient 0 0 0 0
+B-dishName I-dishName I-dishName 0 0 0 0
+0 0 B-dishName I-dishName I-dishName 0
+0 B-ingredient I-ingredient 0 0 0 0
+0 0 B-ingredient 0 0 0 0
+B-dishName I-dishName 0
+0 B-dishName I-dishName I-dishName 0
+B-dishName I-dishName I-dishName 0 0 0 0
 B-dishName I-dishName I-dishName I-dishName 0 0 0 0 0
-0 0 0 0 0 B-dishName I-dishName 0 0 0 0 0 。
-B-ingredient I-ingredient I-ingredient 0 0 0 。
-B-dishName I-dishName I-dishName I-dishName 0 0 0 ？
-B-dishName I-dishName 0 0 0 。
-B-dishName I-dishName I-dishName I-dishName I-dishName 0 0 0 。
-B-ingredient I-ingredient 0 0 0 ？
-0 0 0 0 B-dishName I-dishName 0 0 0 。
-B-dishName I-dishName I-dishName I-dishName I-dishName 。
-0 0 0 0 0 B-dishName I-dishName I-dishName I-dishName 0 0 0 ？
-B-dishName I-dishName I-dishName I-dishName 0 0 0 ？
-0 B-dishName I-dishName 0 0 0 0 ， 0 ？
-B-ingredient I-ingredient I-ingredient 0 0 0 ？
-B-dishName I-dishName I-dishName I-dishName 0 0 0 ？ 0 ？ 0 0 。
-B-dishName I-dishName I-dishName I-dishName 0 0 0 ？
-0 0 0 B-dishName I-dishName I-dishName 。
-0 0 0 B-dishName I-dishName I-dishName
-0 B-ingredient 0 0 0 ？
-B-dishName I-dishName I-dishName I-dishName I-dishName 。
-B-ingredient I-ingredient I-ingredient 0 0 0 0 0
-0 ， 0 0 B-dishName I-dishName I-dishName 0 0 0 ？
-B-ingredient I-ingredient 0 0 0 ？
+B-dishName I-dishName I-dishName I-dishName 0 0 0 0
+0 0 B-ingredient I-ingredient 0 0 0 0
+0 0 0 0 0 0 0 0 B-dishName I-dishName I-dishName I-dishName 0 0 0 0
+B-dishName I-dishName I-dishName 0 0 0 0
+B-ingredient I-ingredient I-ingredient 0 0 0 0
+B-ingredient I-ingredient I-ingredient 0 0 0 0
+0 0 B-ingredient I-ingredient 0 0 0 0
+B-dishName I-dishName I-dishName B-ingredient 0 0 0 0 0
+B-dishName I-dishName 0 0 0
+B-dishName I-dishName I-dishName 0 0 0
+B-dishName I-dishName I-dishName 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 B-dishName I-dishName I-dishName I-dishName 0 0 0 0 0
+B-ingredient I-ingredient 0 0 0 0 0 0 0 0
+B-dishName I-dishName I-dishName I-dishName 0 0 0 0
 B-dishName I-dishName I-dishName I-dishName I-dishName 0 0 0
-B-dishName I-dishName 0 0 0 0 ？
-0 0 0 0 B-dishName 。
-0 0 0 ？ 0 B-dishName I-dishName I-dishName 。
+B-dishName I-dishName I-dishName I-dishName 0 0 0 0
+B-dishName I-dishName I-dishName I-dishName B-ingredient 0 0 0 0
+B-dishName I-dishName I-dishName I-dishName 0
+B-dishName I-dishName I-dishName 0 0 0
+B-dishName I-dishName I-dishName I-dishName
+B-dishName I-dishName I-dishName I-dishName 0 0 0 0 0 0
+B-dishName I-dishName I-dishName I-dishName 0 0 0 0
+0 0 0 0 0 0 B-dishName I-dishName I-dishName 0 0 0 0 0 0
+B-dishName I-dishName I-dishName 0 0 0 0
+0 0 0 0 0 0 0 0 0 B-keyword I-keyword I-keyword 0
+0 0 B-dishName I-dishName I-dishName 0 0
+B-dishName I-dishName I-dishName I-dishName 0 0 0 0 0
+0 0 0 0 0 B-dishName I-dishName 0 0 0 0 0 0
+B-ingredient I-ingredient I-ingredient 0 0 0 0
+B-dishName I-dishName I-dishName I-dishName 0 0 0 0
+B-dishName I-dishName 0 0 0 0
+B-dishName I-dishName I-dishName I-dishName I-dishName 0 0 0 0
+B-ingredient I-ingredient 0 0 0 0
+0 0 0 0 B-dishName I-dishName 0 0 0 0
+B-dishName I-dishName I-dishName I-dishName I-dishName 0
+0 0 0 0 0 B-dishName I-dishName I-dishName I-dishName 0 0 0 0
+B-dishName I-dishName I-dishName I-dishName 0 0 0 0
+0 B-dishName I-dishName 0 0 0 0 0 0 0
+B-ingredient I-ingredient I-ingredient 0 0 0 0
+B-dishName I-dishName I-dishName I-dishName 0 0 0 0 0 0 0 0 0
+B-dishName I-dishName I-dishName I-dishName 0 0 0 0
+0 0 0 B-dishName I-dishName I-dishName 0
+0 0 0 B-dishName I-dishName I-dishName
+0 B-ingredient 0 0 0 0
+B-dishName I-dishName I-dishName I-dishName I-dishName 0
+B-ingredient I-ingredient I-ingredient 0 0 0 0 0
+0 0 0 0 B-dishName I-dishName I-dishName 0 0 0 0
+B-ingredient I-ingredient 0 0 0 0
+B-dishName I-dishName I-dishName I-dishName I-dishName 0 0 0
+B-dishName I-dishName 0 0 0 0 0
+0 0 0 0 B-dishName 0
+0 0 0 0 0 B-dishName I-dishName I-dishName 0
 0 0 B-ingredient I-ingredient 0 0 0 0 0
-B-dishName I-dishName I-dishName 。
-0 0 0 B-dishName I-dishName I-dishName I-dishName I-dishName 。
-0 0 0 0 0 0 0 0 B-ingredient ？
-B-dishName I-dishName I-dishName 0 0 。
-B-dishName I-dishName I-dishName 0 0 0 0 ？
-B-dishName I-dishName I-dishName I-dishName 0 0 0 。
-B-dishName I-dishName I-dishName 0 0 0 ？
+B-dishName I-dishName I-dishName 0
+0 0 0 B-dishName I-dishName I-dishName I-dishName I-dishName 0
+0 0 0 0 0 0 0 0 B-ingredient 0
+B-dishName I-dishName I-dishName 0 0 0
+B-dishName I-dishName I-dishName 0 0 0 0 0
+B-dishName I-dishName I-dishName I-dishName 0 0 0 0
+B-dishName I-dishName I-dishName 0 0 0 0
 B-ingredient I-ingredient 0 0 0
 B-ingredient 0 0 0 0 0 0 0
-B-dishName I-dishName I-dishName 0 0 0 。
-0 0 B-dishName I-dishName 。
-B-ingredient I-ingredient I-ingredient 0 0 0 ？
+B-dishName I-dishName I-dishName 0 0 0 0
+0 0 B-dishName I-dishName 0
+B-ingredient I-ingredient I-ingredient 0 0 0 0
 0 0 0 B-dishName I-dishName
 0 0 0 B-dishName I-dishName I-dishName I-dishName I-dishName
 0 0 B-ingredient I-ingredient 0 0 0
-B-dishName I-dishName 0 0 0 。
-B-dishName I-dishName I-dishName I-dishName I-dishName I-dishName I-dishName 。
-B-dishName I-dishName I-dishName I-dishName 0 0 0 ？
-B-dishName I-dishName 0 0 0 0 0 。
-B-dishName I-dishName I-dishName I-dishName 0 0 0 0 0 0 0 0 0 。
-0 0 0 B-ingredient 0 ？
-0 0 B-ingredient 0 0 0 ？
-0 0 0 B-ingredient I-ingredient 0 0 0 。
-0 0 0 B-dishName I-dishName I-dishName I-dishName ？
-B-dishName I-dishName I-dishName I-dishName 。
-B-ingredient I-ingredient I-ingredient 0 0 0 ？
-B-dishName I-dishName I-dishName 0 0 0 ？
-0 0 ， B-dishName I-dishName I-dishName 0 0 0 。
+B-dishName I-dishName 0 0 0 0
+B-dishName I-dishName I-dishName I-dishName I-dishName I-dishName I-dishName 0
+B-dishName I-dishName I-dishName I-dishName 0 0 0 0
+B-dishName I-dishName 0 0 0 0 0 0
+B-dishName I-dishName I-dishName I-dishName 0 0 0 0 0 0 0 0 0 0
+0 0 0 B-ingredient 0 0
+0 0 B-ingredient 0 0 0 0
+0 0 0 B-ingredient I-ingredient 0 0 0 0
+0 0 0 B-dishName I-dishName I-dishName I-dishName 0
+B-dishName I-dishName I-dishName I-dishName 0
+B-ingredient I-ingredient I-ingredient 0 0 0 0
+B-dishName I-dishName I-dishName 0 0 0 0
+0 0 0 B-dishName I-dishName I-dishName 0 0 0 0
 B-dishName I-dishName I-dishName I-dishName 0 0 0
-0 0 0 B-dishName I-dishName I-dishName ？
-B-dishName I-dishName I-dishName 0 0 0 ？
-B-keyword I-keyword I-keyword I-keyword 。
-0 0 0 0 0 B-dishName I-dishName I-dishName I-dishName 0 0 0 。
-B-keyword I-keyword I-keyword I-keyword 0 0 0 ？
-0 0 0 0 B-dishName I-dishName I-dishName 0 0 0 ？
-B-dishName I-dishName 。
-B-ingredient I-ingredient 0 0 0 0 ？
-B-dishName I-dishName I-dishName I-dishName 0 0 0 ？
+0 0 0 B-dishName I-dishName I-dishName 0
+B-dishName I-dishName I-dishName 0 0 0 0
+B-keyword I-keyword I-keyword I-keyword 0
+0 0 0 0 0 B-dishName I-dishName I-dishName I-dishName 0 0 0 0
+B-keyword I-keyword I-keyword I-keyword 0 0 0 0
+0 0 0 0 B-dishName I-dishName I-dishName 0 0 0 0
+B-dishName I-dishName 0
+B-ingredient I-ingredient 0 0 0 0 0
+B-dishName I-dishName I-dishName I-dishName 0 0 0 0
 0 0 B-ingredient I-ingredient 0 0 0 0 0
-0 B-dishName I-dishName I-dishName 0 0 0 。
-0 B-dishName I-dishName I-dishName 0 0 0 ？
-B-ingredient I-ingredient 0 0 0 。
+0 B-dishName I-dishName I-dishName 0 0 0 0
+0 B-dishName I-dishName I-dishName 0 0 0 0
+B-ingredient I-ingredient 0 0 0 0
 B-ingredient I-ingredient 0 0 0
-B-dishName I-dishName I-dishName I-dishName 0 0 。
-0 ， B-dishName I-dishName I-dishName 0 0 0 ？ 0 0 ？
-B-dishName I-dishName I-dishName I-dishName I-dishName 0 0 0 ？
-0 0 ， 0 B-ingredient ， 0 0 0 0 。
-B-ingredient I-ingredient I-ingredient 0 0 0 ？
 B-dishName I-dishName I-dishName I-dishName 0 0 0
-0 0 0 B-dishName I-dishName I-dishName I-dishName I-dishName I-dishName 0 ！
-B-dishName I-dishName I-dishName 0 0 0 ？
-B-ingredient I-ingredient I-ingredient 0 0 0 ？
+0 0 B-dishName I-dishName I-dishName 0 0 0 0 0 0 0
+B-dishName I-dishName I-dishName I-dishName I-dishName 0 0 0 0
+0 0 0 0 B-ingredient 0 0 0 0 0 0
+B-ingredient I-ingredient I-ingredient 0 0 0 0
+B-dishName I-dishName I-dishName I-dishName 0 0 0
+0 0 0 B-dishName I-dishName I-dishName I-dishName I-dishName I-dishName 0 0
+B-dishName I-dishName I-dishName 0 0 0 0
+B-ingredient I-ingredient I-ingredient 0 0 0 0
 B-dishName I-dishName I-dishName I-dishName I-dishName I-dishName 0 0 0
-B-dishName I-dishName I-dishName I-dishName 0 0 0 0 ？
-0 0 0 B-dishName I-dishName 。
-0 0 B-dishName I-dishName 0 0 0 0 ？ 0 ？
-B-dishName I-dishName I-dishName 0 0 0 0 ？
-0 B-dishName I-dishName I-dishName 0 0 0 。
-B-dishName I-dishName I-dishName I-dishName 0 0 0 ？ 0 ？
-B-dishName I-dishName I-dishName I-dishName I-dishName I-dishName 0 0 。
-0 0 ， 0 0 0 0 0 0 B-dishName I-dishName I-dishName I-dishName I-dishName 0 0 0 0 0 ？
-B-ingredient I-ingredient 0 0 0 。
+B-dishName I-dishName I-dishName I-dishName 0 0 0 0 0
+0 0 0 B-dishName I-dishName 0
+0 0 B-dishName I-dishName 0 0 0 0 0 0 0
+B-dishName I-dishName I-dishName 0 0 0 0 0
+0 B-dishName I-dishName I-dishName 0 0 0 0
+B-dishName I-dishName I-dishName I-dishName 0 0 0 0 0 0
+B-dishName I-dishName I-dishName I-dishName I-dishName I-dishName 0 0 0
+0 0 0 0 0 0 0 0 0 B-dishName I-dishName I-dishName I-dishName I-dishName 0 0 0 0 0 0
+B-ingredient I-ingredient 0 0 0 0
 B-ingredient I-ingredient 0 0 0
-B-dishName I-dishName I-dishName 0 0 0 0 ？
-0 B-dishName I-dishName I-dishName 0 0 0 ？
-B-dishName I-dishName I-dishName 。
-B-dishName I-dishName I-dishName 0 0 0 ？
-0 B-dishName I-dishName I-dishName I-dishName 0 0 0 0 0 0 ？
-B-dishName I-dishName I-dishName 0 0 0 。
+B-dishName I-dishName I-dishName 0 0 0 0 0
+0 B-dishName I-dishName I-dishName 0 0 0 0
+B-dishName I-dishName I-dishName 0
+B-dishName I-dishName I-dishName 0 0 0 0
+0 B-dishName I-dishName I-dishName I-dishName 0 0 0 0 0 0 0
+B-dishName I-dishName I-dishName 0 0 0 0
 B-dishName I-dishName I-dishName I-dishName 0 0 0
-0 B-ingredient I-ingredient 0 0 0 。
+0 B-ingredient I-ingredient 0 0 0 0
 B-ingredient I-ingredient 0 0 0 0 0 0 0 0
-B-ingredient I-ingredient 0 0 0 0 ？
-0 0 0 B-ingredient I-ingredient 0 0 0 ？
-0 B-dishName I-dishName I-dishName I-dishName I-dishName 0 0 0 ？
-B-dishName I-dishName I-dishName I-dishName 0 0 0 0 0 ？
+B-ingredient I-ingredient 0 0 0 0 0
+0 0 0 B-ingredient I-ingredient 0 0 0 0
+0 B-dishName I-dishName I-dishName I-dishName I-dishName 0 0 0 0
+B-dishName I-dishName I-dishName I-dishName 0 0 0 0 0 0
 B-dishName I-dishName I-dishName I-dishName I-dishName 0 0 0
-0 0 0 0 B-dishName I-dishName I-dishName 0 0 0 ？
-0 ， B-dishName I-dishName I-dishName I-dishName 0 0 0 0 0 0 ？
-B-ingredient I-ingredient 0 0 0 0 0 0 0 0 0 0 0 。
-0 0 0 B-dishName I-dishName ？
+0 0 B-utensil I-utensil B-dishName I-dishName I-dishName 0 0 0 0
+0 0 B-dishName I-dishName I-dishName I-dishName 0 0 0 0 0 0 0
+B-ingredient I-ingredient 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 B-dishName I-dishName 0
 B-ingredient 0 0 0
-B-dishName I-dishName 0 0 0 B-dishName I-dishName 0 ？
-B-dishName I-dishName 0 0 0 。
+B-dishName I-dishName 0 0 0 B-dishName I-dishName 0 0
+B-dishName I-dishName 0 0 0 0
 0 B-dishName I-dishName I-dishName I-dishName
 B-dishName I-dishName I-dishName I-dishName 0 0 0
-0 0 B-dishName I-dishName I-dishName 0 0 0 ？
+0 0 B-dishName I-dishName I-dishName 0 0 0 0
 0 B-dishName I-dishName I-dishName
-B-dishName I-dishName I-dishName 0 0 0 0 ？
-B-ingredient I-ingredient 0 0 0 0 0 0 ？
-0 B-dishName I-dishName I-dishName 0 0 0 0 0 0 ！
+B-dishName I-dishName I-dishName 0 0 0 0 0
+B-ingredient I-ingredient 0 0 0 0 0 0 0
+0 B-dishName I-dishName I-dishName 0 0 0 0 0 0 0
 0 0 B-ingredient I-ingredient 0 0 0
-0 ， B-dishName I-dishName I-dishName I-dishName 。
+0 0 B-dishName I-dishName I-dishName I-dishName 0
 0 0 0 0 B-dishName I-dishName I-dishName I-dishName I-dishName 0 0 0 0 0
-B-ingredient I-ingredient I-ingredient 0 0 0 0 0 0 0 ？
-0 0 0 B-dishName I-dishName I-dishName I-dishName 。
-B-ingredient I-ingredient I-ingredient 0 0 。
-B-dishName I-dishName I-dishName I-dishName ， 0 0 0 ？ 0 ？
-B-dishName I-dishName I-dishName I-dishName 0 0 0 ？
+B-ingredient I-ingredient I-ingredient 0 0 0 0 0 0 0 0
+0 0 0 B-dishName I-dishName I-dishName I-dishName 0
+B-ingredient I-ingredient I-ingredient 0 0 0
+B-dishName I-dishName I-dishName I-dishName 0 0 0 0 0 0 0
+B-dishName I-dishName I-dishName I-dishName 0 0 0 0
 0 0 0 0 0 B-dishName I-dishName I-dishName
-0 0 B-dishName I-dishName I-dishName 。
-0 0 0 0 B-dishName I-dishName I-dishName I-dishName 0 0 0 ？
-B-dishName I-dishName I-dishName I-dishName I-dishName 0 0 0 。
-B-ingredient I-ingredient I-ingredient 0 0 0 ？
+0 0 B-dishName I-dishName I-dishName 0
+0 0 0 0 B-dishName I-dishName I-dishName I-dishName 0 0 0 0
+B-dishName I-dishName I-dishName I-dishName I-dishName 0 0 0 0
+B-ingredient I-ingredient I-ingredient 0 0 0 0
 B-dishName I-dishName I-dishName 0
-B-keyword I-keyword 0 0 0 0 0 ？
-0 0 0 0 B-dishName I-dishName 0 0 0 ？
-0 0 B-dishName I-dishName I-dishName 0 0 0 。
+B-keyword I-keyword 0 0 0 0 0 0
+0 0 0 0 B-dishName I-dishName 0 0 0 0
+0 0 B-dishName I-dishName I-dishName 0 0 0 0
 B-ingredient I-ingredient 0 0 0
-0 0 0 B-dishName I-dishName I-dishName ？
-B-ingredient I-ingredient 0 0 0 。
-B-ingredient 0 0 0 0 0 0 ？
-B-dishName I-dishName I-dishName I-dishName 0 0 0 0 0 ？
-B-dishName I-dishName I-dishName I-dishName 。
-0 0 B-dishName I-dishName I-dishName I-dishName 。
-0 B-ingredient I-ingredient 0 0 0 ？
-B-dishName I-dishName I-dishName I-dishName 0 0 0 ？ 0 ？
-B-ingredient I-ingredient 0 0 0 。
-B-dishName I-dishName I-dishName I-dishName I-dishName I-dishName 0 0 0 。
-B-dishName I-dishName I-dishName I-dishName ， 0 0 0 ？
-B-dishName I-dishName I-dishName 。
-B-dishName I-dishName I-dishName I-dishName 0 0 0 。
-B-dishName I-dishName 0 0 0 ？
-0 B-ingredient I-ingredient 0 0 0 0 ？
+0 0 0 B-dishName I-dishName I-dishName 0
+B-ingredient I-ingredient 0 0 0 0
+B-ingredient 0 0 0 0 0 0 0
+B-dishName I-dishName I-dishName I-dishName 0 0 0 0 0 0
+B-dishName I-dishName I-dishName I-dishName 0
+0 0 B-dishName I-dishName I-dishName I-dishName 0
+0 B-ingredient I-ingredient 0 0 0 0
+B-dishName I-dishName I-dishName I-dishName 0 0 0 0 0 0
+B-ingredient I-ingredient 0 0 0 0
+B-dishName I-dishName I-dishName I-dishName I-dishName I-dishName 0 0 0 0
+B-dishName I-dishName I-dishName I-dishName 0 0 0 0 0
+B-dishName I-dishName I-dishName 0
+B-dishName I-dishName I-dishName I-dishName 0 0 0 0
+B-dishName I-dishName 0 0 0 0
+0 B-ingredient I-ingredient 0 0 0 0 0
 B-dishName I-dishName I-dishName 0 0 0 0
-B-dishName I-dishName I-dishName I-dishName 。
+B-dishName I-dishName I-dishName I-dishName 0
 0 0 0 0 0 0 B-dishName I-dishName I-dishName 0 0 0
-B-ingredient I-ingredient 0 0 0 ？
-B-dishName I-dishName I-dishName I-dishName ， 0 0 0 ？ 0 ？
+B-ingredient I-ingredient 0 0 0 0
+B-dishName I-dishName I-dishName I-dishName 0 0 0 0 0 0 0
 B-dishName I-dishName
-B-dishName I-dishName I-dishName I-dishName I-dishName I-dishName 0 0 0 ？
-B-dishName I-dishName I-dishName I-dishName 0 0 0 0 0 0 ？
-B-dishName I-dishName I-dishName I-dishName I-dishName I-dishName I-dishName 。
+B-dishName I-dishName I-dishName I-dishName I-dishName I-dishName 0 0 0 0
+B-dishName I-dishName I-dishName I-dishName 0 0 0 0 0 0 0
+B-dishName I-dishName I-dishName I-dishName I-dishName I-dishName I-dishName 0
 B-dishName I-dishName 0 0 0
-0 0 0 B-dishName I-dishName I-dishName I-dishName 0 ， 0 0 0 0 0 0 。
-B-dishName I-dishName I-dishName I-dishName 0 0 0 ？
+0 0 0 B-dishName I-dishName I-dishName I-dishName 0 0 0 0 0 0 0 0 0
+B-dishName I-dishName I-dishName I-dishName 0 0 0 0
 B-ingredient 0 0 0 0
-0 0 B-dishName I-dishName 。
-B-dishName I-dishName I-dishName 。
-B-dishName I-dishName I-dishName 0 0 0 0 ？
-B-dishName I-dishName I-dishName I-dishName I-dishName 0 0 0 ？
-B-dishName I-dishName I-dishName 0 0 0 ？
-0 B-dishName I-dishName 0 0 0 。
-0 0 0 B-dishName I-dishName 。
-B-dishName I-dishName I-dishName 0 0 0 ？
-0 0 0 B-dishName I-dishName I-dishName 0 ？
-B-dishNamet I-dishNamet I-dishNamet 0 0 0 ？
-0 0 B-dishName I-dishName I-dishName 0 0 0 ？
-B-dishName I-dishName I-dishName I-dishName I-dishName 0 0 0 ？
-B-ingredient I-ingredient 0 0 0 ？
-B-ingredient I-ingredient 0 0 0 ？
-B-dishName I-dishName 。
-0 0 0 ， B-ingredient I-ingredient 0 0 0 ？
+0 0 B-dishName I-dishName 0
+B-dishName I-dishName I-dishName 0
+B-dishName I-dishName I-dishName 0 0 0 0 0
+B-dishName I-dishName I-dishName I-dishName I-dishName 0 0 0 0
+B-dishName I-dishName I-dishName 0 0 0 0
+0 B-dishName I-dishName 0 0 0 0
+0 0 0 B-dishName I-dishName 0
+B-dishName I-dishName I-dishName 0 0 0 0
+0 0 0 B-dishName I-dishName I-dishName 0 0
+B-dishNamet I-dishNamet I-dishNamet 0 0 0 0
+0 0 B-dishName I-dishName I-dishName 0 0 0 0
+B-dishName I-dishName I-dishName I-dishName I-dishName 0 0 0 0
+B-ingredient I-ingredient 0 0 0 0
+B-ingredient I-ingredient 0 0 0 0
+B-dishName I-dishName 0
+0 0 0 0 B-ingredient I-ingredient 0 0 0 0
 B-dishName I-dishName I-dishName I-dishName
-0 0 0 B-keyword I-keyword I-keyword I-keyword 。
+0 0 0 B-keyword I-keyword I-keyword I-keyword 0
 B-dishName I-dishName I-dishName I-dishName
-0 0 0 B-ingredient I-ingredient 0 0 0 0 0 0 0 0 0 0 ， 0 。
-B-dishName I-dishName I-dishName 0 0 0 ， 0 。
-B-dishName I-dishName ， 0 ！
-0 0 B-dishName I-dishName 0 0 0 0 ？
-B-dishName I-dishName I-dishName ， 0 。
-B-dishName I-dishName I-dishName 0 0 0 。
+0 0 0 B-ingredient I-ingredient 0 0 0 0 0 0 0 0 0 0 0 0 0
+B-dishName I-dishName I-dishName 0 0 0 0 0 0
+B-dishName I-dishName 0 0 0
+0 0 B-dishName I-dishName 0 0 0 0 0
+B-dishName I-dishName I-dishName 0 0 0
+B-dishName I-dishName I-dishName 0 0 0 0
 0 B-dishName I-dishName 0 0 0
-0 0 B-dishName I-dishName I-dishName 0 0 0 0 0 0 0 ？
-B-ingredient I-ingredient 0 0 0 ？
+0 0 B-dishName I-dishName I-dishName 0 0 0 0 0 0 0 0
+B-ingredient I-ingredient 0 0 0 0
 0 0 0 0 0 B-dishName I-dishName I-dishName 0 0 0
 B-dishName I-dishName I-dishName I-dishName
-B-ingredient I-ingredient I-ingredient 0 0 0 ， 0 。
-B-dishName I-dishName I-dishName 0 0 0 ？
-B-dishName I-dishName I-dishName I-dishName 。
-B-dishName I-dishName 0 0 0 ？
-0 0 B-dishName I-dishName I-dishName 0 0 0 ？
-0 0 0 B-ingredient 0 0 0 。
-B-dishName I-dishName I-dishName 0 0 0 。
-B-dishName I-dishName I-dishName I-dishName
-0 0 B-dishName I-dishName I-dishName 0 0 0 0 。
-B-dishName I-dishName I-dishName 0 0 0 ？ 0 ？
-B-ingredient I-ingredient 0 0 0 ？
-B-dishName I-dishName I-dishName I-dishName 0 0 0 ？
-B-ingredient I-ingredient 0 0 0 ？
-0 0 0 0 0 B-dishName I-dishName I-dishName 0 0 0 。
-0 0 0 B-dishName I-dishName I-dishName 0 ？
-a B-ingredient I-ingredient 0 0 0 0 0 ？
-B-dishName I-dishName I-dishName I-dishName I-dishName 。
-0 B-ingredient I-ingredient 0 0 0 ？
-B-dishName I-dishName I-dishName 0 0 0 ， a 。
-B-ingredient I-ingredient 0 0 0 0 0 0 ？ 0 ？
-B-dishName I-dishName I-dishName I-dishName 0 0 0 0 0 0 ？
-0 0 0 B-dishName 0 0 ？
-B-dishName I-dishName I-dishName I-dishName 0 0 0 ？ 0 ？
+B-ingredient I-ingredient I-ingredient 0 0 0 0 0 0
+B-dishName I-dishName I-dishName 0 0 0 0
 B-dishName I-dishName I-dishName I-dishName 0
-帮 我 转 发 邮 件
-0 0 0 0 0 0 0 B-content I-content I-content I-content I-content I-content I-content
-我 想 全 部 回 应
-帮 我 写 个 邮 件
-我 想 要 转 发 这 封 邮 件
-我 要 写 条 新 邮 件
-我 要 查 看 邮 件
-替 我 查 看 新 邮 件
-帮 我 写 一 封 邮 件
-替 我 答 复 这 条 邮 件
-我 想 全 部 回 复
-全 部 应 答
-我 要 全 部 回 复
-我 想 要 转 发 这 条 邮 件
+B-dishName I-dishName 0 0 0 0
+0 0 B-dishName I-dishName I-dishName 0 0 0 0
+0 0 0 B-ingredient 0 0 0 0
+B-dishName I-dishName I-dishName 0 0 0 0
+B-dishName I-dishName I-dishName I-dishName
+0 0 B-dishName I-dishName I-dishName 0 0 0 0 0
+B-dishName I-dishName I-dishName 0 0 0 0 0 0
+B-ingredient I-ingredient 0 0 0 0
+B-dishName I-dishName I-dishName I-dishName 0 0 0 0
+B-ingredient I-ingredient 0 0 0 0
+0 0 0 0 0 B-dishName I-dishName I-dishName 0 0 0 0
+0 0 0 B-dishName I-dishName I-dishName 0 0
+0 B-ingredient I-ingredient 0 0 0 0 0 0
+B-dishName I-dishName I-dishName I-dishName I-dishName 0
+0 B-ingredient I-ingredient 0 0 0 0
+B-dishName I-dishName I-dishName 0 0 0 0 0 0
+B-ingredient I-ingredient 0 0 0 0 0 0 0 0 0
+B-dishName I-dishName I-dishName I-dishName 0 0 0 0 0 0 0
+0 0 0 B-dishName 0 0 0
+B-dishName I-dishName I-dishName I-dishName 0 0 0 0 0 0
+B-dishName I-dishName I-dishName I-dishName 0
+0 0 0 0 0 0
+0 0 0 0 B-name I-name 0 B-content I-content I-content I-content I-content I-content I-content
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
 0 0 0 0 B-name I-name
-我 想 写 一 个 新 邮 件
-转 发 这 条 m a i l
-我 要 答 复 邮 件
-我 想 答 复 这 个 邮 件
-替 我 打 开 新 邮 件
-帮 我 写 一 条 新 邮 件
-给 我 写 一 个 新 邮 件
-我 要 回 复 这 条 邮 件
-给 我 打 开 m a i l
-0 0 0 0 0 0 0 0 0 B-name I-name I-name I-name
-B-tvchannel I-tvchannel I-tvchannel I-tvchannel 0 0 0 0 0 ？
-B-datetime_date I-datetime_date 0 0 。
-0 0 0 0 0 0 0 0 B-category I-category I-category I-category I-category
-0 0 0 0 0 0 0 B-name I-name I-name I-name I-name
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+B-tvchannel I-tvchannel I-tvchannel I-tvchannel 0 0 0 0 0 B-name I-name I-name I-name
+B-tvchannel I-tvchannel I-tvchannel I-tvchannel 0 0 0 0 0 0
+B-datetime_date I-datetime_date 0 0 0
+B-datetime_time I-datetime_time 0 0 0 0 0 0 B-category I-category I-category I-category I-category
+0 0 0 B-tvchannel I-tvchannel I-tvchannel I-tvchannel B-name I-name I-name I-name I-name
 B-tvchannel I-tvchannel I-tvchannel I-tvchannel 0 0 0 0
 0 0 0 0 0 0 B-category I-category
-0 0 0 0 0 0 0 0 0 B-category I-category
-0 0 B-datetime_date I-datetime_date I-datetime_date I-datetime_date C C T V - 4 0 0 0 0 0 0 0 0 0 0
-0 0 0 0 B-category I-category 0 0 。
+B-datetime_time I-datetime_time 0 0 0 0 0 0 0 B-category I-category
+0 0 B-datetime_date I-datetime_date I-datetime_date I-datetime_date B-tvchannel I-tvchannel I-tvchannel I-tvchannel I-tvchannel I-tvchannel I-tvchannel I-tvchannel 0 0 B-name I-name I-name I-name I-name 0
+B-tvchannel I-tvchannel I-tvchannel I-tvchannel B-category I-category 0 0 0
 B-tvchannel I-tvchannel I-tvchannel 0 0 0 0 0
-B-datetime_date I-datetime_date 0 0 0 0 0 0 0 0 0 0
-0 0 0 0 0 0 0 B-datetime_time I-datetime_time 0 0 0 0 0 ？
+B-datetime_date I-datetime_date B-tvchannel I-tvchannel I-tvchannel I-tvchannel 0 0 0 0 0 0
+B-tvchannel I-tvchannel I-tvchannel I-tvchannel I-tvchannel I-tvchannel I-tvchannel B-datetime_time I-datetime_time 0 0 0 0 0 0
 0 0 0 0 0 0 0 B-name I-name I-name I-name
 B-name I-name I-name I-name 0 0 0 0 0 0
-0 0 0 0 0 0 0 0 B-category I-category 。
-0 0 0 0 0 B-name I-name I-name I-name
+0 0 0 B-tvchannel I-tvchannel I-tvchannel I-tvchannel 0 B-category I-category 0
+B-tvchannel I-tvchannel I-tvchannel I-tvchannel I-tvchannel B-name I-name I-name I-name
 0 0 B-name I-name I-name I-name 0 0 0 0 0 0
 B-tvchannel I-tvchannel I-tvchannel I-tvchannel I-tvchannel I-tvchannel 0 0 0 0
-0 ， B-tvchannel I-tvchannel I-tvchannel I-tvchannel 0 0 0 0 0 0 ？ 0 。
-B-datetime_time I-datetime_time 0 0 0 0 0 0 0 0 0 ？
-0 0 B-category I-category I-category 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ？
-0 0 0 0 0 0 0 0 0 0 B-category I-category ？
-电 视 台 在 播 什 么 节 目
+0 0 B-tvchannel I-tvchannel I-tvchannel I-tvchannel 0 0 0 0 0 0 0 0 0
+B-datetime_time I-datetime_time B-tvchannel I-tvchannel I-tvchannel I-tvchannel 0 0 0 0 0 0
+0 0 B-category I-category I-category B-name I-name I-name I-name I-name I-name I-name 0 0 0 0 0 0 0 0
+0 0 B-datetime_date I-datetime_date 0 0 0 0 0 0 B-category I-category 0
+0 0 0 0 0 0 0 0 0
 B-tvchannel I-tvchannel I-tvchannel I-tvchannel I-tvchannel I-tvchannel 0 0 0
 B-name I-name I-name I-name I-name 0 0 0 0 0 0
-0 0 0 0 B-datetime_date I-datetime_date 0 0 0 0 0 ？
-0 0 B-name I-name I-name I-name 0 0 0 0 0 0 B-name I-name I-name I-name
+B-tvchannel I-tvchannel I-tvchannel I-tvchannel B-datetime_date I-datetime_date B-datetime_time I-datetime_time 0 0 0 0
+0 0 B-name I-name I-name I-name 0 0 B-tvchannel I-tvchannel I-tvchannel I-tvchannel B-name I-name I-name I-name
 0 0 0 0 0 B-name I-name
-c h c 0 0 0 0 B-datetime_date I-datetime_date 0 0 0 0 0
-B-datetime_date I-datetime_date 0 0 0 0 0 0 。
-0 0 B-date I-date I-date 0 0 0 0 0
+B-tvchannel I-tvchannel I-tvchannel I-tvchannel I-tvchannel I-tvchannel I-tvchannel B-datetime_date I-datetime_date B-datetime_time I-datetime_time 0 0 0
 B-datetime_date I-datetime_date 0 0 0 0 0 0 0
-0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 B-category I-category ？
+0 0 B-date I-date I-date 0 B-name I-name I-name I-name
+B-datetime_date I-datetime_date B-tvchannel I-tvchannel I-tvchannel I-tvchannel 0 0 0
+0 0 0 0 0 0 B-datetime_date I-datetime_date B-datetime_time I-datetime_time 0 0 0 0 0 B-category I-category 0
 B-name I-name I-name I-name I-name 0 0 0 0 0 0
 B-name I-name I-name I-name 0 0 0 0 0
 B-tvchannel I-tvchannel I-tvchannel I-tvchannel I-tvchannel 0 0 0 0 0 0
-0 0 0 0 0 0 B-category I-category ？
-0 0 B-datetime_date I-datetime_date B-datetime_time I-datetime_time I-datetime_time I-datetime_time I-datetime_time 0 0 0 0 0
-0 0 0 0 0 0 B-datetime_date I-datetime_date 0 0 0 0
-B-datetime_date I-datetime_date 0 0 0 0 0
+B-datetime_date I-datetime_date 0 0 0 0 B-category I-category 0
+0 0 B-datetime_date I-datetime_date B-datetime_time I-datetime_time I-datetime_time I-datetime_time I-datetime_time 0 B-tvchannel I-tvchannel I-tvchannel I-tvchannel
+B-tvchannel I-tvchannel I-tvchannel I-tvchannel I-tvchannel I-tvchannel B-datetime_date I-datetime_date 0 0 0 0
+B-datetime_date I-datetime_date 0 B-location_city I-location_city 0 0
 B-tvchannel I-tvchannel I-tvchannel I-tvchannel I-tvchannel 0 0 0 0
-0 0 0 0 0 0 0 B-name I-name I-name I-name 。
-0 0 0 0 0 0 0 0 0 B-name I-name I-name I-name I-name
-0 0 0 0 0 0 B-datetime_time I-datetime_time 0 0 0 0 0 ？
-0 0 0 0 0 0 B-datetime_date I-datetime_date I-datetime_date 0 0 0 0
-0 0 0 0 B-datetime_date I-datetime_date 0 0 0
-0 0 0 0 B-datetime_date I-datetime_date 0 0 0 0 0
+0 0 0 0 0 0 0 B-name I-name I-name I-name 0
+B-tvchannel I-tvchannel I-tvchannel I-tvchannel I-tvchannel I-tvchannel I-tvchannel I-tvchannel I-tvchannel B-name I-name I-name I-name I-name
+B-tvchannel I-tvchannel I-tvchannel I-tvchannel I-tvchannel I-tvchannel B-datetime_time I-datetime_time 0 0 0 0 0 0
+B-tvchannel I-tvchannel I-tvchannel I-tvchannel 0 0 B-datetime_date I-datetime_date I-datetime_date 0 B-name I-name I-name
+B-tvchannel I-tvchannel I-tvchannel I-tvchannel B-datetime_date I-datetime_date 0 0 0
+B-tvchannel I-tvchannel I-tvchannel I-tvchannel B-datetime_date I-datetime_date 0 0 0 0 0
 B-category I-category 0 0 0 0 B-category I-category 0 0
-0 0 0 0 B-name I-name I-name
+B-tvchannel I-tvchannel I-tvchannel I-tvchannel B-name I-name I-name
 B-tvchannel I-tvchannel I-tvchannel I-tvchannel I-tvchannel I-tvchannel I-tvchannel 0 B-name I-name I-name I-name
 0 0 0 0 0 B-name I-name I-name I-name I-name
-0 0 0 0 0 0 0 B-name I-name 。
-0 0 B-tvchannel I-tvchannel I-tvchannel I-tvchannel 0 0 0 0 0 0 0 ？
-0 0 0 0 0 0 0 0 B-name I-name I-name I-name I-name I-name 0
-0 0 0 0 B-datetime_date I-datetime_date 0 0 0 0 0 0 0 0
-0 0 B-tvchannel I-tvchannel I-tvchannel I-tvchannel 0 0 。
+0 0 0 0 0 0 0 B-name I-name 0
+0 0 B-tvchannel I-tvchannel I-tvchannel I-tvchannel 0 0 0 0 0 0 0 0
+0 0 0 B-tvchannel I-tvchannel I-tvchannel I-tvchannel 0 B-name I-name I-name I-name I-name I-name 0
+0 0 0 0 B-datetime_date I-datetime_date B-datetime_time I-datetime_time 0 0 B-name I-name I-name I-name
+0 0 B-tvchannel I-tvchannel I-tvchannel I-tvchannel 0 0 0
 0 0 0 0 0 0 0 0 0 0 0 0 B-name I-name I-name I-name I-name
-0 0 0 0 0 1 2 0 1 8 0 0 0 1 0 : 1 0 0 B-category I-category I-category
-0 0 0 0 B-datetime_date I-datetime_date 0 0 0 0 0 0 0
-0 0 0 0 0 0 B-name I-name I-name 0 0
+B-tvchannel I-tvchannel I-tvchannel I-tvchannel I-tvchannel 0 B-datetime_date I-datetime_date I-datetime_date I-datetime_date I-datetime_date B-datetime_time I-datetime_time I-datetime_time I-datetime_time I-datetime_time I-datetime_time I-datetime_time 0 B-category I-category I-category
+B-tvchannel I-tvchannel I-tvchannel I-tvchannel B-datetime_date I-datetime_date 0 0 B-name I-name I-name I-name I-name
+0 B-tvchannel I-tvchannel I-tvchannel I-tvchannel I-tvchannel B-name I-name I-name 0 0
 0 0 0 0 0 0 0 0 0 0 B-name I-name I-name I-name I-name
-0 0 0 0 0 0 0 0 B-category I-category I-category
-0 0 0 0 0 0 0 0 B-category I-category I-category ？
-B-name I-name I-name 0 0 0 0 0 0 0 。
+B-datetime_time I-datetime_time 0 0 0 0 0 0 B-category I-category I-category
+0 0 0 0 0 B-scoreDescr I-scoreDescr 0 B-category I-category I-category 0
+B-name I-name I-name 0 0 0 0 0 0 0 0
 0 0 0 0 0 B-category I-category
 B-tvchannel I-tvchannel I-tvchannel I-tvchannel 0 0 0 0 0
-0 0 0 0 B-datetime_date I-datetime_date I-datetime_date 0 0 0 0 0 0 0 0
-0 0 0 0 0 0 B-datetime_date I-datetime_date 0 0 0 0
-B-tvchannel I-tvchannel I-tvchannel I-tvchannel 0 0 0 。
+B-tvchannel I-tvchannel I-tvchannel I-tvchannel B-datetime_date I-datetime_date I-datetime_date 0 0 0 B-name I-name I-name I-name 0
+0 0 B-tvchannel I-tvchannel I-tvchannel I-tvchannel B-datetime_date I-datetime_date 0 0 0 0
+B-tvchannel I-tvchannel I-tvchannel I-tvchannel 0 0 0 0
 B-datetime_time I-datetime_time 0 0 0 0 0 0 0
 0 0 0 0 0 0 0 0 0 0 0 0 B-name I-name I-name I-name
-0 0 0 0 0 0 0 B-category I-category I-category 。
-0 0 0 0 0 B-datetime_date I-datetime_date 0 0 0 0 0
-0 0 0 0 B-datetime_time I-datetime_time 0 0 0 0 0 0
-B-datetime_time I-datetime_time 0 0 0 0 0 0 0 0 0 0 ？
-0 0 0 0 0 0 B-name I-name I-name I-name
+B-datetime_time I-datetime_time 0 0 0 0 0 B-category I-category I-category 0
+0 B-tvchannel I-tvchannel I-tvchannel I-tvchannel B-datetime_date I-datetime_date 0 0 0 0 0
+B-tvchannel I-tvchannel I-tvchannel I-tvchannel B-datetime_time I-datetime_time 0 0 0 0 0 0
+B-datetime_time I-datetime_time B-tvchannel I-tvchannel I-tvchannel I-tvchannel 0 0 0 0 0 0 0
+0 0 B-tvchannel I-tvchannel I-tvchannel I-tvchannel B-name I-name I-name I-name
 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 B-name I-name I-name I-name I-name
-0 0 B-name I-name I-name I-name 0 0 。
-0 0 0 0 B-datetime_date I-datetime_date 0 0 0 0 0 0 0 0 0 0 B-code I-code 0 0
+0 0 B-name I-name I-name I-name 0 0 0
+0 0 0 0 B-datetime_date I-datetime_date B-datetime_time I-datetime_time 0 0 0 B-name I-name I-name I-name I-name B-code I-code 0 0
 0 0 0 0 0 0 0 B-name I-name I-name I-name I-name
-B-datetime_time I-datetime_time 0 0 0 0 0 0 0 0 0 0 0
-0 0 0 0 0 B-category I-category I-category 0 0 0
-B-datetime_date I-datetime_date 0 0 0 0 0 0 0 0 0
+B-datetime_time I-datetime_time B-tvchannel I-tvchannel I-tvchannel I-tvchannel 0 0 0 B-name I-name I-name I-name
+0 0 B-popularity I-popularity 0 B-category I-category I-category 0 0 0
+B-datetime_date I-datetime_date B-datetime_time I-datetime_time B-tvchannel I-tvchannel I-tvchannel I-tvchannel 0 0 0
 B-tvchannel I-tvchannel I-tvchannel I-tvchannel 0 0 0 0 0
-0 0 0 0 0 0 B-category I-category ？
-B T V 0 0 0 0 B-name I-name I-name
-0 0 0 B-tvchannel I-tvchannel I-tvchannel I-tvchannel I-tvchannel B-datetime_date I-datetime_date I-datetime_date I-datetime_date I-datetime_date 0 0 0 0 0 0 0 0 0 0
-0 0 0 0 0 B-name I-name I-name 0 ？
-B-datetime_date I-datetime_date 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-B-name I-name I-name I-name I-name 0 0 0 0 0 ？
-0 0 0 0 0 0 0 0 0 0 B-area I-area 0 0
-0 0 0 0 0 0 0 0 0 0 0 B-category I-category I-category
-0 B-datetime_date I-datetime_date 0 0 0 0 0 0 0
+B-datetime_date I-datetime_date 0 0 0 0 B-category I-category 0
+B-tvchannel I-tvchannel I-tvchannel I-tvchannel I-tvchannel I-tvchannel I-tvchannel B-name I-name I-name
+0 0 0 B-tvchannel I-tvchannel I-tvchannel I-tvchannel I-tvchannel B-datetime_date I-datetime_date I-datetime_date I-datetime_date I-datetime_date 0 0 B-name I-name I-name I-name I-name I-name I-name 0
+0 0 0 0 0 B-name I-name I-name 0 0
+B-datetime_date I-datetime_date B-datetime_time I-datetime_time B-tvchannel I-tvchannel I-tvchannel I-tvchannel 0 0 0 B-name I-name I-name I-name I-name 0
+B-name I-name I-name I-name I-name 0 0 0 0 0 0
+0 0 0 B-datetime_time I-datetime_time 0 0 0 0 0 B-area I-area B-category I-category
+B-datetime_date I-datetime_date B-datetime_time I-datetime_time B-tvchannel I-tvchannel I-tvchannel I-tvchannel 0 0 0 B-category I-category I-category
+0 B-datetime_date I-datetime_date B-datetime_time I-datetime_time 0 B-name I-name I-name I-name
 B-tvchannel I-tvchannel I-tvchannel 0 0 0 0 0 0
-0 0 B-datetime_date I-datetime_date I-datetime_date 0 0 8 0 0 0 0 0 0
-0 0 0 B-endLoc_city I-endLoc_city 0 0 0 。
-0 0 0 B-endLoc_city I-endLoc_city 0 0 0
-0 0 0 0 0 0 0 0 0 B-endLoc_city I-endLoc_city 0 0 0
-0 0 0 0 0 0 0 0 B-endLoc_city I-endLoc_city 0 0 0
-0 0 0 0 0 B-endLoc_city I-endLoc_city 0 0 0
-0 0 0 B-endLoc_city I-endLoc_city 0 0 0
-0 0 0 0 0 0 0 0 B-endLoc_city I-endLoc_city 0 0 0
-0 0 0 B-endLoc_city I-endLoc_city 0 0 0 0
-0 0 0 B-endLoc_city I-endLoc_city 0 0 0
-0 0 0 B-endLoc_city I-endLoc_city 0 0 。
-0 0 0 0 0 B-endLoc_area I-endLoc_area I-endLoc_area 0 0 0
-0 0 0 0 0 0 0 B-endLoc_city I-endLoc_city 0 0 0
-0 0 0 0 0 0 0 B-endLoc_city I-endLoc_city 0 0 0
-0 0 0 0 0 B-endLoc_city I-endLoc_city 0 0 0
-0 0 0 B-endLoc_city I-endLoc_city 0 0 0
-0 0 0 0 0 0 0 B-endLoc_city I-endLoc_city 0 0 0
-0 0 0 B-endLoc_city I-endLoc_city 0 0 0 。
-7 0 3 0 0 0 B-endLoc_city I-endLoc_city 0 0 0 。
-0 0 0 B-endLoc_city I-endLoc_city 0 0 0
-0 0 0 B-endLoc_city I-endLoc_city 0 0 0 。
-0 0 0 0 0 0 0 0 B-endLoc_city I-endLoc_city 0 0 0 。
-7 0 2 5 0 0 B-endLoc_city I-endLoc_city 0 0 0 。
+0 0 B-datetime_date I-datetime_date I-datetime_date B-datetime_time I-datetime_time I-datetime_time I-datetime_time 0 B-tvchannel I-tvchannel I-tvchannel I-tvchannel
+B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0 0
+B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0
+0 0 0 0 B-startDate_date I-startDate_date B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0
+0 0 0 0 0 B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0
+0 0 B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0
+B-startDate_date I-startDate_date 0 B-endLoc_city I-endLoc_city 0 0 0
+B-startDate_date I-startDate_date I-startDate_date I-startDate_date 0 B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0
+B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0 0
+B-startLoc_area I-startLoc_area 0 B-endLoc_city I-endLoc_city 0 0 0
+B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0
+0 0 B-startLoc_city I-startLoc_city 0 B-endLoc_area I-endLoc_area I-endLoc_area 0 0 0
+0 0 0 0 B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0
+0 0 B-startDate_date I-startDate_date B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0
+B-startDate_date I-startDate_date B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0
+B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0
+0 0 B-startDate_date I-startDate_date B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0
+B-startDate_date I-startDate_date 0 B-endLoc_city I-endLoc_city 0 0 0 0
+B-startDate_date I-startDate_date I-startDate_date I-startDate_date I-startDate_date 0 B-endLoc_city I-endLoc_city 0 0 0 0
+B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0
+B-startDate_date I-startDate_date 0 B-endLoc_city I-endLoc_city 0 0 0 0
+0 0 0 B-startDate_date I-startDate_date B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0 0
+B-startDate_date I-startDate_date I-startDate_date I-startDate_date I-startDate_date 0 B-endLoc_city I-endLoc_city 0 0 0 0
 0 B-endLoc_city I-endLoc_city 0 0 0 0 0
-0 0 0 0 0 B-endLoc_city I-endLoc_city 0 0 0
-0 0 0 0 B-endLoc_city I-endLoc_city 0 0 0
-0 0 0 0 B-endLoc_city I-endLoc_city 0 0 0
-0 0 0 B-endLoc_city I-endLoc_city 0 0
-0 0 0 0 0 0 0 0 B-endLoc_city I-endLoc_city 0 0 0
-0 0 0 0 0 B-endLoc_city I-endLoc_city 0 0 0
-0 0 0 0 B-endLoc_city I-endLoc_city 0 0 0
-0 0 0 0 0 0 0 0 B-endLoc_city I-endLoc_city 0 0 0 0 0
-0 0 0 0 0 0 B-endLoc_city I-endLoc_city I-endLoc_city 0 0 0
-0 0 0 B-endLoc_city I-endLoc_city 0 0 0
-0 0 4 0 1 0 0 0 0 0 B-endLoc_city I-endLoc_city 0 0 0
-0 0 0 B-endLoc_city I-endLoc_city 0 0 0 0
-0 0 0 0 0 0 0 0 B-endLoc_city I-endLoc_city 0 0 0
-0 0 0 B-endLoc_city I-endLoc_city 0 0 0
-0 0 0 B-endLoc_city I-endLoc_city I-endLoc_city 0 0
+B-startDate_date I-startDate_date B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0
+B-startLoc_city I-startLoc_city 0 0 B-endLoc_city I-endLoc_city 0 0 0
+0 B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0
+B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0
+0 0 0 0 0 B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0
+0 0 B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0
+B-startLoc_city I-startLoc_city 0 0 B-endLoc_city I-endLoc_city 0 0 0
+0 0 0 0 0 B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0 0 0
+0 0 0 B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city I-endLoc_city 0 0 0
+B-startDate_date I-startDate_date 0 B-endLoc_city I-endLoc_city 0 0 0
+0 0 B-startDate_date I-startDate_date I-startDate_date I-startDate_date 0 B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0
+B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0 0
+0 0 0 0 0 B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0
+B-startDate_date I-startDate_date 0 B-endLoc_city I-endLoc_city 0 0 0
+B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city I-endLoc_city 0 0
 0 B-endLoc_city I-endLoc_city 0 0 0
-0 0 0 B-endLoc_city I-endLoc_city 0 0 0
-0 0 0 B-endLoc_city I-endLoc_city 0 0 0
-0 0 0 B-endLoc_city I-endLoc_city 0 0 0
-0 0 0 0 0 0 0 0 0 0 B-endLoc_city I-endLoc_city 0 0 0
-0 0 0 0 0 0 0 0 B-endLoc_city I-endLoc_city 0 0 0
+B-startLoc_area I-startLoc_area 0 B-endLoc_city I-endLoc_city 0 0 0
+B-startLoc_area I-startLoc_area 0 B-endLoc_city I-endLoc_city 0 0 0
+B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0
+B-startDate_date I-startDate_date I-startDate_date I-startDate_date I-startDate_date I-startDate_date 0 B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0
+B-startDate_date I-startDate_date I-startDate_date I-startDate_date I-startDate_date B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0
 0 B-endLoc_city I-endLoc_city 0 0 0
-0 0 0 0 0 B-endLoc_city I-endLoc_city 0 0 0 。
-0 0 0 0 0 B-endLoc_city I-endLoc_city 0 0 0
-0 0 0 0 B-endLoc_city I-endLoc_city 0 0 0
-0 B-endLoc_city I-endLoc_city 0 0 0 。
-0 0 0 0 0 0 0 0 B-endLoc_city I-endLoc_city 0 0 0 0 0
-0 0 0 0 0 0 0 1 7 0 3 0 0 0 0 0 0 0 B-endLoc_city I-endLoc_city 0 0 0 0 0 0 0
-0 0 0 0 0 0 0 0 0 0 B-endLoc_city I-endLoc_city 0 0 0 。
-0 0 0 0 0 0 0 0 0 0 B-endLoc_city I-endLoc_city 0 0 0
-0 0 0 0 0 0 B-endLoc_city I-endLoc_city 0 0 0
-0 0 0 0 0 0 0 0 0 0 B-endLoc_city I-endLoc_city 0 0 0 0
-0 0 0 0 0 B-endLoc_city I-endLoc_city 0 0 0
-0 0 0 0 0 0 0 B-endLoc_city I-endLoc_city 0 0 0
-0 0 0 0 0 B-endLoc_city I-endLoc_city 0 0 0
-0 0 0 B-endLoc_city I-endLoc_city 0 0 0
-0 0 0 0 0 B-endLoc_city I-endLoc_city 0 0 0 。
-0 0 0 0 0 0 0 0 0 B-endLoc_city I-endLoc_city 0 0 0
-B-keyword I-keyword I-keyword 0 0 0 ？
-0 0 B-keyword I-keyword 0 0 0 ？
-B-keyword I-keyword 0 0 ？
-B-keyword I-keyword 0 0 0 ？
-B-keyword I-keyword 0 0 0 ？
-0 0 0 0 0 ， B-keyword I-keyword I-keyword I-keyword 0 0 0 0 ？
-。 B-keyword I-keyword
-B-keyword I-keyword 0 0 0 ？
-B-keyword I-keyword I-keyword I-keyword I-keyword I-keyword 。
-B-keyword I-keyword 。
-B-keyword I-keyword I-keyword 0 0 0 0 0 0 0 ？
-B-keyword I-keyword I-keyword I-keyword 。
+0 0 B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0 0
+0 0 B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0
+0 B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0
+0 B-endLoc_city I-endLoc_city 0 0 0 0
+0 0 0 0 0 B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city B-startDate_date I-startDate_date 0 0 0
+0 0 0 B-startDate_date I-startDate_date 0 0 B-startDate_time I-startDate_time I-startDate_time I-startDate_time I-startDate_time I-startDate_time 0 B-startLoc_city I-startLoc_city 0 0 B-endLoc_city I-endLoc_city B-endLoc_poi I-endLoc_poi I-endLoc_poi I-endLoc_poi 0 0 0
+0 0 0 0 0 B-startDate_date I-startDate_date B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0 0
+B-startDate_date I-startDate_date I-startDate_date I-startDate_date I-startDate_date 0 B-startLoc_city I-startLoc_city 0 0 B-endLoc_city I-endLoc_city 0 0 0
+0 0 0 B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0
+0 0 0 0 0 B-startDate_date I-startDate_date B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0 0
+0 0 B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0
+0 0 B-startDate_date I-startDate_date B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0
+B-startDate_date I-startDate_date I-startDate_date I-startDate_date 0 B-endLoc_city I-endLoc_city 0 0 0
+B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0
+B-startDate_date I-startDate_date B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0 0
+0 0 0 0 0 B-startLoc_city I-startLoc_city 0 0 B-endLoc_city I-endLoc_city 0 0 0
+B-keyword I-keyword I-keyword 0 0 0 0
+0 0 B-keyword I-keyword 0 0 0 0
 B-keyword I-keyword 0 0 0
-B-keyword I-keyword 0 0 0 0 ？
+B-keyword I-keyword 0 0 0 0
+B-keyword I-keyword 0 0 0 0
+0 0 0 0 0 0 B-keyword I-keyword I-keyword I-keyword 0 0 0 0 0
+0 B-keyword I-keyword
+B-keyword I-keyword 0 0 0 0
+B-keyword I-keyword I-keyword I-keyword I-keyword I-keyword 0
+B-keyword I-keyword 0
+B-keyword I-keyword I-keyword 0 0 0 0 0 0 0 0
+B-keyword I-keyword I-keyword I-keyword 0
+B-keyword I-keyword 0 0 0
+B-keyword I-keyword 0 0 0 0 0
 0 0 0 0 B-keyword I-keyword I-keyword I-keyword
-B-keyword I-keyword 0 0 0 ？
-0 0 0 0 B-keyword I-keyword I-keyword 。
-B-keyword I-keyword I-keyword I-keyword ， 0 0 0 ？ 0 。
-B-keyword I-keyword I-keyword 0 0 0 0 。
-B-keyword I-keyword I-keyword 。
+B-keyword I-keyword 0 0 0 0
+0 0 0 0 B-keyword I-keyword I-keyword 0
+B-keyword I-keyword I-keyword I-keyword 0 0 0 0 0 0 0
+B-keyword I-keyword I-keyword 0 0 0 0 0
+B-keyword I-keyword I-keyword 0
 B-keyword I-keyword I-keyword
-B-keyword I-keyword I-keyword I-keyword 。
-B-keyword I-keyword I-keyword 0 0 0 ？
-B-keyword I-keyword 0 0 0 0 0 0 ？
-0 0 0 B-keyword I-keyword ？
+B-keyword I-keyword I-keyword I-keyword 0
+B-keyword I-keyword I-keyword 0 0 0 0
+B-keyword I-keyword 0 0 0 0 0 0 0
+0 0 0 B-keyword I-keyword 0
 B-keyword I-keyword 0 0 0 0
 B-keyword I-keyword
-B-keyword I-keyword I-keyword I-keyword 0 0 0 0 ？ 0 ？
-B-keyword I-keyword I-keyword 0 0 0 ？
-B-keyword I-keyword 。
+B-keyword I-keyword I-keyword I-keyword 0 0 0 0 0 0 0
+B-keyword I-keyword I-keyword 0 0 0 0
+B-keyword I-keyword 0
 0 0 0 0 B-keyword I-keyword I-keyword
-0 0 0 0 0 ， 0 0 0 0 0 0 B-keyword I-keyword 0
+0 0 0 0 0 0 0 0 0 0 0 0 B-keyword I-keyword 0
 0 0 B-keyword I-keyword I-keyword 0 0 0
 B-keyword I-keyword 0 0 0
-0 0 B-keyword I-keyword I-keyword 0 0 0 ？
-B-keyword I-keyword I-keyword I-keyword 0 0 0 0 ？
-B-keyword I-keyword 0 0 0 0 ？
-0 0 0 0 B-keyword I-keyword I-keyword 。
-B-keyword I-keyword I-keyword 0 0 0 ？
-B-keyword I-keyword I-keyword I-keyword 0 0 0 0 ？ 0 。
+0 0 B-keyword I-keyword I-keyword 0 0 0 0
+B-keyword I-keyword I-keyword I-keyword 0 0 0 0 0
+B-keyword I-keyword 0 0 0 0 0
+0 0 0 0 B-keyword I-keyword I-keyword 0
+B-keyword I-keyword I-keyword 0 0 0 0
+B-keyword I-keyword I-keyword I-keyword 0 0 0 0 0 0 0
 B-keyword I-keyword 0 0 0 0
 0 0 0 0 B-keyword I-keyword I-keyword I-keyword 0 0 0
-B-keyword I-keyword I-keyword 0 0 0 ？
-B-keyword I-keyword 0 0 0 0 ？
-B-keyword I-keyword I-keyword 。
+B-keyword I-keyword I-keyword 0 0 0 0
+B-keyword I-keyword 0 0 0 0 0
+B-keyword I-keyword I-keyword 0
 B-keyword I-keyword I-keyword 0 0 0
 B-keyword I-keyword I-keyword 0 0 0 0
-B-keyword I-keyword 0 0 0 0 ？
-B-keyword I-keyword I-keyword 0 0 0 ？
-B-keyword I-keyword 。
-B-keyword I-keyword 0 0 0 ？
+B-keyword I-keyword 0 0 0 0 0
+B-keyword I-keyword I-keyword 0 0 0 0
+B-keyword I-keyword 0
+B-keyword I-keyword 0 0 0 0
 B-keyword I-keyword 0
 B-keyword I-keyword 0 0 0
 0 0 0 0 B-keyword I-keyword
-B-keyword I-keyword I-keyword ， 0 0 0 0 0 。
-0 0 0 0 0 B-datetime_date I-datetime_date 0 0 0 1 5 0 5
-我 要 买 彩 票 。
+B-keyword I-keyword I-keyword 0 0 0 0 0 0 0
+0 0 0 0 0 B-datetime_date I-datetime_date 0 0 0 B-name I-name I-name I-name
+0 0 0 0 0 0
 0 0 B-name I-name I-name 0 0 0 0 0
-0 0 0 0 0 B-datetime_date I-datetime_date I-datetime_date I-datetime_date I-datetime_date I-datetime_date I-datetime_date I-datetime_date I-datetime_date 0 0 0 1 5 0 5 0 0 0 0
+0 0 0 0 0 B-datetime_date I-datetime_date I-datetime_date I-datetime_date I-datetime_date I-datetime_date I-datetime_date I-datetime_date I-datetime_date 0 0 0 B-name I-name I-name I-name 0 0 0 0
 0 B-name I-name I-name 0 0 0 0
 0 0 0 0 B-name I-name I-name
 0 0 B-name I-name I-name 0 0 0 0 0
-0 0 0 B-name I-name I-name 0 0 0
+B-relIssue I-relIssue I-relIssue B-name I-name I-name 0 0 0
 B-name I-name I-name 0 0 0 0 0
 0 0 B-name I-name I-name 0 0 0 0 0
-我 要 查 彩 票 的 开 奖 信 息 。
+0 0 0 0 0 0 0 0 0 0 0
 0 0 0 B-name I-name I-name 0 0 0
 0 0 0 0 0 B-name I-name I-name I-name 0 0 0 0
-0 0 B-name I-name I-name 0 0 0 0 0 0 0 0 ？
+0 0 B-name I-name I-name 0 0 0 0 0 0 0 0 0
 0 0 B-name I-name I-name I-name 0 0 0 0 0
 B-name I-name I-name
 0 0 B-name I-name I-name 0 0 0 0 0
 0 0 B-name I-name I-name 0 0 0 0 0
-0 0 0 B-datetime_date I-datetime_date I-datetime_date 0 0 0 0 0 0
+0 0 0 B-datetime_date I-datetime_date I-datetime_date 0 0 0 B-name I-name I-name
 0 0 0 0 B-name I-name I-name
-0 0 0 0 0 0 0 0 0 B-name I-name I-name
-B-name I-name I-name 0 0 0 0 0 0 0 0 ？
+0 0 0 0 0 B-relIssue I-relIssue I-relIssue 0 B-name I-name I-name
+B-name I-name I-name 0 0 0 0 0 0 0 0 0
 B-name I-name I-name 0 0 0 0 0
 0 B-endLoc_area I-endLoc_area 0 0 0
-0 0 0 B-endLoc_area I-endLoc_area 0 0
+0 B-endLoc_city I-endLoc_city B-endLoc_area I-endLoc_area 0 0
 B-location_poi I-location_poi I-location_poi I-location_poi 0 0 0
-0 0 0 B-endLoc_area I-endLoc_area 0 0 0 0 0
-0 0 0 0 B-endLoc_city I-endLoc_city 0 0 0
-0 0 0 B-endLoc_city I-endLoc_city
+0 0 0 B-endLoc_area I-endLoc_area 0 B-endLoc_poi I-endLoc_poi I-endLoc_poi I-endLoc_poi
+0 B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0
+B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city
 B-location_poi I-location_poi I-location_poi I-location_poi I-location_poi 0 0
 B-location_poi I-location_poi I-location_poi I-location_poi 0 0 0
 0 B-endLoc_poi I-endLoc_poi I-endLoc_poi I-endLoc_poi 0 0 0
@@ -1544,126 +1541,126 @@ B-location_poi I-location_poi I-location_poi I-location_poi 0 0 0
 B-location_poi I-location_poi I-location_poi I-location_poi I-location_poi 0 0 0
 0 0 0 B-endLoc_poi I-endLoc_poi I-endLoc_poi I-endLoc_poi 0 0 0
 0 B-endLoc_poi I-endLoc_poi
-B-location_city I-location_city 0 0 0 0 0 0 0
+B-location_city I-location_city B-location_poi I-location_poi I-location_poi I-location_poi 0 0 0
 0 B-endLoc_poi I-endLoc_poi I-endLoc_poi I-endLoc_poi 0 0 0
-0 0 B-location_city I-location_city 0 0 0
+B-location_province I-location_province B-location_city I-location_city 0 0 0
 0 B-endLoc_poi I-endLoc_poi I-endLoc_poi 0 0 0 0 0 0 0 0 0 0
 0 B-endLoc_area I-endLoc_area 0 0 0
-B-location_city I-location_city 0 0 0 0 0 0
+B-location_city I-location_city 0 B-location_poi I-location_poi I-location_poi 0 0
 0 0 0 B-endLoc_poi I-endLoc_poi I-endLoc_poi I-endLoc_poi
-0 B-endLoc_city I-endLoc_city 0 0 0 0 0 0 0 0 0
+0 B-endLoc_city I-endLoc_city 0 B-endLoc_poi I-endLoc_poi I-endLoc_poi I-endLoc_poi I-endLoc_poi 0 0 0
 0 0 0 0 0 B-location_poi I-location_poi I-location_poi
 0 B-endLoc_poi I-endLoc_poi I-endLoc_poi I-endLoc_poi I-endLoc_poi 0 0 0
 0 B-endLoc_poi I-endLoc_poi 0 0 0
 0 0 0 B-endLoc_area I-endLoc_area
-B-location_city I-location_city I-location_city 0 0 0 0 0 0 0 0
+B-location_city I-location_city I-location_city B-location_poi I-location_poi I-location_poi I-location_poi I-location_poi 0 0 0
 B-location_poi I-location_poi I-location_poi I-location_poi 0 0 0 0
 0 0 0 0 B-endLoc_poi I-endLoc_poi I-endLoc_poi 0 0 0
-0 0 0 0 0 B-endLoc_city I-endLoc_city 0 0 0
-讯 飞 语 点 我 现 在 在 哪 里
+0 0 B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0
+0 0 0 0 0 0 0 0 0 0
 B-endLoc_poi I-endLoc_poi I-endLoc_poi 0 0 0
 0 0 0 B-endLoc_poi I-endLoc_poi I-endLoc_poi
-0 B-endLoc_city I-endLoc_city 0 0 0
-B-location_city I-location_city 0 0 0 0 0
-0 0 0 0 0 0 0 B-endLoc_poi I-endLoc_poi I-endLoc_poi I-endLoc_poi 0 0 0
-0 0 0 0 0 B-location_city I-location_city 0 0 0 0 0 0 0
-我 所 在 地 理 位 置
+0 B-endLoc_city I-endLoc_city B-endLoc_poi I-endLoc_poi I-endLoc_poi
+B-location_city I-location_city B-location_poi I-location_poi 0 0 0
+0 B-startLoc_poi I-startLoc_poi I-startLoc_poi I-startLoc_poi I-startLoc_poi 0 B-endLoc_poi I-endLoc_poi I-endLoc_poi I-endLoc_poi 0 0 0
+0 0 0 0 0 B-location_city I-location_city 0 B-location_poi I-location_poi I-location_poi 0 0 0
+0 0 0 0 0 0 0
 0 0 0 0 0 B-location_poi I-location_poi I-location_poi I-location_poi 0 0
 0 0 0 0 0 B-location_poi I-location_poi I-location_poi
-0 0 0 B-endLoc_city I-endLoc_city I-endLoc_city
+B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city I-endLoc_city
 0 0 0 0 0 B-endLoc_poi I-endLoc_poi I-endLoc_poi I-endLoc_poi 0 0 0 0 0
 0 B-endLoc_area I-endLoc_area I-endLoc_area 0 0 0
-0 0 0 0 0 0 B-endLoc_poi I-endLoc_poi I-endLoc_poi I-endLoc_poi I-endLoc_poi I-endLoc_poi
+B-startLoc_city I-startLoc_city B-startLoc_poi I-startLoc_poi I-startLoc_poi 0 B-endLoc_poi I-endLoc_poi I-endLoc_poi I-endLoc_poi I-endLoc_poi I-endLoc_poi
 0 0 0 B-location_city I-location_city 0 0 0
 0 B-endLoc_poi I-endLoc_poi I-endLoc_poi I-endLoc_poi 0 0 0
 B-location_poi I-location_poi I-location_poi I-location_poi 0 0 0
-0 0 0 0 B-endLoc_poi I-endLoc_poi I-endLoc_poi I-endLoc_poi I-endLoc_poi 0 0 0 0 0 0 0 0
-我 们 现 在 在 什 么 地 方
+0 0 0 0 B-endLoc_poi I-endLoc_poi I-endLoc_poi I-endLoc_poi I-endLoc_poi 0 0 B-type I-type I-type 0 0 0
+0 0 0 0 0 0 0 0 0
 0 0 0 0 0 B-endLoc_poi I-endLoc_poi I-endLoc_poi I-endLoc_poi I-endLoc_poi 0 0 0
 B-endLoc_poi I-endLoc_poi I-endLoc_poi I-endLoc_poi 0 0 0
-0 0 0 0 0 0 B-endLoc_city I-endLoc_city I-endLoc_city 0 0 0 0
-B-location_area I-location_area 0 0 0 0 0 0
-0 0 0 0 0 0 0 B-endLoc_poi I-endLoc_poi 0 0
-0 0 0 0 0 0 0 0 0 B-endLoc_poi I-endLoc_poi I-endLoc_poi
-0 0 0 0 0 B-endLoc_poi I-endLoc_poi I-endLoc_poi I-endLoc_poi I-endLoc_poi I-endLoc_poi 0 0 0
+0 0 0 B-endLoc_province I-endLoc_province I-endLoc_province B-endLoc_city I-endLoc_city I-endLoc_city B-endLoc_area I-endLoc_area I-endLoc_area I-endLoc_area
+B-location_area I-location_area B-location_poi I-location_poi I-location_poi 0 0 0
+0 0 0 0 0 B-endLoc_province I-endLoc_province B-endLoc_poi I-endLoc_poi 0 0
+0 B-startLoc_poi I-startLoc_poi I-startLoc_poi I-startLoc_poi I-startLoc_poi 0 0 0 B-endLoc_poi I-endLoc_poi I-endLoc_poi
+0 B-startLoc_poi I-startLoc_poi I-startLoc_poi 0 B-endLoc_poi I-endLoc_poi I-endLoc_poi I-endLoc_poi I-endLoc_poi I-endLoc_poi 0 0 0
 0 0 0 B-endLoc_poi I-endLoc_poi I-endLoc_poi
 B-endLoc_area I-endLoc_area 0 0 0 0
 B-location_poi I-location_poi I-location_poi I-location_poi 0 0 0 0
-0 0 0 B-location_area I-location_area 0 0 0
-0 0 0 B-endLoc_city I-endLoc_city 0 0 0
+B-location_province I-location_province I-location_province B-location_area I-location_area 0 0 0
+B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0
 0 0 0 0 0 0 B-location_poi I-location_poi I-location_poi I-location_poi
 0 0 0 B-location_poi I-location_poi I-location_poi I-location_poi I-location_poi I-location_poi 0 0 0 0
-0 0 0 0 0 B-endLoc_city I-endLoc_city 0 0 0 0
-0 0 0 B-endLoc_city I-endLoc_city 0 0 0
+0 B-startLoc_city I-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0 0
+B-startLoc_area I-startLoc_area 0 B-endLoc_city I-endLoc_city 0 0 0
 0 0 0 B-endLoc_poi I-endLoc_poi I-endLoc_poi
 0 0 0 B-endLoc_poi I-endLoc_poi I-endLoc_poi I-endLoc_poi
-B-datetime_date I-datetime_date I-datetime_date I-datetime_date I-datetime_date 0 0 0 0 0 0 0 0 0 0 0 0 0
-B-name I-name I-name I-name 0 0 0 。
-0 0 ， B-name I-name I-name I-name 0 0 0 。
-B-category I-category 0 0 0 0 ， 0 0 0 ？
-B-category I-category 0 0 0 0 0 0 0 ？
-0 0 0 B-category I-category 0 0 0 ， 0 0 0 0 0 。
-0 0 0 0 0 B-datetime_date I-datetime_date I-datetime_date I-datetime_date 0 0 0 0 0 0 0 0 0 0
-0 0 0 0 B-datetime_date I-datetime_date I-datetime_date I-datetime_date I-datetime_date 0 0 0 0 0
-2 0 1 3 0 B-category I-category I-category I-category ， 0 0 0 0 。
-B-category I-category 0 0 ， 0 0 。
-0 0 B-category I-category 0 0 。
-0 ， B-category I-category 0 0 0 0 0 0 0 。
-B-category I-category 0 0 0 0 ， 0 。
-0 0 0 0 0 B-category I-category ， 0 2 5 0 0 0 0 0 0 。
-B-name I-name I-name I-name 0 0 0 。
-0 0 0 0 B-category I-category I-category I-category ， 0 0 0 0 。
-B-category I-category 0 0 0 0 0 ？
-B-name I-name I-name I-name 0 0 0 。
-B-category I-category A 0 0 0 0 0 0 0 0 0 0
-0 0 0 0 0 B-category I-category 3 0 0 0 0 0 0 0
-B-homeName I-homeName 0 0 0 0 0 0 0 0 0 ？
-B-category I-category 0 0 0 0 。
+B-datetime_date I-datetime_date I-datetime_date I-datetime_date I-datetime_date B-name I-name I-name I-name 0 0 0 0 0 0 0 0 0
+B-name I-name I-name I-name 0 0 0 0
+0 0 0 B-name I-name I-name I-name 0 0 0 0
+B-category I-category 0 0 0 0 0 B-datetime_date I-datetime_date 0 0
+B-category I-category 0 0 0 0 0 0 0 0
+0 0 0 B-category I-category 0 0 0 0 0 0 0 0 0 0
+B-name I-name I-name I-name 0 B-datetime_date I-datetime_date I-datetime_date I-datetime_date 0 0 0 0 0 0 0 0 0 0
+B-name I-name I-name I-name B-datetime_date I-datetime_date I-datetime_date I-datetime_date I-datetime_date 0 0 0 0 0
+B-datetime_date I-datetime_date I-datetime_date I-datetime_date I-datetime_date B-category I-category I-category I-category 0 0 0 0 0 0
+B-category I-category 0 0 0 B-type I-type 0
+0 0 B-category I-category 0 0 0
+0 0 B-category I-category 0 0 0 0 0 0 0 0
+B-category I-category 0 0 0 0 0 0 0
+0 0 0 0 0 B-category I-category 0 0 0 0 0 0 0 0 0 0 0
+B-name I-name I-name I-name 0 0 0 0
+B-name I-name I-name I-name B-category I-category I-category I-category 0 0 0 0 0 0
+B-category I-category 0 0 0 0 0 0
+B-name I-name I-name I-name 0 0 0 0
+B-category I-category 0 0 0 0 B-type I-type 0 0 0 0 0
+0 0 0 0 0 B-category I-category B-datetime_date I-datetime_date I-datetime_date 0 0 0 0 0
+B-homeName I-homeName B-awayName I-awayName I-awayName I-awayName 0 0 0 0 0 0
+B-category I-category 0 0 0 0 0
 0 0 0 0 B-name I-name
 0 B-name I-name 0 0 0 0 0
-0 0 0 0 0 0 0 B-content I-content I-content I-content I-content I-content I-content I-content
+0 0 0 0 B-name I-name I-name B-content I-content I-content I-content I-content I-content I-content I-content
 0 B-name I-name I-name 0 0 0
 0 B-name I-name I-name 0 0 0
-发 短 信
-0 0 0 0 0 0 0 B-content I-content I-content I-content
-0 0 0 0 0 0 0 B-content I-content I-content I-content I-content I-content
-0 0 0 0 0 0 0 0 0 0 0 0 B-content I-content I-content I-content I-content I-content
-0 0 0 0 0 0 B-content I-content I-content I-content
+0 0 0
+0 0 0 0 B-name I-name 0 B-content I-content I-content I-content
+0 B-name I-name 0 0 0 0 B-content I-content I-content I-content I-content I-content
+0 0 0 0 0 B-name I-name I-name I-name I-name 0 0 B-content I-content I-content I-content I-content I-content
+0 B-name I-name 0 0 0 B-content I-content I-content I-content
 0 B-name I-name I-name 0 0 0
 0 B-name I-name I-name 0 0 0
-0 0 0 0 0 0 0 0 B-content I-content I-content I-content I-content I-content I-content I-content
+0 B-name I-name I-name 0 0 0 0 B-content I-content I-content I-content I-content I-content I-content I-content
 0 0 0 0 B-name I-name I-name
-0 0 0 0 0 0 0 B-content I-content I-content I-content I-content I-content
+0 B-name I-name I-name 0 0 0 B-content I-content I-content I-content I-content I-content
 0 0 0 0 B-name I-name I-name
-0 0 0 0 0 0 0 B-content I-content I-content I-content I-content I-content I-content I-content I-content
+0 0 0 0 B-name I-name 0 B-content I-content I-content I-content I-content I-content I-content I-content I-content
 0 B-name I-name I-name 0 0 0
-0 0 0 0 0 0 B-content I-content I-content I-content I-content I-content I-content I-content I-content I-content I-content
-0 0 0 0 0 0 0 “ B-content I-content I-content I-content I-content I-content I-content I-content I-content ”
+0 B-name I-name 0 0 0 B-content I-content I-content I-content I-content I-content I-content I-content I-content I-content I-content
+0 0 0 0 B-name I-name 0 0 B-content I-content I-content I-content I-content I-content I-content I-content I-content 0
 0 B-name I-name I-name 0 0 0
-0 0 0 0 0 0 B-content I-content I-content I-content I-content I-content
-0 0 0 0 0 0 0 0 B-content I-content I-content I-content I-content I-content I-content
+0 0 0 0 B-name I-name B-content I-content I-content I-content I-content I-content
+0 B-name I-name I-name 0 0 0 0 B-content I-content I-content I-content I-content I-content I-content
 0 0 0 0 B-name I-name I-name
-0 0 0 0 0 0 0 B-content I-content I-content I-content I-content
-0 0 0 0 0 0 0 B-content I-content I-content I-content I-content I-content I-content
-我 现 在 要 发 一 条 信 息
+0 0 0 0 B-name I-name 0 B-content I-content I-content I-content I-content
+0 0 0 0 B-name I-name 0 B-content I-content I-content I-content I-content I-content I-content
+0 0 0 0 0 0 0 0 0
 0 B-name I-name 0 0 0
 0 B-name I-name 0 0 0
 0 B-name I-name 0 0 0
 0 B-name I-name I-name 0 0 0
 0 B-name I-name I-name 0 0 0
-0 0 0 0 0 0 B-content I-content I-content I-content I-content I-content I-content I-content I-content I-content I-content I-content I-content I-content I-content I-content
+0 B-name I-name 0 0 0 B-content I-content I-content I-content I-content I-content I-content I-content I-content I-content I-content I-content I-content I-content I-content I-content
 0 B-name I-name I-name 0 0 0
 0 B-name I-name 0 0 0
 0 B-name I-name I-name 0 0 0
-0 0 0 0 0 B-content I-content I-content I-content I-content I-content I-content I-content I-content I-content I-content I-content I-content I-content
+0 0 0 0 B-name B-content I-content I-content I-content I-content I-content I-content I-content I-content I-content I-content I-content I-content I-content
 0 B-name I-name 0 0 0
 0 B-name I-name 0 0 0
 0 B-name I-name I-name 0 0 0
-0 B-name I-name I-name 0 0 0 0 0 0 0 0 0 0
-0 0 0 0 0 0 0 B-content I-content I-content I-content I-content I-content I-content I-content
+0 B-name I-name I-name 0 0 0 0 0 0 0 B-receiver I-receiver I-receiver
+0 0 0 0 B-name I-name 0 B-content I-content I-content I-content I-content I-content I-content I-content
 0 B-name I-name 0 0 0
 0 0 0 0 B-name I-name
-帮 我 发 条 短 信 吧
+0 0 0 0 0 0 0
 0 B-name 0 0 0
 0 0 0 0 B-name I-name I-name 0
 0 B-name I-name 0 0 0
@@ -1671,303 +1668,303 @@ B-category I-category 0 0 0 0 。
 0 0 0 0 B-name I-name I-name I-name
 0 0 0 0 0 B-name I-name I-name
 0 0 0 0 B-name I-name
-0 0 0 0 0 0 0 0 0 B-content I-content I-content I-content I-content I-content
+0 B-name I-name 0 0 0 0 0 0 B-content I-content I-content I-content I-content I-content
 0 B-name I-name 0 0 0
 0 0 0 0 0 B-name I-name I-name
-0 0 0 0 0 0 0 B-content I-content I-content I-content I-content I-content I-content
+0 0 0 0 B-name I-name 0 B-content I-content I-content I-content I-content I-content I-content
 0 0 0 0 0 B-name I-name
 0 B-name I-name I-name 0 0 0
 0 B-name I-name I-name 0 0 0
-0 0 B-song I-song I-song I-song 。
-随 便 唱 几 首 歌 吧
+0 0 B-song I-song I-song I-song 0
+0 0 0 0 0 0 0
 0 0 0 0 0 B-song I-song
 0 0 0 0 0 0 0 B-song I-song I-song
 0 0 0 B-song I-song 0 0 0
 0 0 B-song I-song
-0 0 0 0 B-artist I-artist I-artist 0 0 。
+0 0 0 0 B-artist I-artist I-artist 0 0 0
 0 0 0 B-song I-song I-song I-song
 0 0 0 B-song I-song I-song 0 0 0
-0 0 ， B-song I-song I-song 。
+0 0 0 B-song I-song I-song 0
 0 0 0 B-song I-song I-song 0 0 0
 0 0 0 0 B-song I-song
-0 0 B-song I-song I-song I-song 。
-0 0 B-song I-song I-song I-song I-song 。
+0 0 B-song I-song I-song I-song 0
+0 0 B-song I-song I-song I-song I-song 0
 0 0 0 B-song I-song I-song I-song 0 0 0
-我 听 首 歌
+0 0 0 0
 0 0 0 B-artist I-artist I-artist 0 0 0
 0 0 B-song I-song I-song I-song I-song I-song 0 0 0
 0 B-song I-song I-song I-song 0 0 0
 0 0 0 0 0 B-artist I-artist I-artist 0 0
 0 0 0 B-song I-song I-song I-song 0 0 0 0
-0 B-artist I-artist I-artist 0 0 0 。
-我 想 听 首 歌
-放 一 首 音 乐 给 我 听
-0 0 0 B-song I-song I-song ， 0 0 0 0 。
+0 B-artist I-artist I-artist 0 B-song I-song 0
+0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 B-song I-song I-song 0 0 0 0 0 0
 0 0 0 0 0 B-song I-song I-song
 0 0 0 B-song I-song I-song I-song I-song
-0 0 0 B-song I-song 。
+0 0 0 B-song I-song 0
 0 0 0 0 B-category I-category 0 0 0
-0 0 B-artist I-artist I-artist 0 0 0
-放 首 歌 给 我 听 吧
+0 0 B-artist I-artist I-artist 0 B-song I-song
+0 0 0 0 0 0 0
 0 0 0 B-song I-song I-song I-song I-song I-song
-给 我 随 便 来 几 首 歌
-0 0 0 B-song I-song 0 0 0 。
+0 0 0 0 0 0 0 0
+0 0 0 B-song I-song 0 0 0 0
 0 0 B-song I-song
 0 0 B-song I-song I-song I-song
-0 0 0 B-song I-song I-song I-song I-song I-song I-song 0 0 0 。
+0 0 0 B-song I-song I-song I-song I-song I-song I-song 0 0 0 0
 0 0 0 B-song I-song 0 0 0
 0 0 0 B-song I-song
-随 便 给 我 放 几 首 歌
+0 0 0 0 0 0 0 0
 0 0 B-song I-song 0 0 0
 0 0 0 0 0 B-song I-song I-song I-song
 0 0 B-song I-song I-song I-song I-song I-song I-song
-0 0 0 B-song I-song I-song I-song 。
+0 0 0 B-song I-song I-song I-song 0
 0 0 0 B-category I-category 0 0
 0 0 0 B-song I-song I-song I-song
-0 0 0 B-song I-song I-song I-song 。
+0 0 0 B-song I-song I-song I-song 0
 0 0 0 B-song I-song I-song
-给 我 放 首 歌
-放 首 歌 听 一 下 你 好
+0 0 0 0 0
+0 0 0 0 0 0 0 0
 0 0 B-song I-song I-song I-song
 0 0 0 B-song I-song I-song 0 0 0
 0 0 0 B-song I-song 0 0 0 0
 0 0 B-artist I-artist 0 0
-0 0 0 B-artist I-artist I-artist 0 0 0 0
+0 0 0 B-artist I-artist I-artist 0 B-song I-song I-song
 0 0 B-artist I-artist I-artist 0 0
-0 0 0 0 0 B-song I-song I-song 。
+0 0 0 0 0 B-song I-song I-song 0
 0 0 0 B-song I-song I-song
 0 0 0 B-song I-song I-song I-song I-song
-0 0 0 B-artist I-artist I-artist 0 0 0 0 0 0
+0 0 0 B-artist I-artist I-artist 0 B-song I-song 0 0 0
 0 0 B-category I-category I-category I-category I-category
 0 0 0 0 B-song I-song I-song I-song
-喂 喂 那 个 我 说 想 听 音 乐 呢
-B-artist I-artist 0 0 。
+0 0 0 0 0 0 0 0 0 0 0
+B-artist I-artist B-song I-song 0
 0 0 0 B-song I-song I-song I-song I-song
 0 0 0 0 B-song I-song I-song
-0 0 B-category I-category 0 0 。
-0 0 B-datetime_date I-datetime_date 0 0 0 0 0
+0 0 B-category I-category 0 0 0
+B-location_country I-location_country B-datetime_date I-datetime_date 0 0 0 0 0
 0 0 0 B-datetime_date I-datetime_date 0 0 0 0 0
-0 0 0 B-datetime_time I-datetime_time 0 0 0 0 0 0 0 0 ？
-0 0 0 0 B-category I-category 0 0
-零 七 播 报 新 闻 。
-0 0 0 0 B-category I-category 0 0 。
+0 0 0 B-datetime_time I-datetime_time 0 B-keyword I-keyword 0 0 0 0 0 0
+0 0 B-media I-media B-category I-category 0 0
+0 0 0 0 0 0 0
+0 0 0 0 B-category I-category 0 0 0
 B-location_city I-location_city 0 0
 0 0 B-keyword I-keyword I-keyword 0 0 0 0 0
-答 复 ， 我 要 听 新 闻 。
-听 新 闻 ， 姨 。
-0 0 B-keyword I-keyword 0 0 。
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 B-keyword I-keyword 0 0 0
 B-keyword I-keyword 0 0 0 0 0 0 0
-我 想 听 ， 新 闻 。
-0 0 0 0 B-datetime_date I-datetime_date 0 0 0 。
-讲 点 新 闻
-但 我 想 点 新 闻 。
-B-datetime_date I-datetime_date 0 0 0 0 0 0 0
-0 0 0 B-datetime_date I-datetime_date 0 0 0 0 。
-0 0 B-datetime_date I-datetime_date 0 0 0 。
-0 0 0 0 0 B-category I-category 0 0
-0 0 0 B-datetime_date I-datetime_date 0 0 0 0 0
-B-datetime_date I-datetime_date 0 0 0 0 0 0 0 。
-0 0 0 B-datetime_date I-datetime_date 0 0 0 0 0 。
-艾 莱 冈 给 我 点 新 闻 。
-0 0 0 0 0 B-category I-category 0 0 0 。
-0 ， B-datetime_date I-datetime_date 0 0 0 0 0 。
-0 0 B-datetime_date I-datetime_date 0 0 。
-0 0 0 ， B-location_province I-location_province 0 0 。
-0 0 B-datetime_date I-datetime_date 0 0 0 0 0 0 0 0 0 0 0 ？
-0 0 0 0 0 0 B-datetime_date I-datetime_date 0 0 0 0 ！
-B-datetime_date I-datetime_date 0 0 0 ， 0
-我 也 听 新 闻 。
-0 0 0 B-category I-category 0 0 0 ？
-多 想 听 新 闻 ， 哦 。
+0 0 0 0 0 0 0
+0 0 0 0 B-datetime_date I-datetime_date 0 0 0 0
+0 0 0 0
+0 0 0 0 0 0 0
+B-datetime_date I-datetime_date B-location_city I-location_city 0 0 0 0 0
+0 0 0 B-datetime_date I-datetime_date B-datetime_time I-datetime_time 0 0 0
+0 0 B-datetime_date I-datetime_date 0 0 0 0
+B-datetime_date I-datetime_date 0 0 0 B-category I-category 0 0
+B-location_city I-location_city I-location_city B-datetime_date I-datetime_date 0 0 0 0 0
+B-datetime_date I-datetime_date B-location_city I-location_city 0 0 0 0 0 0
+0 0 0 B-datetime_date I-datetime_date B-datetime_time I-datetime_time 0 0 0 0
+0 0 0 0 0 0 0 0 0
+B-datetime_date I-datetime_date 0 0 0 B-category I-category 0 0 0 0
+0 0 B-datetime_date I-datetime_date 0 0 0 0 0 0
+0 0 B-datetime_date I-datetime_date 0 0 0
+0 0 0 0 B-location_province I-location_province 0 0 0
+0 0 B-datetime_date I-datetime_date 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 B-datetime_date I-datetime_date 0 0 0 0 0
+B-datetime_date I-datetime_date 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 B-category I-category 0 0 0 0
+0 0 0 0 0 0 0 0
 0 0 0 0 0 0 B-datetime_date I-datetime_date 0 0 0
-0 B-datetime_date I-datetime_date 0 0 0 。
-B-category I-category 0 0 。
-报 点 新 闻 给 我 听 。
+0 B-datetime_date I-datetime_date 0 0 0 0
+B-category I-category 0 0 0
+0 0 0 0 0 0 0 0
 0 0 0 B-category I-category 0 0 0
-0 0 0 B-datetime_date I-datetime_date 0 0 0 0 0 ？
-0 0 0 B-datetime_date I-datetime_date 0 0 0 。
-0 0 B-datetime_date I-datetime_date 0 0 0 。
-B-datetime_date I-datetime_date 0 0 0 0 0 0 。
-看 看 有 什 么 好 新 闻
-0 0 0 0 0 0 0 0 0 0 0 0 0 0 B-datetime_date I-datetime_date 0 0 0 。
-加 ， 听 新 闻 。
+0 0 0 B-datetime_date I-datetime_date 0 0 0 0 0 0
+0 0 0 B-datetime_date I-datetime_date 0 0 0 0
+0 0 B-datetime_date I-datetime_date 0 0 0 0
+B-datetime_date I-datetime_date 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 B-location_province I-location_province I-location_province B-location_city I-location_city I-location_city B-datetime_date I-datetime_date 0 0 0 0
+0 0 0 0 0 0
 0 0 B-keyword I-keyword 0 0
-听 听 新 闻 。
-B-datetime_date I-datetime_date 0 0 0 0 。
-B-datetime_time I-datetime_time 0 0 0 0 0 0 0 0 0 ？
-B-datetime_date I-datetime_date 0 0 0 0 0 0 ？
-我 要 听 新 闻 ， 给 我 数 。
-噗 我 想 听 新 闻 。
-B-datetime_date I-datetime_date 0 0 0 0 。
+0 0 0 0 0
+B-datetime_date I-datetime_date B-location_city I-location_city 0 0 0
+B-datetime_time I-datetime_time 0 0 0 B-keyword I-keyword 0 0 0 0 0
+B-datetime_date I-datetime_date 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0
+B-datetime_date I-datetime_date B-location_city I-location_city 0 0 0
 0 0 B-name I-name I-name I-name I-name I-name I-name
 0 0 0 0 0 B-name I-name I-name I-name 0 0 0
-0 0 B-category I-category 0 0 0 0 0 0 0
+0 0 B-category I-category 0 0 B-name I-name 0 0 0
 0 0 0 B-category I-category I-category I-category 0 0
-0 0 0 B-author I-author I-author 0 0 0 0 0
+0 0 0 B-author I-author I-author 0 0 0 B-name I-name
 0 0 B-popularity I-popularity 0 0 0
-0 0 0 0 B-name I-name I-name I-name I-name I-name 。
-给 我 讲 个 长 篇 小 说 。
+0 0 0 0 B-name I-name I-name I-name I-name I-name 0
+0 0 0 0 0 0 0 0 0
 0 0 0 B-category I-category I-category I-category 0 0
-B-author I-author I-author 0 0 0 0 0 《 0 0 0 0 0 0 》
-0 0 0 B-author I-author I-author I-author 0 0 0 0 0 0 0 0 0 0
+B-author I-author I-author 0 B-category I-category 0 0 0 B-name I-name I-name I-name I-name I-name 0
+0 0 0 B-author I-author I-author I-author 0 0 B-category I-category 0 0 B-name I-name I-name I-name
 0 0 0 B-category I-category I-category I-category 0 0
 0 0 0 B-category I-category I-category I-category 0 0
-赶 紧 推 荐 一 部 小 说 。
-你 能 搜 到 小 说 不 ？
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
 0 0 0 B-category I-category I-category I-category 0 0
 0 0 B-popularity I-popularity 0 0 0 0 0 0
-我 要 看 免 费 的 小 说 。
+0 0 0 0 0 0 0 0 0
 0 0 0 B-category I-category I-category I-category 0 0
-0 0 0 B-category I-category 0 0 0 0 0 0 0 0 0 0 0 0
-B-category I-category 0 0   0 0
-B-category I-category 0 0 《 0 0 0 0 》
+0 0 0 B-category I-category 0 0 B-name I-name I-name I-name I-name I-name I-name I-name I-name I-name
+B-category I-category 0 0 B-name I-name
+B-category I-category 0 0 0 B-name I-name I-name I-name 0
 0 0 0 B-category I-category 0 0
-《 B-name I-name I-name I-name 》
-帮 我 找 首 诗 。
-0 ， 0 0 B-author I-author I-author 0 0 。
-0 0 0 0 0 B-name I-name I-name 。
-B-keyword I-keyword I-keyword I-keyword I-keyword I-keyword I-keyword 0 0 0 0 0 0 0 ？
-你 好 啊 ， 再 背 首 诗 。
-0 0 B-dynasty 0 。
-0 0 B-name I-name I-name 。
-朗 诵 诗 词 。
-0 0 0 B-name I-name I-name 。
-0 0 B-name I-name I-name 。
+0 B-name I-name I-name I-name 0
+0 0 0 0 0 0
+0 0 0 0 B-author I-author I-author 0 0 0
+0 0 0 0 0 B-name I-name I-name 0
+B-keyword I-keyword I-keyword I-keyword I-keyword I-keyword I-keyword 0 B-queryField I-queryField I-queryField 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 B-dynasty 0 0
+0 0 B-name I-name I-name 0
+0 0 0 0 0
+0 0 0 B-name I-name I-name 0
+0 0 B-name I-name I-name 0
 B-author I-author 0 0 0
-0 0 0 0 0 B-author I-author 0 0 0 。
-0 0 0 B-dynasty 0 0 ！
-读 一 首 古 诗 。
-0 0 0 0 0 0 B-author I-author 0 0 。
-0 0 0 0 B-dynasty 0 0 0 0 。
-0 B-name I-name I-name 。
-0 0 0 0 0 B-author I-author I-author 。
-B-keyword I-keyword I-keyword I-keyword ， 0 0 0 0 0 0 ？
-B-keyword I-keyword I-keyword I-keyword I-keyword 0 0 0 0 。
-0 0 0 0 B-dynasty 0 。
+0 0 0 0 0 B-author I-author 0 0 0 0
+0 0 0 B-dynasty 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0 B-author I-author 0 0 0
+0 0 0 0 B-dynasty 0 0 0 0 0
+0 B-name I-name I-name 0
+0 0 0 B-name I-name B-author I-author I-author 0
+B-keyword I-keyword I-keyword I-keyword 0 B-queryField I-queryField I-queryField 0 0 0 0
+B-keyword I-keyword I-keyword I-keyword I-keyword B-queryField I-queryField I-queryField 0 0
+0 0 0 0 B-dynasty 0 0
 0 0 B-name I-name
-0 ， 0 0 B-name I-name I-name I-name 。
-0 0 0 0 B-name I-name 。
-0 0 0 0 B-author I-author I-author 0 0 。
+0 0 0 0 B-name I-name I-name I-name 0
+0 0 0 0 B-name I-name 0
+0 0 0 0 B-author I-author I-author 0 0 0
 0 0 0 0 B-dynasty 0
-0 0 B-author I-author 0 0 0 。
-0 0 0 0 B-dynasty 0 0 0 0 。
-B-author I-author I-author I-author 0 0 0 。
-B-author I-author 0 0 0 。
-0 0 0 0 0 0 ， B-author I-author I-author 0 0 0 0 。
-0 0 0 0 B-author I-author 0 0 0 。
-0 0 0 0 0 0 0 B-author I-author 0 0 。
-0 ， 0 0 0 0 B-author I-author 0 0 0 ， 0 。
-0 0 B-name I-name I-name 0 0 0 0 。
-0 0 0 ， B-author I-author I-author 0 0 。
-0 0 B-name I-name I-name 。
-来 一 首 七 言 绝 句 。
-0 0 0 B-dynasty 0 。
-B-keyword I-keyword I-keyword I-keyword I-keyword I-keyword I-keyword 0 0 0 0 0 0 0 ？
-B-keyword I-keyword I-keyword I-keyword I-keyword I-keyword I-keyword 0 0 0 0 0 0 ？
-B-author I-author I-author 0 0 。
-B-keyword I-keyword I-keyword I-keyword I-keyword 0 0 0 0 0 0 0
-0 0 0 B-author I-author I-author I-author 0 0 。
-分 手 时 ， 背 一 首 诗 吧 ？
-0 0 0 0 0 0 B-author I-author I-author 0 0 。
-0 0 0 B-author I-author I-author 0 0 0 0
-0 0 0 B-dynasty 0 。
-o k 0 ， 0 0 B-author I-author 0 0 0 。
-B-author I-author 0 0 0 0 0 0 0 ？
-0 i s ， 0 0 0 B-name I-name 。
+0 0 B-author I-author 0 0 0 0
+0 0 0 0 B-dynasty 0 0 0 0 0
+B-author I-author I-author I-author 0 0 0 0
+B-author I-author B-name I-name I-name 0
+0 0 0 0 0 0 0 B-author I-author I-author 0 B-name I-name I-name 0
+0 0 0 0 B-author I-author 0 0 0 0
+0 0 0 0 0 0 0 B-author I-author 0 0 0
+0 0 0 0 0 0 B-author I-author 0 0 0 0 0 0
+0 0 B-name I-name I-name 0 0 0 0 0
+0 0 0 0 B-author I-author I-author 0 0 0
+0 0 B-name I-name I-name 0
+0 0 0 0 0 0 0 0
+0 0 0 B-dynasty 0 0
+B-keyword I-keyword I-keyword I-keyword I-keyword I-keyword I-keyword 0 B-queryField I-queryField I-queryField 0 0 0 0
+B-keyword I-keyword I-keyword I-keyword I-keyword I-keyword I-keyword B-queryField I-queryField I-queryField 0 0 0 0
+B-author I-author I-author 0 0 0
+B-keyword I-keyword I-keyword I-keyword I-keyword B-queryField I-queryField I-queryField 0 0 0 0
+0 0 0 B-author I-author I-author I-author 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 B-author I-author I-author 0 0 0
+0 0 0 B-author I-author I-author 0 B-name I-name I-name
+0 0 0 B-dynasty 0 0
+0 0 0 0 0 0 B-author I-author 0 0 0 0
+B-author I-author 0 B-name I-name I-name 0 0 0 0
+0 0 0 0 0 0 0 B-name I-name 0
+B-author I-author 0 B-dynasty 0
+0 0 B-dynasty 0 0 0 0 0
 B-author I-author 0 0 0
-0 0 B-dynasty 0 0 0 0 。
-B-author I-author 0 0 。
-0 0 0 B-dynasty 0 0 ？
-B-dynasty 0 0 0 。
-0 0 0 ， B-name I-name 。
-0 0 B-name I-name I-name 。
-0 0 0 0 0 0 0 0 B-dynasty 0 0 。
-B-keyword I-keyword I-keyword I-keyword I-keyword ， 0 0 0 。
-B-keyword I-keyword I-keyword I-keyword I-keyword I-keyword I-keyword 0 0 0 0 0 0 ？
-0 0 0 B-author I-author 0 0 。
-呵 呵 ， 背 首 诗 来 听 。
-B-keyword I-keyword I-keyword I-keyword I-keyword I-keyword I-keyword 0 0 0 0 0 0 0 ？
-0 0 0 0 B-author I-author 0 0 。
-读 句 诗 来 听 听 。
-0 0 0 B-author I-author 0 0 。
-给 我 念 首 古 诗 。
-0 0 0 0 0 B-author I-author I-author 0 0 0 。
-0 0 B-name I-name I-name 。
-0 0 0 0 0 B-author I-author 0 0 0 0 ？
-0 0 0 B-dynasty 0 。
-0 0 0 0 B-author I-author I-author 0 0 。
-B-author I-author 0 0 。
+0 0 0 B-dynasty 0 0 0
+B-dynasty 0 B-name I-name 0
+0 0 0 0 B-name I-name 0
+0 0 B-name I-name I-name 0
+0 0 0 0 0 0 0 0 B-dynasty 0 0 0
+B-keyword I-keyword I-keyword I-keyword I-keyword 0 B-queryField I-queryField I-queryField 0
+B-keyword I-keyword I-keyword I-keyword I-keyword I-keyword I-keyword B-queryField I-queryField I-queryField 0 0 0 0
+0 0 0 B-author I-author 0 0 0
+0 0 0 0 0 0 0 0 0
+B-keyword I-keyword I-keyword I-keyword I-keyword I-keyword I-keyword 0 B-queryField I-queryField I-queryField 0 0 0 0
+0 0 0 0 B-author I-author 0 0 0
+0 0 0 0 0 0 0
+0 0 0 B-author I-author 0 0 0
+0 0 0 0 0 0 0
+0 0 0 0 0 B-author I-author I-author 0 0 0 0
+0 0 B-name I-name I-name 0
+0 0 0 0 0 B-author I-author 0 0 0 0 0
+0 0 0 B-dynasty 0 0
+0 0 0 0 B-author I-author I-author 0 0 0
+B-author I-author 0 0 0
 0 0 0 B-name I-name
-0 B-author I-author 0 0 0
-0 0 0 ， B-author I-author I-author I-author 0 0 。
-0 0 0 0 0 ， B-name I-name I-name 。
-B-keyword I-keyword I-keyword I-keyword I-keyword I-keyword I-keyword 0 0 0 0 0 0 0 ？
-0 0 0 B-dynasty 0 0 ！
-0 0 0 0 B-name I-name 。
-0 0 0 0 B-name I-name 。
-0 0 0 B-author I-author 0 0 。
-B-keyword I-keyword I-keyword I-keyword 0 0 0 0 0 0 0 ？
-0 0 0 0 0 B-name I-name I-name 。
-0 0 0 0 0 B-name I-name 0 ？
-0 0 B-dynasty 0 0 0
-0 0 0 B-name I-name 。
-0 0 0 0 0 B-name I-name I-name 。
-B-keyword I-keyword I-keyword I-keyword 0 0 0 0 ， 0 0 0 ？
-0 0 0 0 0 0 0 B-dynasty 0 0 ！
-0 0 B-name I-name 0 。
-0 0 B-name I-name I-name 。
-0 0 0 0 B-name I-name 。
-B-author I-author 0 0 0 0 。
-0 0 B-author I-author 0 0 。
-老 朗 诵 首 古 诗 。
-念 首 诗 听 一 下 。
+0 B-author I-author 0 B-name I-name
+0 0 0 0 B-author I-author I-author I-author 0 0 0
+0 0 0 0 0 0 B-name I-name I-name 0
+B-keyword I-keyword I-keyword I-keyword I-keyword I-keyword I-keyword 0 B-queryField I-queryField I-queryField 0 0 0 0
+0 0 0 B-dynasty 0 0 0
+0 0 0 0 B-name I-name 0
+0 0 0 0 B-name I-name 0
+0 0 0 B-author I-author 0 0 0
+B-keyword I-keyword I-keyword I-keyword 0 B-queryField I-queryField I-queryField 0 0 0 0
+0 0 0 0 0 B-name I-name I-name 0
+0 0 0 0 0 B-name I-name 0 0
+0 0 B-dynasty 0 B-name I-name
+0 0 0 B-name I-name 0
+0 0 0 0 0 B-name I-name I-name 0
+B-keyword I-keyword I-keyword I-keyword 0 B-queryField I-queryField I-queryField 0 0 0 0 0
+0 0 0 0 0 0 0 B-dynasty 0 0 0
+0 0 B-name I-name 0 0
+0 0 B-name I-name I-name 0
+0 0 0 0 B-name I-name 0
+B-author I-author 0 B-name I-name I-name 0
+0 0 B-author I-author 0 0 0
+0 0 0 0 0 0 0
+0 0 0 0 0 0 0
 0 0 B-name I-name I-name I-name I-name I-name I-name I-name I-name I-name
-B-code I-code I-code I-code 0 0 0 0 0 0 0
-0 0 0 0 0 B-code I-code I-code I-code 0 0 0 0 0 0 0 0
-0 0 0 0 0 B-code I-code I-code I-code 0 0 0 0 0 0 0 0
-0 0 0 0 0 B-code I-code I-code I-code I-code 0 0 0 0 0 0 0 0
-0 0 0 0 0 B-code I-code I-code I-code 0 0 0 0 0 0 0 0 0 0 0
-0 0 0 0 0 0 0 0 0 0 0 B-code I-code I-code I-code 0 0 0 0 0 0 0 0
-0 0 0 0 0 0 0 0 0 B-code I-code I-code I-code 0 0 0 0 0 0 0 0
+B-code I-code I-code I-code B-name I-name I-name I-name I-name I-name I-name
+0 0 0 0 0 B-code I-code I-code I-code B-name I-name I-name I-name I-name I-name I-name I-name
+0 0 0 0 0 B-code I-code I-code I-code B-name I-name I-name I-name I-name I-name I-name I-name
+0 0 0 0 0 B-code I-code I-code I-code I-code B-name I-name I-name I-name I-name I-name I-name I-name
+0 0 0 0 0 B-code I-code I-code I-code B-name I-name I-name I-name I-name I-name I-name I-name I-name I-name I-name
+0 0 0 0 0 0 0 0 0 0 0 B-code I-code I-code I-code B-name I-name I-name I-name I-name I-name I-name I-name
+0 0 0 0 0 0 0 0 0 B-code I-code I-code I-code B-name I-name I-name I-name I-name I-name I-name I-name
 0 0 B-category I-category 0 0
-0 0 0 0 B-code I-code I-code I-code 0 0 0 0 0 0 0 0 0 0 0 ？
+0 0 0 0 B-code I-code I-code I-code B-name I-name I-name I-name I-name I-name I-name I-name 0 0 0 0
 0 0 0 0 0 B-name I-name I-name I-name I-name I-name
 0 0 0 0 0 0 0 0 0 B-name I-name I-name I-name I-name I-name
-0 0 0 0 0 0 0 0 0 0 0 B-code I-code I-code I-code 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 B-code I-code I-code I-code B-name I-name I-name I-name I-name I-name I-name I-name I-name I-name I-name
 0 0 0 0 0 0 0 B-name I-name I-name I-name I-name
 0 0 0 0 B-name I-name I-name I-name I-name I-name I-name I-name
-0 0 0 0 0 B-code I-code I-code I-code I-code 0 0 0 0 0 0 0 0 0 0 0
-0 0 0 B-category I-category 0 ！
-0 0 0 B-category I-category 0 ， 0 。
-B-category I-category 0 0 。
-0 0 B-category I-category 0 。
-0 0 0 B-category I-category 0 0 0 0 0 。
-0 0 0 B-category I-category 0 ？
-0 0 0 0 B-category I-category 。
-0 0 0 B-category I-category 0 0 0 。
-0 0 B-category I-category 0 0 0 0 。
-0 0 0 B-category I-category 0 ？
-B-category I-category 0 。
-0 0 0 B-category I-category ， 0 。
-0 0 B-category I-category 。
-0 0 0 B-category I-category 0 0 0 0 0 。
-0 0 0 0 0 B-category I-category 。
-0 0 0 0 0 B-category I-category 0 ！
-0 0 B-category I-category 0 ？
-0 0 0 B-category I-category ， 0 ， 0 ， 0 。
-0 0 B-category I-category 0 ！
-0 0 B-category I-category 0 0 0 。
-0 0 B-category I-category 0 ！
-0 0 0 0 0 0 0 0 0 0 B-category I-category 0 ！
-0 0 0 B-category I-category ， 0 。
+0 0 0 0 0 B-code I-code I-code I-code I-code B-name I-name I-name I-name I-name I-name I-name I-name I-name I-name I-name
+0 0 0 B-category I-category 0 0
+0 0 0 B-category I-category 0 0 0 0
+B-category I-category 0 0 0
+0 0 B-category I-category 0 0
+0 0 0 B-category I-category 0 0 0 0 0 0
+0 0 0 B-category I-category 0 0
+0 0 0 0 B-category I-category 0
+0 0 0 B-category I-category 0 0 0 0
+0 0 B-category I-category 0 0 0 0 0
+0 0 0 B-category I-category 0 0
+B-category I-category 0 0
+0 0 0 B-category I-category 0 0 0
+0 0 B-category I-category 0
+0 0 0 B-category I-category 0 0 0 0 0 0
+0 0 0 0 0 B-category I-category 0
+0 0 0 0 0 B-category I-category 0 0
+0 0 B-category I-category 0 0
+0 0 0 B-category I-category 0 0 0 0 0 0 0
+0 0 B-category I-category 0 0
+0 0 B-category I-category 0 0 0 0
+0 0 B-category I-category 0 0
+0 0 0 0 0 0 0 0 0 0 B-category I-category 0 0
+0 0 0 B-category I-category 0 0 0
 0 0 B-category I-category
-0 0 0 0 0 0 B-category I-category 。
-B-category I-category I-category I-category 。
+0 0 0 0 0 0 B-category I-category 0
+B-category I-category I-category I-category 0
 0 0 B-name I-name I-name I-name 0 0 0
 B-name I-name I-name I-name 0 0 0 0 0
 B-name I-name I-name I-name 0 0 0 0 0
 0 0 0 B-name I-name I-name I-name 0 0 0 0 0 0
-B-name I-name I-name I-name 0 0 0 0 0
+B-name I-name I-name I-name B-yesterday I-yesterday 0 0 0
 0 0 0 0 B-name I-name I-name I-name 0 0 0 0 0
 B-name I-name I-name I-name 0 0 0 0 0 0 0
 B-name I-name 0 0 0 0 0
@@ -1988,7 +1985,7 @@ B-name I-name I-name I-name 0 0
 0 0 0 0 B-name I-name I-name I-name 0 0 0
 0 0 B-name I-name 0 0 0 0 0
 B-name I-name I-name I-name
-B-name I-name 0 0 0 0 0 0 0
+B-name I-name 0 0 B-yesterday I-yesterday 0 0 0
 0 0 B-name I-name 0 0
 B-name I-name I-name I-name I-name I-name 0 0 0
 B-name I-name I-name I-name 0 0
@@ -2017,7 +2014,7 @@ B-name I-name I-name I-name 0 0
 B-name I-name I-name I-name 0 0 0 0 0
 B-name I-name I-name I-name 0 0
 B-name I-name I-name I-name 0 0
-B-name I-name I-name I-name 0 0 0 0 0 0 0 0 0
+B-name I-name I-name I-name 0 B-yesterday I-yesterday 0 0 0 0 0 0
 0 0 B-name I-name I-name I-name 0 0
 0 0 B-name I-name I-name I-name 0 0 0
 0 0 B-name I-name I-name 0 0 0
@@ -2025,7 +2022,7 @@ B-name I-name I-name I-name 0 0 0 0 0 0 0 0 0
 0 B-name I-name 0 0 0
 0 0 B-name I-name
 0 0 0 0 0 0 B-name I-name
-打 电 话
+0 0 0
 0 0 0 0 B-name I-name
 0 0 0 B-name I-name
 0 0 B-name I-name
@@ -2033,12 +2030,12 @@ B-name I-name I-name I-name 0 0 0 0 0 0 0 0 0
 0 0 0 0 B-name I-name
 0 0 0 0 B-name I-name I-name
 0 0 0 0 B-name I-name I-name
-0 0 0 0 B-name I-name I-name I-name I-name I-name
+0 0 0 0 0 0 0 0 0
 0 0 0 0 0 B-name I-name I-name
 0 0 0 0 0 0 B-name I-name I-name
 0 0 0 0 B-name I-name I-name I-name
 0 0 0 0 B-name I-name I-name
-0 0 0 B-category I-category 0 0 0 0 0
+0 0 0 B-category I-category B-name I-name 0 0 0
 0 0 B-name I-name
 0 0 B-name I-name I-name
 0 0 0 0 B-name I-name I-name
@@ -2055,9 +2052,9 @@ B-name I-name I-name I-name 0 0 0 0 0 0 0 0 0
 0 0 0 0 B-name I-name
 0 B-name I-name 0 0 0
 0 0 B-name I-name 0 0
-0 0 0 0 B-name I-name 0 0
+0 0 0 0 B-name I-name B-teleOperator I-teleOperator
 0 0 0 0 B-name I-name I-name
-0 0 a   B-name I-name I-name
+0 0 0 B-name I-name I-name
 0 0 0 0 B-name I-name
 0 B-name I-name 0 0
 0 B-name I-name I-name 0 0 0
@@ -2068,149 +2065,149 @@ B-name I-name I-name I-name 0 0 0 0 0 0 0 0 0
 0 0 B-name I-name 0 0 0
 0 0 0 0 B-name I-name I-name
 0 0 0 0 B-name I-name
-0 0 0 0 B-endLoc_area I-endLoc_area 0 0 0 0
-0 0 0 0 B-endLoc_city I-endLoc_city 0 0 0
-0 0 0 0 0 0 B-endLoc_city I-endLoc_city 0 0 0 0
-0 0 0 0 0 0 0 B-category I-category
-0 0 0 0 B-endLoc_city I-endLoc_city 0 0 0
-0 0 0 B-endLoc_city I-endLoc_city 0 0 0 0
-0 0 0 0 0 B-endLoc_city I-endLoc_city 0 0 0
-0 0 0 0 0 B-endLoc_city I-endLoc_city
-0 0 0 B-endLoc_city I-endLoc_city 0 0 0 0
-0 0 0 B-endLoc_city I-endLoc_city 0 0 0 0
-0 0 0 B-endLoc_city I-endLoc_city 0 0 0 0
-0 0 0 B-endLoc_city I-endLoc_city 0 0 0 0
-0 0 0 0 0 B-endLoc_area I-endLoc_area 0 0 0 0 0 0 0
-0 0 0 B-endLoc_city I-endLoc_city 0 0 0
-0 0 0 0 0 B-endLoc_city I-endLoc_city 0 0 0
-0 0 0 B-endLoc_city I-endLoc_city 0 0 0 0
-0 0 0 0 0 0 B-endLoc_city I-endLoc_city 0 0 0 0
-0 0 0 B-endLoc_city I-endLoc_city 0 0 0
-0 0 0 0 0 B-endLoc_city I-endLoc_city 0 0 0
-0 0 0 0 0 B-endLoc_city I-endLoc_city 0 0 0
-0 0 0 B-endLoc_city I-endLoc_city 0 0 0
-0 0 0 0 0 0 B-endLoc_city I-endLoc_city 0 0 0
-0 0 0 0 B-endLoc_city I-endLoc_city 0 0 0
-0 0 0 0 0 0 0 0 B-endLoc_city I-endLoc_city 0 0 0
-0 0 0 0 0 0 B-endLoc_city I-endLoc_city 0 0 0 0 0 0 0 0 0 0
-0 0 0 0 0 B-endLoc_city I-endLoc_city 0 0 0
-帮 我 网 上 订 车 票
+0 B-startLoc_city I-startLoc_city 0 B-endLoc_area I-endLoc_area 0 0 0 0
+0 B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0
+0 0 0 B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0 0
+0 0 0 0 B-endLoc_city I-endLoc_city 0 B-category I-category
+0 B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0
+B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0 0
+0 0 B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0
+0 0 B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city
+B-startLoc_area I-startLoc_area 0 B-endLoc_city I-endLoc_city 0 0 0 0
+B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0 0
+B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0 0
+B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0 0
+B-startLoc_city I-startLoc_city 0 B-endLoc_province I-endLoc_province B-endLoc_area I-endLoc_area 0 0 0 0 0 0 0
+B-startLoc_area I-startLoc_area 0 B-endLoc_city I-endLoc_city 0 0 0
+0 0 B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0
+B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0 0
+0 0 0 B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0 0
+B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0
+B-startLoc_province I-startLoc_province B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0
+B-startDate_date I-startDate_date B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0
+B-startDate_date I-startDate_date 0 B-endLoc_city I-endLoc_city 0 0 0
+0 0 0 B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0
+0 B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0
+0 0 0 0 0 B-startLoc_area I-startLoc_area 0 B-endLoc_city I-endLoc_city 0 0 0
+0 0 0 B-startLoc_area I-startLoc_area 0 B-endLoc_city I-endLoc_city 0 0 0 0 0 0 0 0 0 0
+B-startDate_date I-startDate_date B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0
+0 0 0 0 0 0 0
 0 B-endLoc_city I-endLoc_city 0 0 0 0
-0 0 0 B-endLoc_city I-endLoc_city 0 0 0
-0 0 0 0 0 0 0 0 0 B-endLoc_city I-endLoc_city 0 0 0
-0 0 0 0 0 B-endLoc_area I-endLoc_area 0 0 0 0 0 0 0
-0 0 0 B-endLoc_city I-endLoc_city 0 0 0
-0 0 0 0 0 0 0 0 B-endLoc_city I-endLoc_city 0 0 0
-0 0 0 0 0 0 B-endLoc_city I-endLoc_city 0 0 0 0
-0 0 0 B-endLoc_city I-endLoc_city 0 0 0 0
-0 0 0 B-endLoc_city I-endLoc_city 0 0 0
-0 0 0 0 0 0 0 0 B-category I-category
-0 0 0 0 0 B-endLoc_city I-endLoc_city 0 0 0 0
-0 0 0 0 0 0 B-endLoc_city I-endLoc_city 0
-0 0 0 B-endLoc_city I-endLoc_city 0 0 0 0
-0 0 0 0 0 B-endLoc_city I-endLoc_city 0 0 0
-0 0 0 B-endLoc_area I-endLoc_area 0 0 0
-0 0 0 0 0 0 0 0 B-endLoc_area I-endLoc_area 0 0 0
-0 0 0 B-endLoc_city I-endLoc_city 0 0 0 0
-0 0 0 0 0 0 0 B-endLoc_city I-endLoc_city 0 0 0 0
-0 0 0 B-endLoc_city I-endLoc_city 0 0 0
+B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0
+0 0 0 0 0 0 B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0
+B-startLoc_poi I-startLoc_poi I-startLoc_poi I-startLoc_poi 0 B-endLoc_area I-endLoc_area 0 0 0 0 0 0 0
+B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0
+0 0 0 0 0 B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0
+0 0 0 B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0 0
+B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0 0
+B-startDate_date I-startDate_date 0 B-endLoc_city I-endLoc_city 0 0 0
+0 0 B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 B-category I-category
+0 0 B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0 0
+B-startDate_date I-startDate_date 0 0 0 0 B-endLoc_city I-endLoc_city 0
+B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0 0
+B-startDate_date I-startDate_date B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0
+B-startLoc_city I-startLoc_city 0 B-endLoc_area I-endLoc_area 0 0 0
+0 0 0 B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city B-endLoc_area I-endLoc_area 0 0 0
+B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0 0
+0 0 0 0 B-startLoc_area I-startLoc_area 0 B-endLoc_city I-endLoc_city 0 0 0 0
+B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0
 0 B-endLoc_city I-endLoc_city 0 0 0 0 0
-0 0 0 0 0 B-endLoc_city I-endLoc_city 0 0 0 0
-0 0 0 0 0 0 0 0 0 0 0 0 B-endLoc_city I-endLoc_city 0 0 0
-0 0 0 0 0 0 0 0 B-endLoc_city I-endLoc_city 0 0 0 0
-0 0 0 0 0 0 B-endLoc_city I-endLoc_city 0 0 0 0 0
-0 0 0 B-endLoc_city I-endLoc_city 0 0 0 0 0 0
-0 0 0 0 0 0 0 0 B-endLoc_city I-endLoc_city 0 0 0
-0 0 0 0 B-endLoc_city I-endLoc_city 0 0 0 0 0 0 0
-0 0 0 0 0 0 B-endLoc_city I-endLoc_city 0 0 0 0
-0 0 0 B-endLoc_city I-endLoc_city 0 0 0
-0 0 0 B-endLoc_city I-endLoc_city 0 0 0
+0 0 B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0 0
+0 0 0 0 0 0 0 0 0 B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0
+0 0 0 0 0 B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0 0
+0 0 0 B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city B-startDate_date I-startDate_date 0 0 0
+B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0 0 0 0
+0 0 0 0 0 B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0
+0 B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0 0 0 0 0
+0 0 0 B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0 0
+B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0
+B-startDate_date I-startDate_date 0 B-endLoc_city I-endLoc_city 0 0 0
 0 B-endLoc_city I-endLoc_city 0 0 0
-0 0 0 0 0 B-endLoc_city I-endLoc_city 0 0 0 0 0 0 0 0
-0 0 0 0 0 0 0 B-endLoc_city I-endLoc_city 0 0 0
-0 0 0 B-endLoc_city I-endLoc_city 0 0 0
-0 0 0 0 0 0 0 0 B-endLoc_city I-endLoc_city 0 0 0
-0 0 0 B-endLoc_city I-endLoc_city 0 0 0
-0 0 0 0 0 0 B-endLoc_city I-endLoc_city 0 0 0 0
-0 0 0 0 0 0 0 0 0 0 0 B-category I-category
-0 0 0 0 0 0 0 0 B-category I-category 0
-0 0 0 0 0 0 0 0 B-endLoc_city I-endLoc_city 0 0 0
-0 0 0 B-endLoc_city I-endLoc_city 0 0 0
-0 0 0 0 0 B-endLoc_city I-endLoc_city 0 0 0
-0 0 0 0 0 0 0 0 B-endLoc_city I-endLoc_city 0 0 0 0
-B-content I-content I-content I-content I-content I-content 0 0 0 0 0 0
-B-content I-content I-content 0 0 0 0 0 0
+0 0 B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0 0 0 0 0 0
+B-startDate_date I-startDate_date I-startDate_date I-startDate_date B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0
+B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0
+0 0 0 0 0 B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0
+B-startDate_date I-startDate_date 0 B-endLoc_city I-endLoc_city 0 0 0
+0 0 0 B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0 0
+B-startDate_date I-startDate_date 0 0 0 B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 B-category I-category
+0 0 B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 B-category I-category 0
+0 0 0 0 0 B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0
+B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0
+0 0 B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0
+0 0 0 0 0 B-startLoc_city I-startLoc_city 0 B-endLoc_city I-endLoc_city 0 0 0 0
+B-content I-content I-content I-content I-content I-content B-target I-target 0 0 0 0
+B-content I-content I-content 0 B-target I-target 0 0 0
 0 0 B-content I-content
 B-content I-content I-content I-content I-content I-content 0 0 0 0
-B-content I-content 0 0 0 0 0 0
-B-content I-content I-content I-content I-content I-content I-content 0 0 0 0 0 0
-B-content 0 0 0 0 0 0
-B-content I-content I-content I-content 0 0 0 0 0
-B-content I-content I-content I-content I-content I-content 0 0 0 0 0
-B-content I-content 0 0 0 0 0 0
-B-content I-content 0 0 0 0 0 0
-B-content I-content I-content I-content 0 0 0 0 0
+B-content I-content 0 B-target I-target 0 0 0
+B-content I-content I-content I-content I-content I-content I-content 0 B-target I-target 0 0 0
+B-content 0 B-target I-target 0 0 0
+B-content I-content I-content I-content B-target I-target 0 0 0
+B-content I-content I-content I-content I-content I-content 0 0 0 B-target I-target
+B-content I-content 0 B-target I-target 0 0 0
+B-content I-content 0 B-target I-target 0 0 0
+B-content I-content I-content I-content B-target I-target 0 0 0
 0 0 B-content I-content
 0 0 0 0 0 0 B-content I-content I-content
 0 0 B-content I-content I-content I-content
-B-content I-content I-content I-content I-content 0 0 0 0 0
-B-content I-content I-content I-content 0 0 0 0 0 0
-B-content I-content I-content I-content I-content 0 0 0 0 0 0
-B-content I-content I-content 0 0 0 0 0 0
-B-content I-content 0 0 0
+B-content I-content I-content I-content I-content B-target I-target 0 0 0
+B-content I-content I-content I-content 0 B-target I-target 0 0 0
+B-content I-content I-content I-content I-content 0 B-target I-target 0 0 0
+B-content I-content I-content 0 B-target I-target 0 0 0
+B-content I-content 0 B-target I-target
 0 0 B-content I-content I-content I-content
-B-content I-content I-content I-content I-content I-content I-content I-content I-content I-content I-content I-content I-content I-content I-content I-content 0 0 0 0 0 0
+B-content I-content I-content I-content I-content I-content I-content I-content I-content I-content I-content I-content I-content I-content I-content I-content 0 B-target I-target 0 0 0
 0 0 0 B-content I-content
-B-content I-content I-content 0 0 0 0 0 0
-B-content I-content I-content I-content I-content I-content I-content I-content I-content 0 0 0 0 0 0
-B-content I-content I-content I-content I-content I-content 0 0 0 0 0 0
-B-content 0 0 0 0 0 0 0
-B-content I-content I-content 0 0 0 0 0 0
+B-content I-content I-content 0 B-target I-target 0 0 0
+B-content I-content I-content I-content I-content I-content I-content I-content I-content 0 B-target I-target 0 0 0
+B-content I-content I-content I-content I-content I-content 0 B-target I-target 0 0 0
+B-content 0 B-target I-target 0 0 0 0
+B-content I-content I-content 0 B-target I-target 0 0 0
 0 0 B-content
-B-content I-content I-content 0 0 0 0 0
-B-content I-content I-content I-content I-content I-content I-content 0 0 0 0 0
-B-content I-content 0 0 0 0 0 0
-B-content I-content I-content 0 0 0 0 0 0
-B-content I-content 0 0 0 0 0 0
-B-content 0 0 0 0 0
-B-content I-content 0 0 0 0 0 0
-B-content I-content I-content 0 0 0 0 0 0
-B-content I-content I-content I-content I-content I-content I-content 0 0 0 0 0 0
-B-content I-content I-content I-content I-content 0 0 0 0 0 0
-B-content I-content I-content I-content I-content I-content I-content 0 0 0 0 0
-B-content I-content I-content 0 0 0 0 0
-B-content I-content I-content 0 0 0 0 0 0
-B-content I-content I-content I-content I-content I-content 0 0 0 0 0
-B-content I-content 0 0 0 0 0
-B-content I-content I-content I-content I-content I-content I-content I-content 0 0 0 0 0 0
-B-content I-content I-content I-content I-content I-content I-content 0 0 0 0 0 0
-B-content I-content I-content 0 0 0 0 0 0
-B-content I-content I-content I-content 0 0 0 0 0
-B-content I-content 0 0 0 0 0
-B-content I-content 0 0 0 0 0 0
-B-content I-content I-content I-content 0 0 0 0 0
-B-content I-content I-content I-content I-content I-content 0 0 0 0 0
+B-content I-content I-content B-target I-target 0 0 0
+B-content I-content I-content I-content I-content I-content I-content B-target I-target 0 0 0
+B-content I-content 0 B-target I-target 0 0 0
+B-content I-content I-content 0 B-target I-target 0 0 0
+B-content I-content 0 B-target I-target 0 0 0
+B-content B-target I-target 0 0 0
+B-content I-content 0 B-target I-target 0 0 0
+B-content I-content I-content 0 B-target I-target 0 0 0
+B-content I-content I-content I-content I-content I-content I-content 0 B-target I-target 0 0 0
+B-content I-content I-content I-content I-content 0 B-target I-target 0 0 0
+B-content I-content I-content I-content I-content I-content I-content B-target I-target 0 0 0
+B-content I-content I-content B-target I-target 0 0 0
+B-content I-content I-content 0 B-target I-target 0 0 0
+B-content I-content I-content I-content I-content I-content B-target I-target 0 0 0
+B-content I-content B-target I-target 0 0 0
+B-content I-content I-content I-content I-content I-content I-content I-content 0 B-target I-target 0 0 0
+B-content I-content I-content I-content I-content I-content I-content 0 B-target I-target 0 0 0
+B-content I-content I-content 0 B-target I-target 0 0 0
+B-content I-content I-content I-content B-target I-target 0 0 0
+B-content I-content B-target I-target 0 0 0
+B-content I-content 0 B-target I-target 0 0 0
+B-content I-content I-content I-content B-target I-target 0 0 0
+B-content I-content I-content I-content I-content I-content B-target I-target 0 0 0
 0 0 0 0 0 0 B-content I-content
-B-content I-content I-content I-content 0 0 0 0 0 0
-B-content I-content I-content 0 0 0 0 0
-B-content I-content I-content I-content I-content I-content 0 0 0 0 0
+B-content I-content I-content I-content 0 B-target I-target 0 0 0
+B-content I-content I-content B-target I-target 0 0 0
+B-content I-content I-content I-content I-content I-content B-target I-target 0 0 0
 B-name I-name I-name I-name
 B-name I-name I-name I-name I-name
 0 0 0 B-name I-name I-name I-name I-name I-name I-name
 0 0 B-name I-name I-name
 B-name I-name I-name I-name
 B-name I-name I-name I-name
-0 0 B-name I-name
+B-resolution I-resolution B-name I-name
 B-name I-name I-name I-name I-name I-name
 B-name I-name I-name
-C C T V 8 0 0 B-category I-category I-category
+B-tvchannel I-tvchannel I-tvchannel I-tvchannel I-tvchannel I-tvchannel I-tvchannel B-category I-category I-category
 B-name I-name I-name
 B-name I-name I-name I-name I-name I-name I-name I-name I-name
-0 0 B-name I-name I-name I-name I-name I-name
-0 0 B-name I-name I-name I-name
+B-resolution I-resolution B-name I-name I-name I-name I-name I-name
+B-resolution I-resolution B-name I-name I-name I-name
 B-name I-name I-name I-name I-name I-name I-name I-name I-name
 0 0 B-name I-name I-name I-name
-0 0 0 0 0 0 B-category I-category 0 0 ， 0 0 0 0
+B-name I-name I-name I-name I-name 0 B-category I-category 0 0 0 0 0 0 0
 0 0 0 0 0 B-name I-name I-name I-name I-name I-name
 0 B-name I-name I-name I-name
 B-category I-category I-category
@@ -2223,7 +2220,7 @@ B-name I-name I-name I-name
 B-name I-name I-name I-name I-name I-name
 0 0 0 B-name I-name I-name
 B-name I-name I-name I-name
-B-name I-name I-name I-name I-name I-name I-name 0 0
+B-name I-name I-name I-name I-name I-name I-name B-resolution I-resolution
 B-name I-name I-name I-name I-name
 B-name I-name I-name I-name I-name
 B-name I-name I-name I-name I-name
@@ -2236,7 +2233,7 @@ B-name I-name I-name I-name I-name
 0 0 0 0 B-name I-name I-name I-name
 B-name I-name I-name I-name
 B-name I-name I-name I-name I-name I-name
-B-name I-name I-name I-name I-name 0 0
+B-name I-name I-name I-name I-name B-resolution I-resolution
 B-name I-name
 B-name I-name I-name
 0 0 0 0 0 B-name I-name I-name I-name
@@ -2244,7 +2241,7 @@ B-name I-name I-name I-name
 0 0 0 B-name I-name I-name I-name
 B-name I-name I-name I-name I-name
 B-name I-name I-name
-0 0 B-name I-name I-name
+B-resolution I-resolution B-name I-name I-name
 0 0 B-name I-name I-name I-name
 0 0 B-name I-name I-name I-name
 B-name I-name I-name I-name I-name
@@ -2261,170 +2258,170 @@ B-name I-name I-name
 B-name I-name I-name I-name I-name
 0 B-name I-name
 B-name I-name I-name I-name
-0 0 0 B-category I-category
+B-name I-name I-name B-category I-category
 B-name I-name
 B-name I-name
 B-name I-name I-name I-name I-name I-name
 B-name I-name I-name I-name I-name I-name I-name I-name
 B-name I-name I-name I-name I-name
 B-name I-name I-name I-name I-name
-0 0 0 0 B-episode I-episode I-episode
-0 0 0 0 0 0 0 0 B-category I-category 0 ？
-0 0 B-artist I-artist I-artist 0 0 0 0 0
-0 0 0 0 0 0 0 0 0 B-category I-category
-B-category I-category 0 0 0 0 0
+B-name I-name I-name I-name B-episode I-episode I-episode
+0 0 B-timeDescr I-timeDescr 0 0 0 B-scoreDescr B-category I-category 0 0
+0 0 B-artist I-artist I-artist B-artistRole I-artistRole 0 B-category I-category
+0 0 0 B-name I-name I-name I-name I-name I-name B-category I-category
+B-category I-category B-name I-name I-name I-name I-name
 B-name I-name I-name I-name
 0 0 B-category I-category
-0 0 B-category
+B-tag I-tag B-category
 B-name I-name
-0 0 0 0 0 0 B-name I-name I-name I-name
-0 0 0 0 0 0 0 0 0 0 B-category I-category
-0 0 0 0 0 B-episode I-episode I-episode I-episode
+0 0 0 B-timeDescr I-timeDescr 0 B-name I-name I-name I-name
+0 0 0 0 0 0 0 B-scoreDescr I-scoreDescr 0 B-category I-category
+B-name I-name I-name I-name I-name B-episode I-episode I-episode I-episode
 B-name I-name I-name I-name
 B-name I-name I-name I-name
 0 0 B-name I-name
-0 0 0 0 0 ， 0 0 B-category I-category 。
+0 0 B-timeDescr I-timeDescr 0 0 B-tag I-tag B-category I-category 0
 B-name I-name I-name I-name
 B-name I-name I-name I-name
 B-name I-name I-name I-name I-name I-name I-name I-name 0 0
 0 0 B-category I-category 0 0
 0 0 0 0 0 0 B-name I-name I-name I-name
-B-area I-area 0 0 0 0
-0 0 0 0 0 B-category I-category
+B-area I-area B-tag I-tag B-category I-category
+0 0 0 B-tag I-tag B-category I-category
 0 0 0 0 B-name I-name I-name I-name
-0 0 0 0 0 0 0 0 B-category I-category I-category I-category I-category 0 0 0 。
-0 0 0 0 0 0 B-category I-category
-0 0 0 0 B-category I-category 0
-打 开 新 闻
+B-timeDescr I-timeDescr 0 0 0 B-scoreDescr I-scoreDescr 0 B-category I-category I-category I-category I-category B-tag I-tag 0 0
+0 0 0 B-name I-name I-name B-category I-category
+B-name I-name I-name I-name B-category I-category 0
+0 0 0 0
 0 0 B-name I-name I-name I-name I-name
 0 B-name I-name I-name
 B-name I-name
 0 0 0 0 0 0 0 B-name I-name I-name I-name I-name I-name
-0 0 B-category 0 0 0 0 0 0
-B-scoreDescr I-scoreDescr 0 0 0 0
-查 最 近 的 电 影 。
+B-tag I-tag B-category B-name I-name I-name I-name I-name I-name
+B-scoreDescr I-scoreDescr B-tag I-tag I-tag I-tag
+0 0 0 0 0 0 0
 B-name I-name I-name I-name
 B-name I-name I-name I-name I-name I-name I-name I-name I-name
 B-name I-name I-name I-name I-name I-name
 B-name I-name I-name I-name
-0 0 0 0 B-category I-category
-0 0 0 B-artist I-artist I-artist 0 0 0 0 0 0 0 0 0
+B-resolution I-resolution B-tag I-tag B-category I-category
+0 0 0 B-artist I-artist I-artist 0 B-tag I-tag B-category I-category B-name I-name I-name I-name
 B-name I-name I-name I-name
 B-name I-name I-name I-name
 B-name I-name I-name
-B-category I-category 0 0 0 0
+B-category I-category B-name I-name I-name I-name
 0 B-name I-name
 0 B-name I-name I-name I-name
-B-area I-area 0 0 0 0 0 0 0 0 0 0 0 0
-0 0 0 0 0 0 0 B-category I-category
+B-area I-area B-artist I-artist I-artist B-artistRole I-artistRole 0 B-tag I-tag B-name I-name I-name I-name
+0 0 0 0 0 B-popularity 0 B-category I-category
 B-name I-name I-name I-name I-name
-0 0 B-episode I-episode I-episode I-episode
+B-name I-name B-episode I-episode I-episode I-episode
 B-name I-name I-name I-name I-name
-0 0 0 B-category I-category I-category
-0 0 B-area I-area 0 0
+B-tag I-tag 0 B-category I-category I-category
+0 0 B-area I-area B-category I-category
 B-name I-name I-name I-name I-name
 0 0 0 B-name I-name I-name I-name I-name
-看 看 最 近 有 什 么 电 影 ？
-查 一 下 最 近 有 什 么 电 影 ？
-0 B-datetime_date I-datetime_date I-datetime_date 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0
+0 B-datetime_date I-datetime_date I-datetime_date 0 B-name I-name I-name I-name I-name I-name
 B-name I-name I-name I-name I-name I-name I-name
-有 什 么 新 电 影
+0 0 0 0 0 0
 B-name I-name I-name I-name I-name I-name I-name
-0 0 0 B-artist I-artist I-artist 0 0 0
+0 0 0 B-artist I-artist I-artist 0 B-category I-category
 B-name I-name I-name I-name I-name
-0 0 0 B-artist I-artist I-artist 0 0 0 0 0 0 0
-B-artist I-artist I-artist 0 0 0 0 0 0
+0 0 0 B-artist I-artist I-artist B-artistRole I-artistRole 0 B-popularity I-popularity B-category I-category
+B-artist I-artist I-artist B-artistRole I-artistRole 0 0 B-category I-category
 0 0 B-name I-name I-name
 B-name I-name I-name I-name I-name I-name I-name
 0 0 0 B-name I-name I-name I-name I-name
-0 0 0 0 0 B-scoreDescr I-scoreDescr 0
+B-timeDescr I-timeDescr 0 0 0 B-scoreDescr I-scoreDescr 0
 B-name I-name I-name I-name
 B-name I-name I-name I-name I-name I-name
 B-name I-name I-name I-name
-0 0 0 B-artist I-artist I-artist I-artist I-artist I-artist 0 0 0 0
+0 0 0 B-artist I-artist I-artist I-artist I-artist I-artist 0 0 B-category I-category
 0 0 0 B-name I-name I-name
-0 0 B-category I-category 0 0
+0 0 B-category I-category B-name I-name
 B-name I-name
-0 0 0 0 B-category I-category I-category
-0 0 0 0 0 B-category I-category I-category
+B-name I-name I-name I-name B-category I-category I-category
+B-name I-name I-name I-name I-name B-category I-category I-category
 0 0 B-name I-name I-name I-name
-B-artist I-artist I-artist 0 0 0 0 0 0 0 0 0 0
-0 0 B-artist I-artist I-artist 0 0 0 0 0 0
+B-artist I-artist I-artist B-artistRole I-artistRole 0 B-timeDescr I-timeDescr 0 B-tag I-tag B-category I-category
+0 0 B-artist I-artist I-artist B-artistRole I-artistRole 0 B-name I-name I-name
 0 0 B-name I-name I-name
 B-name I-name I-name I-name I-name I-name I-name
 B-name I-name I-name I-name
 B-name I-name I-name I-name
-B-category I-category I-category 0 0 0
+B-category I-category I-category B-name I-name I-name
 B-name I-name I-name I-name I-name
-0 0 B-category I-category
+B-tag I-tag B-category I-category
 0 0 0 B-name I-name I-name
-2 0 1 3 0 0 0 0 B-category I-category I-category
-0 0 0 B-artist I-artist 0 0 0 0 0
+B-datetime_date I-datetime_date I-datetime_date I-datetime_date I-datetime_date 0 B-tag I-tag B-category I-category I-category
+0 0 0 B-artist I-artist B-artistRole I-artistRole 0 B-category I-category
 0 0 B-name I-name I-name I-name I-name I-name I-name I-name
 0 0 0 B-name I-name I-name I-name 0
 0 0 B-name I-name
 B-name I-name I-name I-name I-name I-name
 0 0 0 B-name I-name I-name
-B-area I-area 0 0 0 0 0 0 0
+B-area I-area B-popularity I-popularity 0 B-tag I-tag B-category I-category
 B-name I-name I-name I-name I-name I-name I-name I-name I-name
 B-name I-name I-name I-name
 B-name I-name I-name
-B-artist I-artist I-artist I-artist 0 0 0 0 0 0
+B-artist I-artist I-artist I-artist 0 B-tag I-tag B-category I-category I-category
 0 B-tag I-tag I-tag I-tag
-1 3 0 0 B-category I-category
+B-datetime_date I-datetime_date I-datetime_date 0 B-category I-category
 B-name I-name I-name I-name
-2 0 1 3 0 B-artist I-artist I-artist 0 0 0 0 0 0 0 0
-0 0 B-category I-category I-category
+B-datetime_date I-datetime_date I-datetime_date I-datetime_date I-datetime_date B-artist I-artist I-artist B-artistRole I-artistRole 0 B-scoreDescr I-scoreDescr 0 B-category I-category
+B-tag I-tag B-category I-category I-category
 B-name I-name I-name I-name I-name I-name I-name
 B-name I-name I-name I-name
 B-name I-name I-name I-name
-0 0 0 0 B-category I-category
-0 0 B-episode I-episode I-episode
+B-name I-name I-name I-name B-category I-category
+B-name I-name B-episode I-episode I-episode
 B-name I-name I-name I-name I-name
-B-artist I-artist I-artist 0 0 0 0
-0 0 0 B-category I-category 0 0
+B-artist I-artist I-artist B-tag I-tag B-category I-category
+0 0 0 B-category I-category B-name I-name
 B-name I-name I-name I-name
 B-name I-name I-name I-name I-name
 0 0 0 0 0 0 B-name I-name I-name I-name I-name I-name I-name
-0 0 B-category
-0 0 B-name I-name I-name I-name 0 0 0
+B-tag I-tag B-category
+0 0 B-name I-name I-name I-name B-season I-season I-season
 B-name I-name I-name I-name I-name I-name I-name
 B-name I-name I-name I-name I-name I-name
-0 0 0 B-artist I-artist I-artist 0 0 0 0 0
+0 0 0 B-artist I-artist I-artist B-artistRole I-artistRole 0 B-category I-category
 B-name I-name I-name I-name I-name
 B-name I-name I-name I-name I-name
-0 0 0 0 B-category I-category I-category
-B-area I-area 0 0 0 0 0 0 0
-B-name I-name I-name 0 0
+B-datetime_date I-datetime_date I-datetime_date 0 B-category I-category I-category
+B-area I-area B-category I-category I-category I-category I-category B-name I-name
+B-name I-name I-name B-resolution I-resolution
 B-name I-name
-B-category I-category 0 0 0 0
-0 0 B-category I-category
-B-name I-name I-name 0 0 0
+B-category I-category B-name I-name I-name I-name
+B-tag I-tag B-category I-category
+B-name I-name I-name B-season I-season I-season
 B-name I-name I-name I-name I-name
 0 0 0 0 0 B-category I-category
 B-name I-name I-name
 B-name I-name I-name I-name
-0 0 9 0 0 0 0 0 0 0 0 B-category I-category
-0 0 0 0 0 B-episode I-episode I-episode
+0 0 B-decade I-decade I-decade I-decade B-payment I-payment 0 B-tag I-tag B-category I-category
+0 B-name I-name I-name I-name B-episode I-episode I-episode
 B-name I-name I-name I-name I-name
-0 0 0 0 0 B-category I-category 0 0 ？
+0 0 0 0 0 B-category I-category 0 0 0
 B-name I-name I-name I-name
 0 0 0 0 0 B-name I-name I-name I-name
-最 近 有 什 么 影 片 ？
+0 0 0 0 0 0 0 0
 0 0 B-name I-name I-name I-name I-name
 B-name I-name I-name
-0 B-artist I-artist 0 0 0
-0 0 B-category I-category
+0 B-artist I-artist B-tag I-tag I-tag
+B-name I-name B-category I-category
 B-name I-name I-name I-name
 0 0 0 B-category I-category
-最 近 有 什 么 好 看 电 影 了 ？
-最 近 有 什 么 好 电 影 吗 ？
+0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
 0 B-category I-category 0
 B-name I-name I-name I-name I-name
-0 B-questionWord I-questionWord I-questionWord 0 0
-0 0 0 0 0 0 B-datetime_date I-datetime_date 0 0 0 0 0 0 0
-B-datetime_date I-datetime_date 0 0 0
-0 0 B-datetime_date I-datetime_date 0 0 0 0 0
+0 B-questionWord I-questionWord I-questionWord 0 B-subfocus
+0 0 0 0 0 0 B-datetime_date I-datetime_date B-location_city I-location_city 0 0 0 0 0
+B-datetime_date I-datetime_date B-questionWord B-subfocus 0
+B-location_city I-location_city B-datetime_date I-datetime_date 0 B-subfocus I-subfocus 0 0
 B-name I-name I-name I-name
 0 0 0 0 B-name I-name 0 0 0
 0 B-name I-name I-name
@@ -2467,10 +2464,10 @@ B-name I-name I-name I-name I-name
 B-name I-name I-name I-name
 B-name I-name I-name I-name
 0 0 0 B-name I-name
-你 帮 我 打 开 网 站
+0 0 0 0 0 0 0
 0 0 B-name I-name I-name 0 0
 0 0 0 0 0 B-name I-name I-name
-打 开 互 联 网 啦
+0 0 0 0 0 0
 0 B-name I-name I-name
 B-name I-name I-name I-name I-name 0 0
 0 0 0 0 0 0 B-name I-name

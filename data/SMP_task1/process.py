@@ -17,8 +17,11 @@ with open(data_path, encoding='utf-8') as f_o, \
      open(train_out, 'w', encoding='utf-8') as f_train_out:
     data = json.load(f_o)
     for i in data:
-        patten = re.compile("[\u4E00-\u9FA5]")
-        _text = [j for j in i['text']]
+        patten = re.compile("[\u4E00-\u9FA5。，？！《》\d$()#+&*“”]")
+        patten2 = re.compile(r"\bb\b|\bA\b|\ba\b|\bc\b|\bd\b|\be\b|\bf\b|\bg\b|\bh\b|\bi\b|\bj\b|\bk\b|\bl\b|\bm\b|\bn\b|\bo\b|\bp\b|\bq\b|\br\b|\bs\b|\bt\b|\bu\b|\bv\b|\bw\b|\bs\b|\by\b|\bz\b")
+        _text = i['text'].replace(' ', '')
+        _text = _text.replace('小c', '姐姐')
+        _text = [j for j in _text]
         _text = ' '.join(_text)
         _text_origin = _text
 
@@ -44,7 +47,8 @@ with open(data_path, encoding='utf-8') as f_o, \
             _value = ' '.join(_value)
 
             _text = _text.replace(_value, _slot_value)
-            _text = re.sub(patten, '0', _text)
+        _text = re.sub(patten, '0', _text)
+        _text = re.sub(patten2, '0', _text)
 
         f_train_in.write(_text_origin + '\n')
         f_train_label.write(_intent + '\n')

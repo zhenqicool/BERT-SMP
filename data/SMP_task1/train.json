@@ -360,14 +360,6 @@
     }
   },
   {
-    "text": "糖醋鲤鱼怎么做啊？你只负责吃，c则c。",
-    "domain": "cookbook",
-    "intent": "QUERY",
-    "slots": {
-      "dishName": "糖醋鲤鱼"
-    }
-  },
-  {
     "text": "素鸡",
     "domain": "cookbook",
     "intent": "QUERY",
@@ -2281,18 +2273,6 @@
     "slots": {
       "keyword": "钓鱼岛"
     }
-  },
-  {
-    "text": "k新闻想听新闻。",
-    "domain": "news",
-    "intent": "PLAY",
-    "slots": {}
-  },
-  {
-    "text": "t我要听新闻。",
-    "domain": "news",
-    "intent": "PLAY",
-    "slots": {}
   },
   {
     "text": "盘锦新闻。",
