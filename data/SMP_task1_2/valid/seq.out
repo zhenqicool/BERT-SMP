@@ -1,0 +1,100 @@
+0 0 0 0 0 B-name I-name
+0 0 B-name I-name I-name I-name
+0 0 0 0 B-name I-name
+0 B-name I-name
+0 0 0 0 0 B-name I-name I-name I-name
+0 0 0 0 0 0 B-name I-name
+0 0 0 0 0 0 B-name I-name I-name I-name 0 0 0 0 0 0
+B-name I-name I-name I-name I-name 0 0
+0 0 0 0 B-name I-name I-name I-name
+B-name I-name I-name
+0 0 B-name I-name 0
+0 0 B-name I-name I-name I-name I-name I-name
+0 0 B-name I-name I-name I-name
+0 0 0 0 B-name I-name
+0 0 B-name I-name 0 0
+0 0 B-name I-name
+0 0 0 0 0 B-Dest I-Dest 0 0 0 。
+0 0 0 B-Dest I-Dest 0 0 0 0 0 ？
+0 B-endLoc_city I-endLoc_city 0 0 0 0 ？
+0 0 0 ， B-Dest I-Dest 0 0 0 。
+0 0 0 0 0 B-Dest I-Dest I-Dest 0 0 0 。
+0 0 0 0 0 0 0 B-Dest I-Dest 0 0 0
+0 0 0 B-Dest I-Dest 0 0 0 0 0 0 。
+0 0 0 0 B-Dest I-Dest 0 0 0 。
+可 以 帮 买 火 车 票 吗
+0 0 0 0 B-theatre I-theatre I-theatre I-theatre I-theatre I-theatre I-theatre 0 0 0 0 0 0 0
+给 我 放 一 部 最 新 的 电 影 。
+电 影 搜 索 啊 ！
+0 0 B-theatre I-theatre I-theatre I-theatre I-theatre I-theatre I-theatre 。
+最 近 热 门 的 电 影 。
+B-datetime_time I-datetime_time 0 0 0 0 0 0 0 0 0 ？
+哦 哦 ， 最 新 的 电 影 。
+离 我 最 近 的 电 影 院 。
+B-name I-name 0 0 0 0 0 0
+0 B-name I-name 0 0 0 0 0 0 0 0 0 0
+B-name I-name 0 0 0 0 0 0 0 0
+0 0 B-name I-name I-name 0 0 0
+0 B-name I-name I-name 0 0 0 0 0 0 0
+0 B-name I-name I-name 0 0 0 0 0 0 0 0
+B-name I-name I-name I-name 0 0 0 0 0 0
+0 B-name I-name 0 0 0 0 0 0 0
+0 B-name I-name I-name 0 0 0 0 0 0 0 0
+B-dishName I-dishName I-dishName I-dishName I-dishName 0 0 0
+B-dishName I-dishName I-dishName I-dishName I-dishName 0 0 0
+B-dishName I-dishName I-dishName I-dishName
+B-dishName I-dishName I-dishName I-dishName 0 0 0 0 ？ 0 0 0 0 0 ， c 0 c 。
+B-dishName I-dishName
+B-dishName I-dishName I-dishName I-dishName I-dishName I-dishName 0 0 0 ？
+0 0 0 B-ingredient I-ingredient ， 0 0 0 ？
+B-ingredient I-ingredient I-ingredient 0 0 0 ？
+B-ingredient I-ingredient 0 0 0 ？
+B-dishName I-dishName I-dishName I-dishName ， 0 0 0 ？
+0 0 B-ingredient I-ingredient 0 0 0 。
+0 B-dishName I-dishName I-dishName I-dishName I-dishName 0 0 0 0 ？
+B-dishName I-dishName I-dishName I-dishName I-dishName 0 0 0 0 ？
+0 B-dishName I-dishName I-dishName I-dishName I-dishName 0 0 0 0 0 0 ？
+0 0 0 0 0 0 B-dishName I-dishName I-dishName I-dishName 。
+0 0 0 B-dishName I-dishName I-dishName I-dishName 。
+B-dishName I-dishName I-dishName I-dishName I-dishName 0 0 0 。
+B-dishName I-dishName I-dishName 。
+0 0 B-ingredient I-ingredient 0 0 0 0 ？
+0 0 B-dishName I-dishName I-dishName I-dishName 0 0 0 0 ？
+B-dishName I-dishName I-dishName 。
+0 0 ， 0 0 0 0 B-dishName I-dishName I-dishName I-dishName 0 0 0 0 0 ？
+B-dishName I-dishName I-dishName I-dishName I-dishName 0 0 0 0 0 。
+0 0 0 0 B-dishName I-dishName I-dishName 0 0 0 。
+B-dishName I-dishName I-dishName 。
+B-dishName I-dishName I-dishName I-dishName I-dishName 0 0 0 0
+B-ingredient I-ingredient I-ingredient 0 0 0 0 0 ？
+B-dishName I-dishName I-dishName 0 0 0 0 ！
+0 0 0 0 B-dishName I-dishName 0 0 0 ？
+B-dishName I-dishName I-dishName I-dishName 0 0 0 。
+0 0 0 0 0 0 0 B-dishName I-dishName I-dishName I-dishName 。
+0 0 B-dishName I-dishName I-dishName 0 0 0 ？ 0 ， 0 。
+B-dishName I-dishName I-dishName I-dishName 0 0 0 ？
+B-dishName I-dishName I-dishName I-dishName I-dishName
+B-ingredient I-ingredient 0 0 0
+B-ingredient I-ingredient 0 0 0 。
+0 0 0 0 0 B-dishName I-dishName
+0 0 0 0 0 0 B-ingredient I-ingredient 0 0 0 ， 0 0 ？
+B-dishName I-dishName 。
+B-dishName I-dishName I-dishName I-dishName I-dishName 0 0 0 。
+0 B-dishName I-dishName I-dishName 0 0 0 ？
+B-dishName I-dishName I-dishName 0 0 0
+0 0 0 0 0 B-dishName I-dishName I-dishName 0 0 0 ？
+B-dishName I-dishName I-dishName 0 0 0 ？
+B-dishName I-dishName I-dishName 0 0 0
+B-dishName I-dishName I-dishName I-dishName I-dishName 。
+B-dishName I-dishName I-dishName I-dishName 0 0 0 。
+0 0 0 B-ingredient I-ingredient I-ingredient 0 0 0 0 0 ？
+B-dishName I-dishName 0 0 0
+0 0 B-dishName I-dishName I-dishName 0 0 0 0
+B-dishName I-dishName I-dishName 0 0 0 0 ？
+0 B-dishName I-dishName I-dishName 。
+0 0 B-dishName 0 0 0 。
+B-ingredient I-ingredient 0 0 0
+B-dishName I-dishName I-dishName I-dishName 0 0 0 ？ 0 ？
+B-dishName I-dishName I-dishName I-dishName 0 0 0 0 ！
+0 0 B-ingredient 0 0 0 ？
+0 0 ， 0 0 0 0 0 B-dishName I-dishName I-dishName I-dishName I-dishName I-dishName ， 0 0 0 0 ？

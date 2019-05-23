@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="szq@xcwill.asuscomm.com:6168">
+    <serverData>
+      <paths name="szq@xcwill.asuscomm.com:6168">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/filesNew/szq/BERT-Seq-Label-Text-Classification" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
